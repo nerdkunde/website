@@ -1,4 +1,6 @@
-website
+Website
 =======
 
-Die Webkunde Webseite
+Die Nerdkunde Webseite
+
+http://nerdkunde.de
