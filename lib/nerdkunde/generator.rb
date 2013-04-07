@@ -66,7 +66,7 @@ class Nerdkunde::Generator
   def sass_file
     template = File.read('templates/stylesheets/base.sass')
     sass_engine = Sass::Engine.new(template)
-    FileUtils.mkdir("public/stylesheets")
+    FileUtils.mkdir("public/stylesheets") unless File.exist?("public/stylesheets")
     File.open("public/stylesheets/base.css", "w") do |f|
       f.write sass_engine.render
     end
