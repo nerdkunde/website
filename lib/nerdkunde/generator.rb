@@ -28,14 +28,14 @@ class Nerdkunde::Generator
   def episode_pages
     renderer = Redcarpet::Markdown.new(Redcarpet::Render::HTML, autolink: true)
     podcast = Podcast.from_yaml("podcast.yml")
-    podcast.episodes.each_with_index do |episode, index|
+    podcast.episodes.each_with_index do |episode|
       env = OpenStruct.new(
         podcast: podcast,
         episode: episode,
         description: renderer.render(episode.summary)
       )
       c = Slim::Template.new("templates/slim/episode.slim", pretty: true).render(env)
-      File.open("public/nk#{"%04d" % index}.html", "w") do |f|
+      File.open("public/nk#{"%04d" % episode.number}.html", "w") do |f|
         f.write(layout.render {c})
       end
     end
