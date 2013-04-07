@@ -26,7 +26,7 @@ class Nerdkunde::Generator
     env = OpenStruct.new(
       podcast: Podcast.from_yaml("podcast.yml")
     )
-    c = Slim::Template.new("templates/slim/index.slim", pretty: true).render(env)
+    c = Slim::Template.new("templates/content/index.slim", pretty: true).render(env)
     File.open("public/index.html", "w") do |f|
       f.write(layout.render {c})
     end
@@ -41,7 +41,7 @@ class Nerdkunde::Generator
         episode: episode,
         description: renderer.render(episode.summary)
       )
-      c = Slim::Template.new("templates/slim/episode.slim", pretty: true).render(env)
+      c = Slim::Template.new("templates/content/episode.slim", pretty: true).render(env)
       File.open("public/nk#{"%04d" % episode.number}.html", "w") do |f|
         f.write(layout.render {c})
       end
@@ -51,7 +51,7 @@ class Nerdkunde::Generator
   def markdown_files
     renderer = Redcarpet::Markdown.new(Redcarpet::Render::HTML)
 
-    Dir.glob("templates/slim/*.markdown").each do |md|
+    Dir.glob("templates/content/*.markdown").each do |md|
       mdfile = File.open(md, "rb").read
       File.open(File.join("public", "#{File.basename(md, ".markdown")}.html"), "w") do |f|
         f.write(layout.render {renderer.render(mdfile)})
@@ -60,12 +60,13 @@ class Nerdkunde::Generator
   end
 
   def layout
-    Slim::Template.new("templates/slim/layout.slim", pretty: true)
+    Slim::Template.new("templates/content/layout.slim", pretty: true)
   end
 
   def sass_file
-    template = File.read('templates/sass/base.sass')
+    template = File.read('templates/stylesheets/base.sass')
     sass_engine = Sass::Engine.new(template)
+    FileUtils.mkdir("public/stylesheets")
     File.open("public/stylesheets/base.css", "w") do |f|
       f.write sass_engine.render
     end
