@@ -73,6 +73,6 @@ class Nerdkunde::Generator
   end
 
   def copy_images
-    FileUtils.cp_r("templates/images", "public/images")
+    FileUtils.cp_r("templates/images", "public/")
   end
 end
