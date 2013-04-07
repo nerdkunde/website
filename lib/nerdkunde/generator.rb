@@ -2,6 +2,7 @@ require 'slim'
 require 'sass'
 require 'redcarpet'
 require 'ostruct'
+require 'fileutils'
 
 require 'gst-kitchen'
 
@@ -16,6 +17,8 @@ class Nerdkunde::Generator
     markdown_files
     print "."
     sass_file
+    print "."
+    copy_images
     puts " done" 
   end
 
@@ -68,4 +71,7 @@ class Nerdkunde::Generator
     end
   end
 
+  def copy_images
+    FileUtils.cp_r("templates/images", "public/images")
+  end
 end
