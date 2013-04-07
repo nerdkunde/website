@@ -8,11 +8,15 @@ require 'gst-kitchen'
 class Nerdkunde::Generator
 
   def generate
-    puts "Generating Website"
+    print "Generating Website "
     index_page
+    print "."
     episode_pages
+    print "."
     markdown_files
+    print "."
     sass_file
+    puts " done" 
   end
 
   def index_page
