@@ -8,4 +8,6 @@ Die Nerdkunde Webseite
 
 Um die Seite zu generieren, folgendes eingeben:
 
-`thor nerdkunde:generate` 
+``` bash
+thor nerdkunde:generate
+```
