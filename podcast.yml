@@ -1,0 +1,15 @@
+---
+title: Nerdkunde
+subtitle: 
+author: Klaus, Lucas, Tobi, Bodo
+email: alle@nerdkunde.de
+language: de-de
+summary: 
+handle: NK
+website: http://nerdkunde.de
+cover: /images/cover.jpg
+media_url: http://media.nerdkunde.de/episodes
+formats:
+- :m4a_aac
+- :mp3_mp3
+rss_output_path: public/

@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    gst-kitchen (0.6.1)
+      rake
+      redcarpet
+      trollop
+      yajl-ruby
+    rake (10.0.4)
+    redcarpet (2.2.2)
+    trollop (2.0)
+    yajl-ruby (1.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  gst-kitchen
+  rake
