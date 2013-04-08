@@ -1,4 +1,14 @@
-.hello
-  p This is layout
-.wrap
-  == yield
+doctype html
+html
+  head
+    title Nerdkunde - der Podcast
+    meta name="keywords" content="nerdkunde podcast koeln"
+    link rel="stylesheet" href="stylesheets/bootstrap.css"
+    link rel="stylesheet" href="stylesheets/base.css"
+
+body
+  .container
+    == yield
+
+    .footer
+      | Footertext und so weiter und so fort

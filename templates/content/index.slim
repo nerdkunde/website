@@ -1,3 +1,24 @@
-.content
-  p Episodes: #{podcast.episodes.count}
-  p this is the index
+
+.chalkBox
+  ul.nav.nav-pills
+    li.active
+      a href="/index.html" Home
+    li
+      a href="/episodes.html" Episoden
+
+  .top-wrapper
+    .logo
+      img src="images/nerdkunde.jpg" width="150"
+    .title-wrapper
+      .title
+        h1.main Nerdkunde
+        h2.addition , die &ndash; Substantiv, feminin
+      .title-text
+        p Hallo und herzlich willkommen lorem ipsum lorem ipsum
+
+.episodes
+  h2 bisher #{podcast.episodes.count} #{podcast.episodes.count == 1 ? 'Folge' : 'Folgen'}
+  - podcast.episodes.each_with_index do |episode, index|
+    a.episode.episode-preview.well href="nk#{"%04d" % episode.number}.html"
+      h3= episode.title
+      p Hier kommt eine Beschreibung hinein
