@@ -2,54 +2,53 @@ $chalkColor: #d5d5d5
 
 body
   font-family: 'Lato', sans-serif
+  background-image: url(../images/bg.png)
 
 .container
   padding-top: 50px
 
-.chalkBox
-  padding-left: 57px
+header
+  padding: 10px
 
-.top-wrapper
-  overflow: auto
-  margin-bottom: 25px
+  .top-wrapper
+    overflow: auto
+    margin-bottom: 25px
 
-.logo, .title-wrapper
-  float: left
+    .logo, .title-wrapper
+      float: left
 
-.title-wrapper
-  margin-top: 25px
-  margin-left: 50px
+    .title-wrapper
+      margin-top: 25px
+      margin-left: 50px
+      width: 560px
 
-.title
-  .main, .addition
-    display: inline
-
-.title-text
-  margin-top: 15px
+      .title-text
+        font-size: 1.4em
+        margin-top: 15px
 
 .episodes
-  color: $chalkColor
   border-radius: 10px
-  background-image: url(../images/wood.jpg)
-  background-size: 350px
+  background-size: 800px
   background-position: 100px
   padding: 10px
   overflow: auto
 
-.episode.episode-preview
-  border: 0
-  width: 400px
-  min-height: 200px
-  float: left
-  margin-left: 10px
-  background-image: url(../images/blackboard.jpg)
-  background-size: 100% 100%
-  color: $chalkColor
+  h2
+    color: #333333
 
-  &:hover
-    -webkit-box-shadow: 0px 0px 23px rgba(255, 192, 199, 1)
-    -moz-box-shadow:    0px 0px 23px rgba(255, 192, 199, 1)
-    box-shadow:         0px 0px 23px rgba(255, 192, 199, 1)
+  .episode.episode-preview
+    border: 0
+    width: 800px
+    min-height: 200px
+    float: left
+    background-image: url(../images/blackboard.jpg)
+    background-size: 100% 100%
+    color: $chalkColor
+
+    &:hover
+      -webkit-box-shadow: 0px 0px 23px rgba(255, 192, 199, 1)
+      -moz-box-shadow:    0px 0px 23px rgba(255, 192, 199, 1)
+      box-shadow:         0px 0px 23px rgba(255, 192, 199, 1)
 
 .footer
   margin-top: 50px
