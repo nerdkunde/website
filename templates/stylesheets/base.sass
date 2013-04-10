@@ -1,13 +1,32 @@
-$chalkColor: #d5d5d5
+$chalkColor: #c7c8c3
+$blackboardColor: #323232
+$brightBlackboard: #6b6b6b
+$blue: #92bcbb
+$orange: #dc814a
+$brightOrange: #f9c07b
+$purple: #9c96bc
 
 body
   font-family: 'Lato', sans-serif
+  background: $blackboardColor
+  color: $chalkColor
+
+a, a:visited
+  color: $orange
+  &:active
+    color: $blue
+  &:hover
+    color: $brightOrange
 
 .container
-  padding-top: 50px
+  -webkit-box-shadow: 0px 0px 29px $brightBlackboard
+  -moz-box-shadow:    0px 0px 29px $brightBlackboard
+  box-shadow:         0px 0px 29px $brightBlackboard
 
 .chalkBox
-  padding-left: 57px
+  width: 940px
+  height: 570px
+  background: url(../images/nerdkunde_logo_header.jpg)
 
 .top-wrapper
   overflow: auto
@@ -28,13 +47,12 @@ body
   margin-top: 15px
 
 .episodes
-  color: $chalkColor
-  border-radius: 10px
-  background-image: url(../images/wood.jpg)
-  background-size: 350px
-  background-position: 100px
+  background: $purple
   padding: 10px
   overflow: auto
+
+.episode-count
+  color: $blackboardColor
 
 .episode.episode-preview
   border: 0
@@ -42,16 +60,19 @@ body
   min-height: 200px
   float: left
   margin-left: 10px
-  background-image: url(../images/blackboard.jpg)
-  background-size: 100% 100%
+  background: $blackboardColor
   color: $chalkColor
 
   &:hover
-    -webkit-box-shadow: 0px 0px 23px rgba(255, 192, 199, 1)
-    -moz-box-shadow:    0px 0px 23px rgba(255, 192, 199, 1)
-    box-shadow:         0px 0px 23px rgba(255, 192, 199, 1)
+    background: $brightBlackboard
+    -webkit-box-shadow: 0px 0px 29px $brightBlackboard
+    -moz-box-shadow:    0px 0px 29px $brightBlackboard
+    box-shadow:         0px 0px 29px $brightBlackboard
+    text-decoration: none !important
 
 .footer
   margin-top: 50px
-  border-top: 1px solid black
+  padding: 10px 10px 100px
+  border-top: 1px solid $orange
   font-size: 12px
+
