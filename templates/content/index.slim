@@ -1,15 +1,17 @@
 
-.top-wrapper
-  .title
-    h1.main Nerdkunde
-    h2.addition , die &ndash; Substantiv, feminin
-  .title-text
-    p Hallo und herzlich willkommen lorem ipsum lorem ipsum
-    p irgendwer muss noch einen kurzen Text schreiben, der genau hierhin kommt ;)
+.row.top-wrapper
+  .span10.offset1
+    .title
+      h1.main Nerdkunde
+      h2.addition , die &ndash; Substantiv, feminin
+    .title-text
+      p Hallo und herzlich willkommen lorem ipsum lorem ipsum
+      p irgendwer muss noch einen kurzen Text schreiben, der genau hierhin kommt ;)
 
-.episodes
-  h2.episode-count bisher #{podcast.episodes.count} #{podcast.episodes.count == 1 ? 'Folge' : 'Folgen'}
-  - podcast.episodes.each_with_index do |episode, index|
-    a.episode.episode-preview.well href="nk#{"%04d" % episode.number}.html"
-      h3= episode.title
-      p Hier kommt eine Beschreibung hinein
+.row
+  .episodes.span12
+    h2.episode-count bisher #{podcast.episodes.count} #{podcast.episodes.count == 1 ? 'Folge' : 'Folgen'}
+    - podcast.episodes.each_with_index do |episode, index|
+      a.episode.episode-preview.well.span6 href="nk#{"%04d" % episode.number}.html"
+        h3= episode.title
+        p Hier kommt eine Beschreibung hinein

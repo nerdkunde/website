@@ -39,7 +39,6 @@ a, a:visited
 
 .wrapper
   margin-top: 25px
-  margin-left: 50px
 
 .title
   .main, .addition
@@ -50,21 +49,20 @@ a, a:visited
 
 .episodes
   background: $purple
-  padding: 10px
-  margin-left: -50px
   overflow: auto
 
 .episode-count
   color: $blackboardColor
+  margin-left: 10px
 
 .episode.episode-preview
   border: 0
   width: 400px
   min-height: 200px
-  float: left
-  margin-left: 10px
   background: $blackboardColor
-  color: $chalkColor
+
+  &, &:visited
+    color: $chalkColor
 
   &:hover
     background: $brightBlackboard
