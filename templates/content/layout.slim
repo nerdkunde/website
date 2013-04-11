@@ -4,23 +4,32 @@ html
     title Nerdkunde - der Podcast
     meta name="keywords" content="nerdkunde podcast koeln"
     link href="http://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet" type="text/css"
-    link rel="stylesheet" href="stylesheets/bootstrap.css"
     link rel="stylesheet" href="stylesheets/base.css"
 
 body
   .container
-    a.chalkBox href="index.html"
-
-    .wrapper
-      .row
-        .span12
-          == yield
-
+    .row
+      .logo_box
+        a href="/"
+          img src="/images/nerdkunde_logo_small.jpg"
+      .title_box
+        .title
+          h1.main 
+            a href="/"
+              | Nerd&bull;kun&bull;de, die
+        .title-text
+          markdown:
+            Substantiv, feminin &ndash;
+            Ein Podcast &uuml;ber Nerdkultur und alles was Nerds interessiert.
+            Es sprechen vier K&ouml;lner Nerds. Siehe auch:
+            [Bodo Tasche](https://twitter.com/bitboxer),
+            [Klaus Zanders](https://twitter.com/klaustopher),
+            [Lucas Dohmen](https://twitter.com/moonbeamlabs),
+            und
+            [Tobias Eilert](https://twitter.com/l_ama).
+    == yield
     .footer
-      .pull-left
-        markdown:
-          [Impressum](https://twitter.com/jbasoo) |
-          Insanely great logo by [Liane Th&ouml;nnes](https://twitter.com/liane_thoennes) |
-          Background pattern by [James Basoo](https://twitter.com/jbasoo)
-      .pull-right
-        | Social Plugins und so
+      markdown:
+        [Impressum](/impressum.html) |
+        Insanely great logo by [Liane Th&ouml;nnes](https://twitter.com/liane_thoennes) |
+        Background pattern by [James Basoo](https://twitter.com/jbasoo)

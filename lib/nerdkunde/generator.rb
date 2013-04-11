@@ -70,7 +70,6 @@ class Nerdkunde::Generator
     File.open("public/stylesheets/base.css", "w") do |f|
       f.write sass_engine.render
     end
-    FileUtils.cp("templates/stylesheets/bootstrap.css", "public/stylesheets/")
   end
 
   def copy_images

@@ -1,5 +1,4 @@
-$containerBackground: #27302d
-$chalkColor: #c7c8c3
+$chalkColor: black
 $blackboardColor: #323232
 $brightBlackboard: #6b6b6b
 $blue: #92bcbb
@@ -20,63 +19,83 @@ a, a:visited
     color: $brightOrange
 
 .container
-  -webkit-box-shadow: 0px 0px 29px $brightBlackboard
-  -moz-box-shadow:    0px 0px 29px $brightBlackboard
-  box-shadow:         0px 0px 29px $brightBlackboard
-  background: $containerBackground
+  width: 800px
+  margin: 20px auto 20px auto
 
-.chalkBox
+.row:after
+  content: "."
   display: block
-  border: 0
-  width: 940px
-  height: 570px
-  background: url(../images/nerdkunde_logo_header.jpg)
+  height: 0
+  clear: both
+  visibility: hidden
 
-.top-wrapper
-  overflow: auto
-  margin-bottom: 25px
-
-.logo, .title-wrapper
+.logo_box
   float: left
+  width: 300px
+  img
+    -webkit-border-radius: 0.3em
+    -moz-border-radius: 0.3em
+    -ms-border-radius: 0.3em
+    -o-border-radius: 0.3em
+    border-radius: 0.3em
+    -webkit-box-shadow: rgba(0,0,0,0.15) 0 1px 4px
+    -moz-box-shadow: rgba(0,0,0,0.15) 0 1px 4px
+    box-shadow: rgba(0,0,0,0.15) 0 1px 4px
+    -webkit-box-sizing: border-box
+    -moz-box-sizing: border-box
+    box-sizing: border-box
+    border: #fff 0.5em solid
 
-.wrapper
-  margin-top: 25px
+.title_box
+  float: right
+  width: 460px
 
 .title
   .main, .addition
     display: inline
+  a
+    text-decoration: none
+    color: $chalkColor
 
 .title-text
   margin-top: 15px
   font-size: 1.2em
 
 .episodes
-  background: $purple
   overflow: auto
 
 .episode-count
   color: $blackboardColor
-  margin-left: 10px
 
 .episode.episode-preview
-  border: 0
-  width: 400px
+  float: left
+  width: 360px
+  margin-right: 40px
   min-height: 200px
-  background: $blackboardColor
+  background-color: white
+
+  -webkit-border-radius: 0.3em
+  -moz-border-radius: 0.3em
+  -ms-border-radius: 0.3em
+  -o-border-radius: 0.3em
+  border-radius: 0.3em
+  -webkit-box-shadow: rgba(0,0,0,0.15) 0 1px 4px
+  -moz-box-shadow: rgba(0,0,0,0.15) 0 1px 4px
+  box-shadow: rgba(0,0,0,0.15) 0 1px 4px
+  -webkit-box-sizing: border-box
+  -moz-box-sizing: border-box
+  box-sizing: border-box
+  border: #fff 0.5em solid
 
   &, &:visited
     color: $chalkColor
 
   &:hover
-    background: $brightBlackboard
-    -webkit-box-shadow: 0px 0px 29px $brightBlackboard
-    -moz-box-shadow:    0px 0px 29px $brightBlackboard
-    box-shadow:         0px 0px 29px $brightBlackboard
     text-decoration: none !important
 
 .footer
   margin-top: 50px
-  padding: 10px 10px 100px
-  border-top: 1px solid $orange
+  padding: 10px 20px
   font-size: 12px
+  text-align: center
 
