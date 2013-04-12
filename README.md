@@ -41,6 +41,12 @@ ausführen:
 thor nerdkunde:generate
 ```
 
+Zum deployen jetzt dann nur noch
+
+``` bash
+thor nerdkunde:deploy
+```
+
 # Podlove Player aktualisieren
 
 Sollte es notwendig werden, den Podlove Player zu aktualisieren, bitte wie folgt
