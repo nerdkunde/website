@@ -1,11 +1,25 @@
 .row
   p Wir haben für euch diverse Feeds zum abonnieren im Angebot:
   markdown:
-    * iTunes,
     * [Apple-optimiertes M4A](/episodes.m4a.rss) oder notfalls auch den
-    * [Legacy-Feed](/episdoes.mp3.rss)
+    * [Legacy-Feed](/episodes.mp3.rss)
+    * _iTunes Links kommen, sobald wir die Freigabe von Apple haben_
 
-    Feedback gerne via [@nerdkunde](http://twitter.com/nerdkunde).
+    Feedback gerne über eine dieser Kanäle:
+
+  .social_pages
+    a href="https://www.facebook.com/nerdkunde"
+      i class="icon-facebook"
+      = " Facebook"
+    a href="http://twitter.com/nerdkunde"
+      i class="icon-twitter"
+      = " Twitter"
+    a href="https://plus.google.com/113088384414496179477/posts"
+      i class="icon-google-plus"
+      = " Google+"
+    a href="http://github.com/nerdkunde"
+      i class="icon-github"
+      = " Github"
 
 .row
   .episodes
@@ -13,4 +27,6 @@
     - podcast.episodes.each_with_index do |episode, index|
       a.episode.episode-preview.well.span6 href="nk#{"%04d" % episode.number}.html"
         h3= episode.title
-        p Hier kommt eine Beschreibung hinein
+        p
+          == episode_abstract episode
+

@@ -19,7 +19,7 @@ class Nerdkunde::Generator
     print "."
     sass_file
     print "."
-    copy_images
+    copy_assets
     puts " done" 
   end
 
@@ -74,14 +74,15 @@ class Nerdkunde::Generator
 
   def sass_file
     template = File.read('templates/stylesheets/base.sass')
-    sass_engine = Sass::Engine.new(template)
+    sass_engine = Sass::Engine.new(template, load_paths: ["templates/stylesheets"])
     FileUtils.mkdir("public/stylesheets") unless File.exist?("public/stylesheets")
     File.open("public/stylesheets/base.css", "w") do |f|
       f.write sass_engine.render
     end
   end
 
-  def copy_images
+  def copy_assets
     FileUtils.cp_r("templates/images", "public/")
+    FileUtils.cp_r("templates/fonts", "public/")
   end
 end

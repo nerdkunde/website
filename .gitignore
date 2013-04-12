@@ -2,3 +2,4 @@ public/*
 
 # ignore rbenv
 .ruby-version
+.sass-cache
