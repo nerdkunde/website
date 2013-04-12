@@ -3,6 +3,7 @@ require 'sass'
 require 'redcarpet'
 require 'ostruct'
 require 'fileutils'
+require "html_truncator"
 
 require 'gst-kitchen'
 
@@ -23,9 +24,17 @@ class Nerdkunde::Generator
   end
 
   def index_page
-    env = OpenStruct.new(
-      podcast: Podcast.from_yaml("podcast.yml")
-    )
+    env = Class.new do
+      attr_accessor :podcast
+
+      def episode_abstract(episode)
+        renderer = Redcarpet::Markdown.new(Redcarpet::Render::HTML)
+        summary = renderer.render(episode.summary)
+        HTML_Truncator.truncate(summary, 30)
+      end
+    end.new
+
+    env.podcast = Podcast.from_yaml("podcast.yml")
     c = Slim::Template.new("templates/content/index.slim", pretty: true).render(env)
     File.open("public/index.html", "w") do |f|
       f.write(layout.render {c})
