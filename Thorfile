@@ -23,4 +23,9 @@ class Nerdkunde < Thor
     ::Nerdkunde::Generator.new.generate
   end
 
+  desc "Deploy", "Uploads the generated Site via RSync"
+  def deploy
+    system("rsync -avze 'ssh -p 22' --delete public/ nerdkund@apus.uberspace.de:~/html")
+  end
+
 end
