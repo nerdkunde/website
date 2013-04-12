@@ -1,6 +1,6 @@
 --- !ruby/struct:Episode
 number: 0
-name: ''
+name: 'Would you mind?'
 length: 6669
 media:
   mp3:
@@ -17,7 +17,7 @@ media:
     file_ext: json
 auphonic_uuid: wWmFgSkKdxa37BQPfQkXHf
 published_at: 2013-04-12 21:12:32.478118000 +02:00
-summary: ! "<h1 id=\"nk000-would_you_mind\">NK000 - would_you_mind?</h1>\r\n\r\n<h2
+summary: ! "<h2
   id=\"metaminutes00:00:00\">Meta Minutes (00:00:00)</h2>\r\n\r\n<ul>\r\n<li>Dank
   an das <a href=\"http://home-office-cologne.de\">Home Office Cologne</a> für Location,
   Technik und Getränke</li>\r\n<li>Dank an <a href=\"http://www.liane-thoennes.de/\">Liane</a>
