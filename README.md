@@ -40,3 +40,18 @@ ausführen:
 ``` bash
 thor nerdkunde:generate
 ```
+
+# Podlove Player aktualisieren
+
+Sollte es notwendig werden, den Podlove Player zu aktualisieren, bitte wie folgt
+vorgehen:
+
+Den Podlove Player auschecken, und zwar rekursiv, damit die Submodule auch
+ausgecheckt werden
+
+```
+git clone --recursive https://github.com/podlove/podlove-web-player.git
+```
+
+Und dann die Dateien im `templates/plugins/podlove` durch die aktuelleren
+Versionen ersetzen.
