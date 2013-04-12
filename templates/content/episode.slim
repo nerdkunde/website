@@ -13,6 +13,7 @@ audio id="episodeplayer"
 javascript:
   $('#episodeplayer').podlovewebplayer({
     title: "#{episode.title}",
+    permalink: "http://www.nerdkunde.de/nk#{"%04d" % episode.number}.html",
     chapters: #{{chapter_helper(episode)}},
     duration: '#{episode.duration}',
     alwaysShowHours: true,
