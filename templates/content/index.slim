@@ -1,15 +1,14 @@
 .row
-  .span12
-    p Wir haben für euch diverse Feeds zum abonnieren im Angebot:
-    markdown:
-      * iTunes,
-      * [Apple-optimiertes M4A](/episodes.m4a.rss) oder notfalls auch den
-      * [Legacy-Feed](/episdoes.mp3.rss)
+  p Wir haben für euch diverse Feeds zum abonnieren im Angebot:
+  markdown:
+    * iTunes,
+    * [Apple-optimiertes M4A](/episodes.m4a.rss) oder notfalls auch den
+    * [Legacy-Feed](/episdoes.mp3.rss)
 
-      Feedback gerne via [@nerdkunde](http://twitter.com/nerdkunde).
+    Feedback gerne via [@nerdkunde](http://twitter.com/nerdkunde).
 
 .row
-  .episodes.span12
+  .episodes
     h2.episode-count Bisher #{podcast.episodes.count} #{podcast.episodes.count == 1 ? 'Folge' : 'Folgen'} :
     - podcast.episodes.each_with_index do |episode, index|
       a.episode.episode-preview.well.span6 href="nk#{"%04d" % episode.number}.html"
