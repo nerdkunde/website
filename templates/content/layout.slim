@@ -6,6 +6,14 @@ html
     meta charset="utf-8"
     link href="http://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet" type="text/css"
     link rel="stylesheet" href="stylesheets/base.css"
+    javascript:
+      (function() {
+          var s = document.createElement('script'), t = document.getElementsByTagName('script')[0];
+          s.type = 'text/javascript';
+          s.async = true;
+          s.src = 'http://api.flattr.com/js/0.6/load.js?mode=auto';
+          t.parentNode.insertBefore(s, t);
+      })();
 
 body
   .container
@@ -15,7 +23,7 @@ body
           img src="/images/nerdkunde_logo_small.jpg"
       .title_box
         .title
-          h1.main 
+          h1.main
             a href="/"
               | Nerd&bull;kun&bull;de, die
         .title-text
