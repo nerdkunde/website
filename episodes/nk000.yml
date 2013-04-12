@@ -1,6 +1,6 @@
 --- !ruby/struct:Episode
 number: 0
-name: Jetzt geht's los.
+name: would_you_mind?
 length: 6669
 media:
   mp3:
@@ -17,7 +17,7 @@ media:
     file_ext: json
 auphonic_uuid: wWmFgSkKdxa37BQPfQkXHf
 published_at: 2013-04-12 22:29:11.879469000 +02:00
-summary: ! "<h1 id=\"nk000-would_you_mind\">NK000 - would_you_mind?</h1>\r\n\r\n<p>Jetzt
+summary: ! "<p>Jetzt
   geht's los. <a href=\"https://www.twitter.com/bitboxer\">Bodo</a>, <a href=\"https://www.twitter.com/klaustopher\">Klaus</a>,\r\n<a
   href=\"https://www.twitter.com/moonbeamlabs\">Lucas</a> und <a href=\"https://www.twitter.com/l_ama\">Tobi</a>
   reden in der nullten Ausgabe der Nerdkunde über ToDo Listen, Application Launcher,
