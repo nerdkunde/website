@@ -1,10 +1,28 @@
-h1 Folge #{episode.title}
-
 .flattr_box
   a.FlattrButton style="display:none;" href="http://nerdkunde.de">
   noscript
     a href="http://flattr.com/thing/1249102/Nerdkunde" target="_blank"
       img src="http://api.flattr.com/button/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0"
+
+h1 Folge #{episode.title}
+
+audio id="episodeplayer"
+  - episode.podcast.formats.each do |format|
+    source src="#{episode.podcast.episode_media_url(episode, format)}" type="#{format.mime_type}"
+
+javascript:
+  $('#episodeplayer').podlovewebplayer({
+    title: "#{episode.title}",
+    chapters: #{{chapter_helper(episode)}},
+    duration: '#{episode.duration}',
+    alwaysShowHours: true,
+    startVolume: 0.8,
+    width: 'auto',
+    summaryVisible: false,
+    timecontrolsVisible: false,
+    sharebuttonsVisible: false,
+    chaptersVisible: false
+  });
 
 .description
   == description

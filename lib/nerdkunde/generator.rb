@@ -3,8 +3,8 @@ require 'sass'
 require 'redcarpet'
 require 'ostruct'
 require 'fileutils'
-require "html_truncator"
-
+require 'html_truncator'
+require 'json'
 require 'gst-kitchen'
 
 class Nerdkunde::Generator
@@ -20,6 +20,8 @@ class Nerdkunde::Generator
     sass_file
     print "."
     copy_assets
+    print "."
+    copy_plugins
     puts " done" 
   end
 
@@ -45,11 +47,25 @@ class Nerdkunde::Generator
     renderer = Redcarpet::Markdown.new(Redcarpet::Render::HTML, autolink: true)
     podcast = Podcast.from_yaml("podcast.yml")
     podcast.episodes.each_with_index do |episode|
-      env = OpenStruct.new(
-        podcast: podcast,
-        episode: episode,
-        description: renderer.render(episode.summary)
-      )
+      env = Class.new do
+        attr_accessor :podcast, :episode, :description
+
+        def chapter_helper(episode)
+          chapters = []
+          episode.chapters.each do |c|
+            chapters << {
+              'start' => c.start,
+              'title' => c.title
+            }
+          end
+          chapters.to_json
+        end
+      end.new
+
+      env.podcast = podcast
+      env.episode = episode
+      env.description = renderer.render(episode.summary)
+
       c = Slim::Template.new("templates/content/episode.slim", pretty: true).render(env)
       File.open("public/nk#{"%04d" % episode.number}.html", "w") do |f|
         f.write(layout.render {c})
@@ -85,4 +101,18 @@ class Nerdkunde::Generator
     FileUtils.cp_r("templates/images", "public/")
     FileUtils.cp_r("templates/fonts", "public/")
   end
+
+  def copy_plugins
+    Dir.new("templates/plugins").each do |dir|
+      next if dir == "." || dir == ".."
+      path = File.join("templates/plugins", dir)
+      if File.directory? path
+        Dir.new(path).each do |d|
+          next if d == "." || d == ".."
+          FileUtils.cp_r(File.join(path, d), "public/")
+        end
+      end
+    end
+  end
+
 end
