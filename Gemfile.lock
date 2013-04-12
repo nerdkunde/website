@@ -1,11 +1,16 @@
-GEM
-  remote: https://rubygems.org/
+GIT
+  remote: https://github.com/tisba/gst-kitchen.git
+  revision: ce94bb3a5bb3e9d420a30e7e83b59199742bbbb2
   specs:
     gst-kitchen (0.6.1)
       rake
       redcarpet
       trollop
       yajl-ruby
+
+GEM
+  remote: https://rubygems.org/
+  specs:
     html_truncator (0.3.0)
       nokogiri (~> 1.4)
     nokogiri (1.5.9)
@@ -25,7 +30,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  gst-kitchen
+  gst-kitchen!
   html_truncator (~> 0.3.0)
   rake
   sass (~> 3.2.7)

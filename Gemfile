@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "rake"
-gem "gst-kitchen"
+gem "gst-kitchen", git: "https://github.com/tisba/gst-kitchen.git"
 
 # For the command line 
 gem "thor", "~> 0.18.1"
