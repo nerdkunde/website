@@ -6,25 +6,16 @@ html
     meta charset="utf-8"
     link href="http://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet" type="text/css"
     link rel="stylesheet" href="stylesheets/base.css"
-    script src='http://b.instaca.st/instacast-button.js' async="true"
     javascript:
-      (function(d, s, id) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) return;
-        js = d.createElement(s); js.id = id;
-        js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=294323594033231";
-        fjs.parentNode.insertBefore(js, fjs);
-      }(document, 'script', 'facebook-jssdk'));
       (function() {
-        var s = document.createElement('script'), t = document.getElementsByTagName('script')[0];
-        s.type = 'text/javascript';
-        s.async = true;
-        s.src = 'http://api.flattr.com/js/0.6/load.js?mode=auto';
-        t.parentNode.insertBefore(s, t);
+          var s = document.createElement('script'), t = document.getElementsByTagName('script')[0];
+          s.type = 'text/javascript';
+          s.async = true;
+          s.src = 'http://api.flattr.com/js/0.6/load.js?mode=auto';
+          t.parentNode.insertBefore(s, t);
       })();
 
 body
-  #fb-root
   .container
     .row
       .logo_box

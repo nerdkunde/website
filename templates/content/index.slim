@@ -1,5 +1,3 @@
-javascript:
-  !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
 .row
   p Wir haben für euch diverse Feeds zum abonnieren im Angebot:
   markdown:
@@ -10,14 +8,20 @@ javascript:
     Feedback gerne über eine dieser Kanäle:
 
   .social_pages
-    a href="https://alpha.app.net/nerdkunde" app.net
-    a href="https://plus.google.com/113088384414496179477/posts" Google+
-    .social_right
-      a href="https://twitter.com/nerdkunde" class="twitter-follow-button" data-show-count="false" data-lang="de" @nerdkunde folgen
-      .fb-like data-href="https://www.facebook.com/nerdkunde" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false"
-      iframe src="http://ghbtns.com/github-btn.html?user=nerdkunde&repo=website&type=watch" allowtransparency="true" frameborder="0" scrolling="0" width="62" height="20"
-      a href='http://nerdkunde.de/episodes.m4a.rss' class='instacast-button'
-      a.FlattrButton style="display:none;" rev="flattr;button:compact;" href="http://nerdkunde.de"
+    a href="https://www.facebook.com/nerdkunde"
+      i class="icon-facebook"
+      = " Facebook"
+    a href="http://twitter.com/nerdkunde"
+      i class="icon-twitter"
+      = " Twitter"
+    a href="https://plus.google.com/113088384414496179477/posts"
+      i class="icon-google-plus"
+      = " Google+"
+    a href="http://github.com/nerdkunde"
+      i class="icon-github"
+      = " Github"
+    .flattr_box
+      a.FlattrButton style="display:none;" href="http://nerdkunde.de">
       noscript
         a href="http://flattr.com/thing/1249102/Nerdkunde" target="_blank"
           img src="http://api.flattr.com/button/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0"
