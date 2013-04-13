@@ -92,7 +92,6 @@ class Nerdkunde::Generator
     template = File.read('templates/stylesheets/base.sass')
     load_paths = ["templates/stylesheets"]
     load_paths += find_in_plugins("stylesheets")
-    p load_paths
     sass_engine = Sass::Engine.new(template, load_paths: load_paths)
     FileUtils.mkdir("public/stylesheets") unless File.exist?("public/stylesheets")
     File.open("public/stylesheets/base.css", "w") do |f|
