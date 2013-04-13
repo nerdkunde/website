@@ -90,7 +90,10 @@ class Nerdkunde::Generator
 
   def sass_file
     template = File.read('templates/stylesheets/base.sass')
-    sass_engine = Sass::Engine.new(template, load_paths: ["templates/stylesheets"])
+    load_paths = ["templates/stylesheets"]
+    load_paths += find_in_plugins("stylesheets")
+    p load_paths
+    sass_engine = Sass::Engine.new(template, load_paths: load_paths)
     FileUtils.mkdir("public/stylesheets") unless File.exist?("public/stylesheets")
     File.open("public/stylesheets/base.css", "w") do |f|
       f.write sass_engine.render
@@ -99,7 +102,6 @@ class Nerdkunde::Generator
 
   def copy_assets
     FileUtils.cp_r("templates/images", "public/")
-    FileUtils.cp_r("templates/fonts", "public/")
   end
 
   def copy_plugins
@@ -113,6 +115,17 @@ class Nerdkunde::Generator
         end
       end
     end
+  end
+
+  def find_in_plugins(path)
+    paths = []
+    Dir.new("templates/plugins").each do |dir|
+      next if dir == "." || dir == ".."
+      path = File.join("templates/plugins", dir, path)
+      p path
+      paths << path if File.exist? path
+    end
+    paths
   end
 
 end
