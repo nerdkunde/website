@@ -97,6 +97,11 @@ class Nerdkunde::Generator
     File.open("public/stylesheets/base.css", "w") do |f|
       f.write sass_engine.render
     end
+
+    mobile_engine = Sass::Engine.new(File.read('templates/stylesheets/mobile.sass'))
+    File.open("public/stylesheets/mobile.css", "w") do |f|
+      f.write mobile_engine.render
+    end
   end
 
   def copy_assets
