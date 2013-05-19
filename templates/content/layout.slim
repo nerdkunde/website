@@ -1,9 +1,12 @@
 doctype html
 html
   head
-    title Nerdkunde - der Podcast
+    title="#{"#{episode.title} - " if episode}Nerdkunde - der Podcast"
     meta name="keywords" content="nerdkunde podcast koeln"
     meta charset="utf-8"
+    meta property="fb:app_id" content="294323594033231"
+    - opengraph.each do |property, value|
+      meta property="#{property}" content="#{value}"
     link href="http://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet" type="text/css"
     link rel="stylesheet" href="stylesheets/base.css"
     link rel="stylesheet" media="only screen and (max-device-width: 480px)"  href="stylesheets/mobile.css"

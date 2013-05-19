@@ -11,6 +11,12 @@ require 'gst-kitchen'
 
 class Nerdkunde::Generator
 
+  SUBTITLES = [
+      "Jetzt geht's los. Bodo, Klaus, Lucas und Tobi reden in der nullten Ausgabe der Nerdkunde über ToDo Listen, Application Launcher, Typescript, aktuelle Vim Plugins, Static Page Generatoren und viele andere Themen aus dem Bereich der Nerdwelt.",
+      "In der ersten Folge, reden die 4 Nerdkundler über's Wetter, Notizen, das digitale Testament, RSS Reader, ein Spiel in dem man Spiele herstellt und kommende und vergangene Events.",
+      "In dieser ausgeweiteten Episode unterhalten sich die 4 Nerdkundler über die Google I/O, App.net, Podcatcher, Grafiktools, Video Codecs und Spiele in Javascript, vim, FISH, hacken.in, die Scottish Ruby Conference und am Pranger steht: Android Entwicklung."
+    ]
+
   def generate
     print "Generating Website "
     index_page
@@ -29,24 +35,24 @@ class Nerdkunde::Generator
 
   def index_page
     env = Class.new do
-      attr_accessor :podcast, :episode_subtitles
-
-      def episode_abstract(episode)
-        renderer = Redcarpet::Markdown.new(Redcarpet::Render::HTML)
-        summary = renderer.render(episode.summary)
-        HTML_Truncator.truncate(summary, 30)
+      attr_accessor :podcast, :episode_subtitles, :opengraph
+      def episode
+        nil
       end
     end.new
 
     env.podcast = Podcast.from_yaml("podcast.yml")
-    env.episode_subtitles = [
-      "Jetzt geht's los. Bodo, Klaus, Lucas und Tobi reden in der nullten Ausgabe der Nerdkunde über ToDo Listen, Application Launcher, Typescript, aktuelle Vim Plugins, Static Page Generatoren und viele andere Themen aus dem Bereich der Nerdwelt.",
-      "In der ersten Folge, reden die 4 Nerdkundler über's Wetter, Notizen, das digitale Testament, RSS Reader, ein Spiel in dem man Spiele herstellt und kommende und vergangene Events.",
-      "In dieser ausgeweiteten Episode unterhalten sich die 4 Nerdkundler über die Google I/O, App.net, Podcatcher, Grafiktools, Video Codecs und Spiele in Javascript, vim, FISH, hacken.in, die Scottish Ruby Conference und am Pranger steht: Android Entwicklung."
-    ]
+    env.episode_subtitles = SUBTITLES
+    env.opengraph = {
+      "og:type"        => "website",
+      "og:url"         => "http://www.nerdkunde.de",
+      "og:title"       => "Nerdkunde - der Podcast",
+      "og:description" => "Substantiv, feminin – Ein Podcast über Nerdkultur und alles was Nerds interessiert. Es sprechen vier Kölner Nerds. Siehe auch: Bodo Tasche, Klaus Zanders, Lucas Dohmen, und Tobias Eilert.",
+      "og:image"       => "http://www.nerdkunde.de/images/nerdkunde_logo_small.jpg"
+    }
     c = Slim::Template.new("templates/content/index.slim", pretty: true).render(env)
     File.open("public/index.html", "w") do |f|
-      f.write(layout.render {c})
+      f.write(layout.render(env) {c})
     end
   end
 
@@ -55,7 +61,7 @@ class Nerdkunde::Generator
     podcast = Podcast.from_yaml("podcast.yml")
     podcast.episodes.each_with_index do |episode|
       env = Class.new do
-        attr_accessor :podcast, :episode, :description
+        attr_accessor :podcast, :episode, :description, :opengraph
 
         def chapter_helper(episode)
           chapters = []
@@ -72,10 +78,19 @@ class Nerdkunde::Generator
       env.podcast = podcast
       env.episode = episode
       env.description = renderer.render(episode.summary)
+      env.opengraph = {
+        "og:type"         => "music.song",
+        "og:description"  => SUBTITLES[episode.number],
+        "og:audio"          => podcast.episode_media_url(episode, podcast.formats.first),
+        "og:title"        => episode.title,
+        "og:image"        => "http://www.nerdkunde.de/images/nerdkunde_logo_small.jpg",
+        "og:url" => "http://www.nerdkunde.de/nk#{"%04d" % episode.number}.html",
+        "music:duration"  => episode.length
+      }
 
       c = Slim::Template.new("templates/content/episode.slim", pretty: true).render(env)
       File.open("public/nk#{"%04d" % episode.number}.html", "w") do |f|
-        f.write(layout.render {c})
+        f.write(layout.render(env) {c})
       end
     end
   end
@@ -86,7 +101,7 @@ class Nerdkunde::Generator
     Dir.glob("templates/content/*.markdown").each do |md|
       mdfile = File.open(md, "rb").read
       File.open(File.join("public", "#{File.basename(md, ".markdown")}.html"), "w") do |f|
-        f.write(layout.render {renderer.render(mdfile)})
+        f.write(layout.render(OpenStruct.new(opengraph: {})) {renderer.render(mdfile)})
       end
     end
   end
