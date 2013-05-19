@@ -1,3 +1,5 @@
+#encoding: utf-8
+
 require 'slim'
 require 'sass'
 require 'redcarpet'
@@ -22,12 +24,12 @@ class Nerdkunde::Generator
     copy_assets
     print "."
     copy_plugins
-    puts " done" 
+    puts " done"
   end
 
   def index_page
     env = Class.new do
-      attr_accessor :podcast
+      attr_accessor :podcast, :episode_subtitles
 
       def episode_abstract(episode)
         renderer = Redcarpet::Markdown.new(Redcarpet::Render::HTML)
@@ -37,6 +39,11 @@ class Nerdkunde::Generator
     end.new
 
     env.podcast = Podcast.from_yaml("podcast.yml")
+    env.episode_subtitles = [
+      "Jetzt geht's los. Bodo, Klaus, Lucas und Tobi reden in der nullten Ausgabe der Nerdkunde über ToDo Listen, Application Launcher, Typescript, aktuelle Vim Plugins, Static Page Generatoren und viele andere Themen aus dem Bereich der Nerdwelt.",
+      "In der ersten Folge, reden die 4 Nerdkundler über's Wetter, Notizen, das digitale Testament, RSS Reader, ein Spiel in dem man Spiele herstellt und kommende und vergangene Events.",
+      "In dieser ausgeweiteten Episode unterhalten sich die 4 Nerdkundler über die Google I/O, App.net, Podcatcher, Grafiktools, Video Codecs und Spiele in Javascript, vim, FISH, hacken.in, die Scottish Ruby Conference und am Pranger steht: Android Entwicklung."
+    ]
     c = Slim::Template.new("templates/content/index.slim", pretty: true).render(env)
     File.open("public/index.html", "w") do |f|
       f.write(layout.render {c})
