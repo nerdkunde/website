@@ -1,9 +1,6 @@
 --- !ruby/struct:Episode
 number: 2
-name: ! 'In dieser ausgeweiteten Episode unterhalten sich die 4 Nerdkundler über die
-  Google I/O, App.net, Podcatcher, Grafiktools, Video Codecs und Spiele in Javascript,
-  vim, FISH, hacken.in, die Scottish Ruby Conference und am Pranger steht: Android
-  Entwicklung'
+name: My little StarWars Ponies
 length: 9628
 media:
   mp3:
