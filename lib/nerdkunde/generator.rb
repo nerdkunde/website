@@ -81,10 +81,10 @@ class Nerdkunde::Generator
       env.opengraph = {
         "og:type"         => "music.song",
         "og:description"  => SUBTITLES[episode.number],
-        "og:audio"          => podcast.episode_media_url(episode, podcast.formats.first),
+        "og:audio"        => podcast.episode_media_url(episode, podcast.formats.first),
         "og:title"        => episode.title,
         "og:image"        => "http://www.nerdkunde.de/images/nerdkunde_logo_small.jpg",
-        "og:url" => "http://www.nerdkunde.de/nk#{"%04d" % episode.number}.html",
+        "og:url"          => "http://www.nerdkunde.de/nk#{"%04d" % episode.number}.html",
         "music:duration"  => episode.length
       }
 
