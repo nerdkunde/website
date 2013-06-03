@@ -14,7 +14,8 @@ class Nerdkunde::Generator
   SUBTITLES = [
       "Jetzt geht's los. Bodo, Klaus, Lucas und Tobi reden in der nullten Ausgabe der Nerdkunde über ToDo Listen, Application Launcher, Typescript, aktuelle Vim Plugins, Static Page Generatoren und viele andere Themen aus dem Bereich der Nerdwelt.",
       "In der ersten Folge, reden die 4 Nerdkundler über's Wetter, Notizen, das digitale Testament, RSS Reader, ein Spiel in dem man Spiele herstellt und kommende und vergangene Events.",
-      "In dieser ausgeweiteten Episode unterhalten sich die 4 Nerdkundler über die Google I/O, App.net, Podcatcher, Grafiktools, Video Codecs und Spiele in Javascript, vim, FISH, hacken.in, die Scottish Ruby Conference und am Pranger steht: Android Entwicklung."
+      "In dieser ausgeweiteten Episode unterhalten sich die 4 Nerdkundler über die Google I/O, App.net, Podcatcher, Grafiktools, Video Codecs und Spiele in Javascript, vim, FISH, hacken.in, die Scottish Ruby Conference und am Pranger steht: Android Entwicklung.",
+      "In dieser Folge unterhalten sich Bodo, Tobi und Klaus (ohne Lucas) über Musikgenres, Adressen, SQL Injection Suchmaschinen, Forkwälder, Doom Quellcode und zeitfressende Spiele. Am Pranger diesmal: Das Wasserfall Modell und langsame Tests."
     ]
 
   def generate
