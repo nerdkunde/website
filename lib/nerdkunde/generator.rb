@@ -17,6 +17,7 @@ class Nerdkunde::Generator
       "In dieser ausgeweiteten Episode unterhalten sich die 4 Nerdkundler über die Google I/O, App.net, Podcatcher, Grafiktools, Video Codecs und Spiele in Javascript, vim, FISH, hacken.in, die Scottish Ruby Conference und am Pranger steht: Android Entwicklung.",
       "In dieser Folge unterhalten sich Bodo, Tobi und Klaus (ohne Lucas) über Musikgenres, Adressen, SQL Injection Suchmaschinen, Forkwälder, Doom Quellcode und zeitfressende Spiele. Am Pranger diesmal: Das Wasserfall Modell und langsame Tests.",
       "Feier und Trauer. Die letzte Folge mit Bodo in Köln und gleichzeitig auch Klausens Geburtstag. Diesmal geht's um wasserdichte Gadgets, böse Ladegeräte, ScummVM und WebGL Videofilter, mal wieder Testing und Indiegames. Am Pranger stehen wir diesmal selbst.",
+      "Die erste Folge in neuer Besetzung. Heute geht es um freitägliche Internetumarmungen, Google Glass, JavaScript Aluhüte, RubyGem Tools, virtuelle Linuxe, Genderthemen in Spielen und Programmierkids. Am Pranger: Schlechte READMEs",
     ]
 
   def generate
