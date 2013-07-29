@@ -1,6 +1,7 @@
 --- !ruby/struct:Episode
 number: 3
-name: 'Wasserfälle im Forkwald'
+name: 'NK003 - Wasserfälle im Forkwald'
+subtitle: "In dieser Folge unterhalten sich Bodo, Tobi und Klaus (ohne Lucas) über Musikgenres, Adressen, SQL Injection Suchmaschinen, Forkwälder, Doom Quellcode und zeitfressende Spiele. Am Pranger diesmal: Das Wasserfall Modell und langsame Tests."
 length: 7670
 media:
   aac:

@@ -1,6 +1,7 @@
 --- !ruby/struct:Episode
 number: 1
-name: Support your local dealer!
+name: NK001 - Support your local dealer!
+subtitle: "In der ersten Folge, reden die 4 Nerdkundler über's Wetter, Notizen, das digitale Testament, RSS Reader, ein Spiel in dem man Spiele herstellt und kommende und vergangene Events."
 length: 7842
 media:
   mp3:

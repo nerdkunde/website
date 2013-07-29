@@ -1,6 +1,7 @@
 --- !ruby/struct:Episode
 number: 0
-name: would_you_mind?
+name: NK000 - would_you_mind?
+subtitle: "Jetzt geht's los. Bodo, Klaus, Lucas und Tobi reden in der nullten Ausgabe der Nerdkunde über ToDo Listen, Application Launcher, Typescript, aktuelle Vim Plugins, Static Page Generatoren und viele andere Themen aus dem Bereich der Nerdwelt."
 length: 6669
 media:
   mp3:

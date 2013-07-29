@@ -1,6 +1,7 @@
 --- !ruby/struct:Episode
 number: 5
-name: 'Essy, was geht eigentlich in Köln?'
+name: 'NK005 - Essy, was geht eigentlich in Köln?'
+subtitle: "Die erste Folge in neuer Besetzung. Heute geht es um freitägliche Internetumarmungen, Google Glass, JavaScript Aluhüte, RubyGem Tools, virtuelle Linuxe, Genderthemen in Spielen und Programmierkids. Am Pranger: Schlechte READMEs"
 length: 8044
 media:
   psc:

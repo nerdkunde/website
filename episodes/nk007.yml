@@ -1,6 +1,7 @@
 --- !ruby/struct:Episode
 number: 7
-name: Mit Dennis auf der Campferenz
+name: NK007 - Mit Dennis auf der Campferenz
+subtitle: "Die halbe Stammbesetzung fehlt, dafür ist aber Dennis dabei. Wir reden über geklaute exFAT Treiber, die Podcast Szene, 32.000.000$ Crowdfundings, den Apple Developer Hack, iOctocat, und natürlich das RailsCamp 2013, auf dem diese Folge entstanden ist."
 length: 6604
 media:
   psc:

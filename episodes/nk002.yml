@@ -1,6 +1,7 @@
 --- !ruby/struct:Episode
 number: 2
-name: My little StarWars Ponies
+name: NK002 - My little StarWars Ponies
+subtitle: "In dieser ausgeweiteten Episode unterhalten sich die 4 Nerdkundler über die Google I/O, App.net, Podcatcher, Grafiktools, Video Codecs und Spiele in Javascript, vim, FISH, hacken.in, die Scottish Ruby Conference und am Pranger steht: Android Entwicklung."
 length: 9628
 media:
   mp3:

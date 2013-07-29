@@ -1,6 +1,7 @@
 --- !ruby/struct:Episode
 number: 6
-name: 'expect(syntax).to be_controversial'
+name: 'NK006 - expect(syntax).to be_controversial'
+subtitle: "In dieser sommerlichen Folge geht's um alternative Eingabemethoden und User Interfaces, sichere Kurznachrichten und Backups, das Rails-lib-Verzeichnis, die Zukunft von RSpec, Linux 3.11 for Workgroups und die Red Frog Conf. Am Pranger: Glasdisplays."
 length: 8544
 media:
   descr:
@@ -17,7 +18,7 @@ media:
     file_ext: mp3
 auphonic_uuid: 3NwGxCWjNfo2c49WDP2rc7
 published_at: 2013-07-22 18:25:43.641240000 +02:00
-summary: "<h2 id=\"metaminutes00:00:00\">Meta Minutes (00:00:00)</h2>\r\n\r\n<ul>\r\n<li>Zu
+summary: "<p>In dieser sommerlichen Folge geht's um alternative Eingabemethoden und User Interfaces, sichere Kurznachrichten und Backups, das Rails-lib-Verzeichnis, die Zukunft von RSpec, Linux 3.11 for Workgroups und die Red Frog Conf. Am Pranger: Glasdisplays.</p><h2 id=\"metaminutes00:00:00\">Meta Minutes (00:00:00)</h2>\r\n\r\n<ul>\r\n<li>Zu
   Gast im <a href=\"http://home-office-cologne.de\">Home Office Cologne</a></li>\r\n<li>Mal
   wieder ausführliches Feedback von <a href=\"http://tfcl.de\">Dirk</a></li>\r\n<li>Danke
   an die Flatterer</li>\r\n<li>Tobi war internetlos in Österreich und ist schlecht

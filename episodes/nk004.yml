@@ -1,6 +1,7 @@
 --- !ruby/struct:Episode
 number: 4
-name: Abschied, Geburtstag und Hitze
+name: NK004 - Abschied, Geburtstag und Hitze
+subtitle: "Feier und Trauer. Die letzte Folge mit Bodo in Köln und gleichzeitig auch Klausens Geburtstag. Diesmal geht's um wasserdichte Gadgets, böse Ladegeräte, ScummVM und WebGL Videofilter, mal wieder Testing und Indiegames. Am Pranger stehen wir diesmal selbst."
 length: 7431
 media:
   psc:
@@ -17,7 +18,7 @@ media:
     file_ext: mp3
 auphonic_uuid: SPEZvkPiTt5u32EQRjouAC
 published_at: 2013-06-19 17:15:28.438698000 +02:00
-summary: "<h1>Nerdkunde - Folge 4</h1>\r\n\r\n<p>Feier und Trauer. Die letzte Folge
+summary: "<p>Feier und Trauer. Die letzte Folge
   mit Bodo in Köln und gleichzeitig auch Klausens Geburtstag. Diesmal geht&#39;s um\r\nwasserdichte
   Gadgets, böse Ladegeräte, ScummVM und WebGL Videofilter, mal wieder Testing und
   Indiegames. Am Pranger\r\nstehen wir diesmal selbst, denn der Lucas hat Kritik an
