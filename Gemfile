@@ -1,9 +1,9 @@
 source "https://rubygems.org"
 
 gem "rake"
-gem "gst-kitchen", git: "https://github.com/tisba/gst-kitchen.git"
+gem "gst-kitchen", path: ".."
 
-# For the command line 
+# For the command line
 gem "thor", "~> 0.18.1"
 
 # Asset pipeline stuff
