@@ -18,6 +18,8 @@ class Nerdkunde::Generator
       "In dieser Folge unterhalten sich Bodo, Tobi und Klaus (ohne Lucas) über Musikgenres, Adressen, SQL Injection Suchmaschinen, Forkwälder, Doom Quellcode und zeitfressende Spiele. Am Pranger diesmal: Das Wasserfall Modell und langsame Tests.",
       "Feier und Trauer. Die letzte Folge mit Bodo in Köln und gleichzeitig auch Klausens Geburtstag. Diesmal geht's um wasserdichte Gadgets, böse Ladegeräte, ScummVM und WebGL Videofilter, mal wieder Testing und Indiegames. Am Pranger stehen wir diesmal selbst.",
       "Die erste Folge in neuer Besetzung. Heute geht es um freitägliche Internetumarmungen, Google Glass, JavaScript Aluhüte, RubyGem Tools, virtuelle Linuxe, Genderthemen in Spielen und Programmierkids. Am Pranger: Schlechte READMEs",
+      "In dieser sommerlichen Folge geht's um alternative Eingabemethoden und User Interfaces, sichere Kurznachrichten und Backups, das Rails-lib-Verzeichnis, die Zukunft von RSpec, Linux 3.11 for Workgroups und die Red Frog Conf. Am Pranger: Glasdisplays.",
+      "Die halbe Stammbesetzung fehlt, dafür ist aber Dennis dabei. Wir reden über geklaute exFAT Treiber, die Podcast Szene, 32.000.000$ Crowdfundings, den Apple Developer Hack, iOctocat, und natürlich das RailsCamp 2013, auf dem diese Folge entstanden ist.",
     ]
 
   def generate
