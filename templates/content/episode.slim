@@ -6,7 +6,7 @@
 
 h1 Folge #{episode.title}
 
-audio id="episodeplayer" preload="metadata"
+audio id="episodeplayer" preload="none"
   - episode.podcast.formats.each do |format|
     source src="#{episode.podcast.episode_media_url(episode, format)}" type="#{format.mime_type}"
 
