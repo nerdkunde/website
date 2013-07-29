@@ -41,4 +41,4 @@
     - podcast.episodes.reverse.each_with_index do |episode, index|
       a.episode.episode-preview.well.span6 href="nk#{"%04d" % episode.number}.html"
         h3= episode.title
-        p= episode_subtitles[episode.number]
+        p= episode.subtitle

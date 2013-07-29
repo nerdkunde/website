@@ -11,17 +11,6 @@ require 'gst-kitchen'
 
 class Nerdkunde::Generator
 
-  SUBTITLES = [
-      "Jetzt geht's los. Bodo, Klaus, Lucas und Tobi reden in der nullten Ausgabe der Nerdkunde über ToDo Listen, Application Launcher, Typescript, aktuelle Vim Plugins, Static Page Generatoren und viele andere Themen aus dem Bereich der Nerdwelt.",
-      "In der ersten Folge, reden die 4 Nerdkundler über's Wetter, Notizen, das digitale Testament, RSS Reader, ein Spiel in dem man Spiele herstellt und kommende und vergangene Events.",
-      "In dieser ausgeweiteten Episode unterhalten sich die 4 Nerdkundler über die Google I/O, App.net, Podcatcher, Grafiktools, Video Codecs und Spiele in Javascript, vim, FISH, hacken.in, die Scottish Ruby Conference und am Pranger steht: Android Entwicklung.",
-      "In dieser Folge unterhalten sich Bodo, Tobi und Klaus (ohne Lucas) über Musikgenres, Adressen, SQL Injection Suchmaschinen, Forkwälder, Doom Quellcode und zeitfressende Spiele. Am Pranger diesmal: Das Wasserfall Modell und langsame Tests.",
-      "Feier und Trauer. Die letzte Folge mit Bodo in Köln und gleichzeitig auch Klausens Geburtstag. Diesmal geht's um wasserdichte Gadgets, böse Ladegeräte, ScummVM und WebGL Videofilter, mal wieder Testing und Indiegames. Am Pranger stehen wir diesmal selbst.",
-      "Die erste Folge in neuer Besetzung. Heute geht es um freitägliche Internetumarmungen, Google Glass, JavaScript Aluhüte, RubyGem Tools, virtuelle Linuxe, Genderthemen in Spielen und Programmierkids. Am Pranger: Schlechte READMEs",
-      "In dieser sommerlichen Folge geht's um alternative Eingabemethoden und User Interfaces, sichere Kurznachrichten und Backups, das Rails-lib-Verzeichnis, die Zukunft von RSpec, Linux 3.11 for Workgroups und die Red Frog Conf. Am Pranger: Glasdisplays.",
-      "Die halbe Stammbesetzung fehlt, dafür ist aber Dennis dabei. Wir reden über geklaute exFAT Treiber, die Podcast Szene, 32.000.000$ Crowdfundings, den Apple Developer Hack, iOctocat, und natürlich das RailsCamp 2013, auf dem diese Folge entstanden ist.",
-    ]
-
   def generate
     print "Generating Website "
     index_page
@@ -47,7 +36,6 @@ class Nerdkunde::Generator
     end.new
 
     env.podcast = Podcast.from_yaml("podcast.yml")
-    env.episode_subtitles = SUBTITLES
     env.opengraph = {
       "og:type"        => "website",
       "og:url"         => "http://www.nerdkunde.de",
@@ -85,7 +73,7 @@ class Nerdkunde::Generator
       env.description = renderer.render(episode.summary)
       env.opengraph = {
         "og:type"         => "music.song",
-        "og:description"  => SUBTITLES[episode.number],
+        "og:description"  => episode.subtitle,
         "og:audio"        => podcast.episode_media_url(episode, podcast.formats.first),
         "og:title"        => episode.title,
         "og:image"        => "http://www.nerdkunde.de/images/nerdkunde_logo_small.jpg",
