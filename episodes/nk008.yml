@@ -7,20 +7,20 @@ subtitle: Der Geekstammtisch und die Nerdkunde haben auf dem RailsCamp Germany 2
   Mal!
 length: 3775
 media:
+  opus:
+    size: 9646047
+    file_ext: opus
+  descr:
+    size: 20515
+    file_ext: json
+  mp3:
+    size: 45617796
+    file_ext: mp3
   aac:
     size: 32068781
     file_ext: m4a
-  mp3:
-    size: 45617780
-    file_ext: mp3
-  opus:
-    size: 9646043
-    file_ext: opus
-  descr:
-    size: 20509
-    file_ext: json
 auphonic_uuid: dnZkgKG9rrnz6Sjp5amfNb
-published_at: 2013-07-30 18:50:07.472991000 +02:00
+published_at: 2013-07-30 21:38:08.466382000 +02:00
 summary: "<p>Der Geekstammtisch und die Nerdkunde haben auf dem RailsCamp Germany
   2013 zusammen ein paar Impressionen der Besucher gesammelt. Wir sprachen mit @skddc,
   @jkwebs, @argorak, @badboy_, @Uepsi, @slogmen und @Hagenburger. Bis zum nächsten
@@ -83,7 +83,7 @@ summary: "<p>Der Geekstammtisch und die Nerdkunde haben auf dem RailsCamp German
   auf der <a href=\"http://www.froscon.org\">FrOSCon</a> statt</li>\r\n<li>&#8220;<a
   href=\"http://socoded.com\">So Coded</a>&#8221; findet am 19./20. September in Hamburg
   statt</li>\r\n</ul>\r\n\r\n<h3 id=\"jan-erikrediger00:32:20\">Jan-Erik Rediger (00:32:20)</h3>\r\n\r\n<ul>\r\n<li>Twitter:
-  [@badboy<em>](https://twitter.com/badboy</em>)</li>\r\n<li>Kommt von <a href=\"https://www.rrbone.net\">rrbone</a>,
+  <a href=\"https://twitter.com/badboy_\">@badboy_</a></li>\r\n<li>Kommt von <a href=\"https://www.rrbone.net\">rrbone</a>,
   die den Uplink via Richtfunk zur FH Köln realisiert haben</li>\r\n<li>rrbone ist
   ein kleiner ISP aus Dortmund</li>\r\n<li>Richtfunkstrecke ging über 1,5 km</li>\r\n<li>Der
   Ausblick war großartig ^^</li>\r\n<li>Es gab für alle Teilnehmer öffentliche IPv4
@@ -1464,4 +1464,193 @@ podcast: &1 !ruby/object:Podcast
     - !ruby/struct:Chapter
       start: '01:44:17'
       title: Cologne Chit-Chat
+    podcast: *1
+  - !ruby/struct:Episode
+    number: 8
+    name: NK008 - Geekkunde (aka GST021)
+    subtitle: Der Geekstammtisch und die Nerdkunde haben auf dem RailsCamp Germany
+      2013 zusammen ein paar Impressionen der Besucher gesammelt. Wir sprachen mit
+      @skddc, @jkwebs, @argorak, @badboy_, @Uepsi, @slogmen und @Hagenburger. Bis
+      zum nächsten Mal!
+    length: 3775
+    media:
+      aac:
+        size: 32068781
+        file_ext: m4a
+      mp3:
+        size: 45617780
+        file_ext: mp3
+      opus:
+        size: 9646043
+        file_ext: opus
+      descr:
+        size: 20509
+        file_ext: json
+    auphonic_uuid: dnZkgKG9rrnz6Sjp5amfNb
+    published_at: 2013-07-30 18:50:07.472991000 +02:00
+    summary: "<p>Der Geekstammtisch und die Nerdkunde haben auf dem RailsCamp Germany
+      2013 zusammen ein paar Impressionen der Besucher gesammelt. Wir sprachen mit
+      @skddc, @jkwebs, @argorak, @badboy_, @Uepsi, @slogmen und @Hagenburger. Bis
+      zum nächsten Mal!</p>\r\n\r\n<h3 id=\"intro00:00:00\">Intro (00:00:00)</h3>\r\n\r\n<ul>\r\n<li><a
+      href=\"http://www.geekstammtisch.de\">Geekstammtisch</a> und <a href=\"http://www.nerdkun.de\">Nerdkunde</a>
+      zusammen FTW! :)</li>\r\n<li>Wir senden &#8220;live&#8221; vom <a href=\"http://2013.railscamp.de/\">RailsCamp
+      2013</a>, daher entschuldigt die ungewohnt &#8220;schlechte&#8221; Audioqualität</li>\r\n<li>Mit
+      dabei: <a href=\"https://twitter.com/moonbeamlabs\">Lucas</a>, <a href=\"https://twitter.com/tisba\">Basti</a>,
+      <a href=\"https://twitter.com/railsbros_dirk\">Dirk</a> und <a href=\"https://twitter.com/klaustopher\">Klaus</a>
+      als hauptamtlicher Funkmikro-Träger!</li>\r\n</ul>\r\n\r\n<h3 id=\"sebastiankippe00:01:02\">Sebastian
+      Kippe (00:01:02)</h3>\r\n\r\n<ul>\r\n<li>Twitter: <a href=\"https://twitter.com/skddc\">@skddc</a></li>\r\n<li>(Mit-)Organisator
+      des RailsCamps</li>\r\n<li>es gab so circa 30 Mit-Organisatoren per <a href=\"https://github.com/railscamp/railscamp-germany-2013/issues\">GitHub
+      Issues</a></li>\r\n<li>wir fanden, die Orga lief super</li>\r\n<li>Sebastian
+      kommt gerade von der Crypto-Session mit Key Signing &amp; Co.</li>\r\n<li>Es
+      wurden 125 Tickets verkauft, es waren circa 10 nicht da und es sind ein paar
+      zusätzlich gekommen</li>\r\n<li>Sebastian&#8217;s Highlight: Punk Rock mit @TheDeadSerious
+      auflegen!</li>\r\n<li>Sport und Nerds: Es gab Opfer! 2 von 4 Leute beim BMXen
+      waren im Krankenhaus</li>\r\n</ul>\r\n\r\n<h3 id=\"jakobhilden00:07:09\">Jakob
+      Hilden (00:07:09)</h3>\r\n\r\n<ul>\r\n<li>Twitter: <a href=\"https://twitter.com/jkwebs\">@jkwebs</a></li>\r\n<li>ebenfalls
+      Organisator und vor allem Koordinator \\o/</li>\r\n<li>findet es super, wie
+      alles so zusammengekommen ist</li>\r\n<li>bei der vorletzten <a href=\"http://www.colognerb.de\">Cologne.rb</a>
+      hat Jakob tolle &#8220;Hüte&#8221; gebastelt; hat funktioniert :)</li>\r\n<li>Die
+      Idee einen Pool aufzustellen, kam leider etwas zu spät für&#8217;s RailsCamp</li>\r\n<li>Jakob&#8217;s
+      Highlight: Nico @Hagenburger&#8217;s Session zu <a href=\"https://speakerdeck.com/hagenburger/style-guide-driven-development\">Living
+      Styleguides</a></li>\r\n<li>Es gab eine tolle Feedback-Runde zu dem Living Styleguide
+      Ansatz</li>\r\n</ul>\r\n\r\n<h3 id=\"unsereimpressionenvomcamp00:12:10\">Unsere
+      Impressionen vom Camp (00:12:10)</h3>\r\n\r\n<ul>\r\n<li>Dirk fragt sich, ob
+      es eine grundsätzliche thematische Richtung auf dem Camp und wir haben nichts
+      ausgemacht</li>\r\n<li>uns war allen warm :)</li>\r\n<li>Wir haben alle nicht
+      so viele Sessions mitgemacht, sondern haben mehr an Diskussionen rundherum teilgenommen</li>\r\n<li>Lucas
+      hat den Eindruck, dass viele auf der Suche nach DEM Frontend JS Framework sind</li>\r\n<li>Wir
+      diskutieren etwas über <a href=\"http://emberjs.com\">Ember.js</a>, <a href=\"http://backbonejs.org\">Backbone.js</a>
+      und <a href=\"http://angularjs.org\">AngularJS</a></li>\r\n</ul>\r\n\r\n<h3
+      id=\"mike00:16:40\">Mike (00:16:40)</h3>\r\n\r\n<ul>\r\n<li>betreut die ganzen
+      Nerds in den AbenteuerHallenKALK: http://ahk.abenteuerhallenkalk.de/</li>\r\n<li>die
+      gute Seele des Hauses</li>\r\n<li>Mike findet die RailsCamper sind tiefen-entspannt
+      und ordentlich (hört, hört!)</li>\r\n<li>Nerds sind pflegeleichter als Jugendliche
+      \\o/</li>\r\n<li>Mike hat Chipstüten vermisst</li>\r\n<li>…und er fand unseren
+      Musikgeschmack gut</li>\r\n<li>in den Hallen finden alle möglichen Events statt\r\n\r\n<ul>\r\n<li>z.B.
+      die <a href=\"http://www.evoke.eu/2013/\">Evoke 2013</a> vom 16.&#8211;18.08.2013</li>\r\n</ul></li>\r\n<li>Evoke
+      wird das selbe Wi-Fi Setup bekommen, wie das RailsCamp</li>\r\n</ul>\r\n\r\n<h3
+      id=\"floriangilcher00:21:38\">Florian Gilcher (00:21:38)</h3>\r\n\r\n<ul>\r\n<li>Twitter:
+      <a href=\"https://twitter.com/argorak\">@argorak</a></li>\r\n<li>Hat <a href=\"http://ardrone2.parrot.com\">AR.Drohnen</a>
+      mitgebracht, weil er eine geschenkt bekommen hat ^^</li>\r\n<li>Es sollte gescripted
+      werden und nicht mit der iPhone App geflogen werden\r\n\r\n<ul>\r\n<li>Ergebnis:
+      Eine wird von einem N64-Controller gesteuert, die andere von einer <a href=\"https://github.com/skade/shoes-ardrone\">Shoes4-App</a></li>\r\n</ul></li>\r\n<li>Klaus
+      hat seine neue DrohDrohnene erstmal geschrottet</li>\r\n<li>Pro-Tipp: Drohne
+      und Client müssen im gleichen WLAN sein</li>\r\n<li>Implementierungen in Ruby
+      <a href=\"https://github.com/hybridgroup/artoo-ardrone\">artoo-ardrone</a> und
+      Node.js <a href=\"https://github.com/felixge/node-ar-drone\">node-ar-drone</a></li>\r\n<li>Florian
+      hat einen Arbeitskreis für Ruby-Events gemacht</li>\r\n<li>Wie kann man sich
+      besser vernetzen?\r\n\r\n<ul>\r\n<li>Deutschlandweite Mailingsliste</li>\r\n<li>Deutschlandweites
+      Blog</li>\r\n<li>Ruby Berlin e.V. ist trotz des Namens <em>nicht</em> auf Berlin
+      begrenzt</li>\r\n</ul></li>\r\n<li>Das Railscamp wurde vom Ruby e.V. veranstaltet</li>\r\n<li>Zentrale
+      Frage sollen einfach zu klären sein (Bsp.: Internet, WLAN, etc)</li>\r\n<li>Die
+      Telekom lässt das <a href=\"http://2013.eurucamp.org\">eurucamp</a> nicht an
+      ihr Glas m(</li>\r\n<li>Findet statt vom 16.&#8211;18. August und es gibt noch
+      Tickets</li>\r\n<li>Die einzige JRuby Konferenz dieses Jahr findet kurz vorher
+      statt: <a href=\"http://2013.jrubyconf.eu\">JRuby Conf EU</a></li>\r\n<li>Es
+      gibt keine Kombitickets für die Konferenz aber eine Kombiparty</li>\r\n<li>Am
+      24./25. August findet die <a href=\"https://ruby.froscon.org\">RedFrog Conf</a>
+      auf der <a href=\"http://www.froscon.org\">FrOSCon</a> statt</li>\r\n<li>&#8220;<a
+      href=\"http://socoded.com\">So Coded</a>&#8221; findet am 19./20. September
+      in Hamburg statt</li>\r\n</ul>\r\n\r\n<h3 id=\"jan-erikrediger00:32:20\">Jan-Erik
+      Rediger (00:32:20)</h3>\r\n\r\n<ul>\r\n<li>Twitter: [@badboy<em>](https://twitter.com/badboy</em>)</li>\r\n<li>Kommt
+      von <a href=\"https://www.rrbone.net\">rrbone</a>, die den Uplink via Richtfunk
+      zur FH Köln realisiert haben</li>\r\n<li>rrbone ist ein kleiner ISP aus Dortmund</li>\r\n<li>Richtfunkstrecke
+      ging über 1,5 km</li>\r\n<li>Der Ausblick war großartig ^^</li>\r\n<li>Es gab
+      für alle Teilnehmer öffentliche IPv4 und IPv6 Adressen</li>\r\n<li>Das Netz
+      kommt in Düsseldorf raus!!!</li>\r\n<li>Es gab ein <a href=\"http://tmp.rediger.net/railscamp-traceroute.txt\">Easteregg</a></li>\r\n<li>Bis
+      zu 100MBit sind über die Richtfunkstrecke gemessen worden \\o/</li>\r\n<li>Wir
+      können jetzt überall Campen \\o/</li>\r\n</ul>\r\n\r\n<h3 id=\"wir00:37:28\">Wir
+      (00:37:28)</h3>\r\n\r\n<ul>\r\n<li>Sport von den Panelisten: Drohne fliegen,
+      Kickern, Schwitzen</li>\r\n<li>Eine weitere Nerdkunde wurde in der Sauna mit
+      Dennis Reimann aufgenommen: http://nerdkunde.de/nk0007.html</li>\r\n<li>Und
+      ein Geekstammtisch mit Christoph @TheDeadSerious Olszowka</li>\r\n<li>Hardware
+      Hacker: Buzzer und Funky Monkey Cards</li>\r\n</ul>\r\n\r\n<h3 id=\"maxim00:38:35\">Maxim
+      (00:38:35)</h3>\r\n\r\n<ul>\r\n<li>Twitter: <a href=\"https://twitter.com/Uepsi\">@Uepsi</a></li>\r\n<li>Projekt
+      hat auf der Interactive Cologne angefangen</li>\r\n<li>Das Projekt: Mit Karte
+      einchecken und einfach zählen, wie oft jemand am Kühlschrank ist usw.</li>\r\n<li><a
+      href=\"http://www.raspberrypi.org\">Raspberry Pis</a> als Check-In Stations</li>\r\n<li>Aktuell
+      sammelt jede Station für sich, denn das Netzwerk hat nicht mitgespielt</li>\r\n<li>App
+      ist mit Rails gebaut, wer Lust hat mitzumachen: Bei Maxim melden!</li>\r\n<li>Buzzer
+      hängen sich als Tastatur an den Rechner und können RGB Farbverläufe darstellen</li>\r\n<li>Läuft
+      mit <a href=\"http://www.anykey0x.de\">AnyKey</a> – die Hacker sind aber noch
+      schwer beschäftigt</li>\r\n<li>Klaus baut seine zukünftige Eisenbahnsteuerung
+      vielleicht mit AnyKey</li>\r\n<li>Nerdifiziere alles mit Einchecken</li>\r\n<li>Alles
+      anonym, Entwickler wehren sich gegen PRISM Vorwürfe</li>\r\n<li>Github Repo:
+      <a href=\"https://github.com/StuffCard/local-service\">StuffCard local-service</a></li>\r\n</ul>\r\n\r\n<h3
+      id=\"wir00:45:43\">Wir (00:45:43)</h3>\r\n\r\n<ul>\r\n<li>Das Fleisch war super
+      (@killerg hat&#8217;s gegrillt!)</li>\r\n<li>Fleisch + Zwiebeln + Beck&#8217;s</li>\r\n</ul>\r\n\r\n<h3
+      id=\"thomasschrader00:46:20\">Thomas Schrader (00:46:20)</h3>\r\n\r\n<ul>\r\n<li>Twitter:
+      <a href=\"https://twitter.com/slogmen\">@slogmen</a></li>\r\n<li>In einem riesengroßen
+      Topf Fleisch + riesigen Mengen von Zwiebeln + Bier + Senf</li>\r\n<li>24 Stunden
+      eingelegt</li>\r\n<li>Butterzart!</li>\r\n<li>Sein erster Ruby Event</li>\r\n<li>Erst
+      seit ein paar Monaten in Köln</li>\r\n<li>Super Atmosphäre, Leute und Location</li>\r\n<li>Er
+      fand <a href=\"https://twitter.com/sippndipp\">Sebastian</a>s <a href=\"http://babushka.me\">Babuschka</a>
+      Vortrag und den Living Styleguide super</li>\r\n<li>Babuschka automatisiert
+      Server Setups</li>\r\n<li>Abhängigkeiten stehen im Vordergrund</li>\r\n<li>Keine
+      zentrale Komponente wie bei Chef oder Puppet</li>\r\n<li>Server Setups automatisieren
+      ist immer noch nicht gelöst</li>\r\n<li>Kann auch mehrere Server provisionieren</li>\r\n<li>Er
+      wird noch auf weitere Events gehen</li>\r\n</ul>\r\n\r\n<h3 id=\"wir00:51:42\">Wir
+      (00:51:42)</h3>\r\n\r\n<ul>\r\n<li>Podcast Workshop</li>\r\n<li>Einige waren
+      interessiert am Podcasten</li>\r\n<li>Es waren jede Menge <a href=\"http://railsgirls.com\">RailsGirls</a>
+      da</li>\r\n<li>Die Rails Girls treffen sich wöchentlich in kleinen Gruppen mit
+      ihrem Coach</li>\r\n<li>Am Samstag haben sich die <a href=\"https://github.com/rubymonsters\">Rubymonsters</a>
+      getroffen, um ihre Tests wieder grün zu machen\r\n\r\n<ul>\r\n<li>Sie arbeiten
+      an der Open Source Rails App <a href=\"https://github.com/rubymonsters/speakerinnen_liste\">Speakerinnen
+      Liste</a></li>\r\n<li>Das soll Speakerinnen und Konferenz Organizer zusammenbringen</li>\r\n<li>Haben
+      Git Blame gelernt</li>\r\n<li>Aber die sitzen alle im Git Workshop</li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h3
+      id=\"nicohagenburger00:55:40\">Nico Hagenburger (00:55:40)</h3>\r\n\r\n<ul>\r\n<li>Twitter:
+      <a href=\"https://twitter.com/Hagenburger\">@Hagenburger</a></li>\r\n<li>Er
+      hat einen Talk über Styleguide Driven Development gehalten: Separation von Frontend
+      und Backend</li>\r\n<li>Er macht das auch so</li>\r\n<li>GitHub Repo – er baut
+      ein Gem</li>\r\n<li>Er schreibt in Markdown seine Code Beispiele und schreibt
+      dann seinen <a href=\"http://sass-lang.com\">Sass</a> Code, und produziert statisches
+      HTML + CSS</li>\r\n<li>PHP Leute können wohl auch Sass. Aber er gibt am Liebsten
+      direkt CSS raus</li>\r\n<li><a href=\"http://alexandre-salome.fr/blog/Sass-Compass-Assetic-In-Ten-Minutes#sample-with-symfony2-sass-compass\">Sass
+      und Compass in Symfony</a></li>\r\n<li>Er muss keine Datenbank aufsetzen, die
+      Entwickler müssen kein Sass mehr kompilieren</li>\r\n<li>Es gibt eine CSS Datei,
+      in der alle Patches drin sind, und die werden dann später von Nico wieder in
+      das Sass reingezogen</li>\r\n<li>Er macht das als Freelancer</li>\r\n<li>Ihm
+      hat es super viel gebracht, da zu sein: Er hat Mitstreiter gefunden und Feedback
+      gekriegt</li>\r\n<li>Das Gem liegt auf <a href=\"http://github.com/hagenburger/livingstyleguide\">GitHub</a></li>\r\n<li>Er
+      fand es anders richtig geil: Diesmal hat er viel technisches mitgenommen</li>\r\n</ul>"
+    chapters:
+    - !ruby/struct:Chapter
+      start: '00:00:00'
+      title: Intro
+    - !ruby/struct:Chapter
+      start: '00:01:02'
+      title: Sebastian Kippe
+    - !ruby/struct:Chapter
+      start: '00:07:09'
+      title: Jakob Hilden
+    - !ruby/struct:Chapter
+      start: '00:12:10'
+      title: Unsere Impressionen vom Camp
+    - !ruby/struct:Chapter
+      start: '00:16:40'
+      title: Mike
+    - !ruby/struct:Chapter
+      start: '00:21:38'
+      title: Florian Gilcher
+    - !ruby/struct:Chapter
+      start: '00:32:20'
+      title: Jan-Erik Rediger
+    - !ruby/struct:Chapter
+      start: '00:37:28'
+      title: Wir
+    - !ruby/struct:Chapter
+      start: '00:38:35'
+      title: Maxim
+    - !ruby/struct:Chapter
+      start: '00:45:43'
+      title: Wir
+    - !ruby/struct:Chapter
+      start: '00:46:20'
+      title: Thomas Schrader
+    - !ruby/struct:Chapter
+      start: '00:51:42'
+      title: Wir
+    - !ruby/struct:Chapter
+      start: '00:55:40'
+      title: Nico Hagenburger
     podcast: *1
