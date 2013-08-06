@@ -1,6 +1,6 @@
 $LOAD_PATH.unshift File.join(File.dirname(__FILE__), 'lib')
 
-require 'gst-kitchen'
+require 'bundler/setup'
 require 'nerdkunde'
 
 class Nerdkunde < Thor
