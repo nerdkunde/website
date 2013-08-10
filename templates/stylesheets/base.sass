@@ -83,6 +83,7 @@ a, a:visited
 
 .episode.episode-preview
   display: box
+  position: relative
   float: left
   width: 360px
   height: 250px
@@ -108,7 +109,13 @@ a, a:visited
 
   &, &:visited
     color: $chalkColor
-
+  
+  .episode-date
+    font-size: 60%
+    color: $blackboardColor
+    position: absolute
+    right: 0px
+    bottom: 0px
 
 .footer
   margin-top: 50px

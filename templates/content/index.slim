@@ -42,3 +42,4 @@
       a.episode.episode-preview.well.span6 href="nk#{"%04d" % episode.number}.html"
         h3= episode.title
         p= episode.subtitle
+        div.episode-date= episode.published_at.strftime("%d.%m.%Y")
