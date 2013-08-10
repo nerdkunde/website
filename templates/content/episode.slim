@@ -13,12 +13,14 @@ audio id="episodeplayer" preload="none"
 javascript:
   $('#episodeplayer').podlovewebplayer({
     title: "#{episode.title}",
-    permalink: "http://www.nerdkunde.de/nk#{"%04d" % episode.number}.html",
+    permalink: "#{episode.podcast.deep_link_url(episode)}",
     chapters: #{{chapter_helper(episode)}},
-    duration: '#{episode.duration}',
+    duration: "#{episode.duration}",
+    downloads: #{{download_helper(episode)}},
     alwaysShowHours: true,
     startVolume: 0.8,
     width: 'auto',
+    hidedownloadbutton: false,
     summaryVisible: false,
     timecontrolsVisible: false,
     sharebuttonsVisible: false,

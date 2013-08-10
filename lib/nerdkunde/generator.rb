@@ -66,6 +66,19 @@ class Nerdkunde::Generator
           end
           chapters.to_json
         end
+
+        def download_helper(episode)
+          [].tap do |downloads|
+            episode.podcast.formats.each do |format|
+              downloads << {
+                name: "#{episode.handle} - #{format.format.upcase}",
+                size: episode.media[format.format]['size'],
+                url: episode.podcast.episode_media_url(episode, format),
+                dlurl: episode.podcast.episode_media_url(episode, format)
+              }
+            end
+          end.to_json
+        end
       end.new
 
       env.podcast = podcast
