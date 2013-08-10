@@ -1,7 +1,8 @@
 source "https://rubygems.org"
 
 gem "rake"
-gem "gst-kitchen", path: ".."
+#gem "gst-kitchen", path: ".."
+gem "gst-kitchen", github: 'nerdkunde/gst-kitchen', branch: 'nerdkunde-edition'
 
 # For the command line
 gem "thor", "~> 0.18.1"

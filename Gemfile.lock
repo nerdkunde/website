@@ -1,5 +1,7 @@
-PATH
-  remote: ..
+GIT
+  remote: git://github.com/nerdkunde/gst-kitchen.git
+  revision: 87104fefc3e36270b1e99c0b36d40157833523ec
+  branch: nerdkunde-edition
   specs:
     gst-kitchen (0.8.0)
       rake
