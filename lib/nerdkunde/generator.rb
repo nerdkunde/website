@@ -125,11 +125,11 @@ class Nerdkunde::Generator
 
   def copy_plugins
     Dir.new("templates/plugins").each do |dir|
-      next if dir == "." || dir == ".."
+      next if valid_path? dir
       path = File.join("templates/plugins", dir)
       if File.directory? path
         Dir.new(path).each do |d|
-          next if d == "." || d == ".."
+          next if valid_path? d
           FileUtils.cp_r(File.join(path, d), "public/")
         end
       end
@@ -139,12 +139,15 @@ class Nerdkunde::Generator
   def find_in_plugins(path)
     paths = []
     Dir.new("templates/plugins").each do |dir|
-      next if dir == "." || dir == ".."
+      next if valid_path? dir
       path = File.join("templates/plugins", dir, path)
-      p path
       paths << path if File.exist? path
     end
     paths
+  end
+
+  def valid_path?(path)
+    %w(. .. .DS_Store).include? path
   end
 
 end
