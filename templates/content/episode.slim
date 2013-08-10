@@ -24,8 +24,8 @@ javascript:
 
 ul.downloads.pull-right
   li
-    a class="FlattrButton" style="display:none;" title=episode.title data-flattr-uid=episode.podcast.flattr['user_id'] data-flattr-tags=episode.podcast.flattr['tags'].join(',') data-flattr-category=episode.podcast.flattr['category'] href=episode.podcast.deep_link_url(episode) rev="flattr;button:compact;"
-      Flattr this!
+    a class="FlattrButton" style="display:none;" title=episode.title data-flattr-uid=episode.podcast.flattr['user_id'] data-flattr-tags=episode.podcast.flattr['tags'].join(',') data-flattr-category=episode.podcast.flattr['category'] href=episode.podcast.deep_link_url(episode)
+      =episode.subtitle
   - episode.podcast.formats.each do |format|
     li
       i.icon-cloud-download
