@@ -1,12 +1,11 @@
 GIT
   remote: git://github.com/nerdkunde/gst-kitchen.git
-  revision: 87104fefc3e36270b1e99c0b36d40157833523ec
+  revision: c19ef3056b364807f40c61ae80017720e326157d
   branch: nerdkunde-edition
   specs:
     gst-kitchen (0.8.0)
       rake
       redcarpet
-      sanitize (~> 2.0.6)
       trollop
       yajl-ruby
 
@@ -18,8 +17,6 @@ GEM
     nokogiri (1.5.9)
     rake (10.0.4)
     redcarpet (3.0.0)
-    sanitize (2.0.6)
-      nokogiri (>= 1.4.4)
     sass (3.2.7)
     slim (1.3.6)
       temple (~> 0.5.5)
