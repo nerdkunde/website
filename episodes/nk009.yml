@@ -1,0 +1,168 @@
+--- !ruby/struct:Episode
+number: 9
+name: Let's go to the D-M-C-A
+subtitle: "Der Gästewechsel geht weiter: Diesmal reden wir mit Basti und Felix über
+  Kreuzworträtsel, Haustürschlüssel, den Ruby Warrior, Bundler und virtuelle Realitätsbrillen.
+  Am Pranger steht diesmal unsere Sicherheit, die deutsche E-Mail, Verschlüsselung."
+length: 9120
+media:
+  psc:
+    size: 712
+    file_ext: psc
+  mp3:
+    size: 109767039
+    file_ext: mp3
+  aac:
+    size: 75847087
+    file_ext: m4a
+  descr:
+    size: 21651
+    file_ext: json
+  opus:
+    size: 23179885
+    file_ext: opus
+auphonic_uuid: MudHgZuCx6SFB8Ps3bccsX
+published_at: 2013-08-12 14:40:26.375069000 +02:00
+summary: "<p>Der Gästewechsel geht weiter: Diesmal reden wir mit Basti und Felix über
+  Kreuzworträtsel, Haustürschlüssel, den Ruby Warrior, Bundler und virtuelle Realitätsbrillen.
+  Am Pranger steht diesmal unsere Sicherheit, die deutsche E-Mail, Verschlüsselung.</p>\r\n\r\n<h2
+  id=\"metaminutes00:00:00\">Meta Minutes (00:00:00)</h2>\r\n\r\n<ul>\r\n<li>Heute
+  mit Basti (<a href=\"https://www.twitter.com/tisba\">Twitter</a>, <a href=\"https://alpha.app.net/tisba\">App.net</a>,
+  <a href=\"http://geekstammtisch.de\">Geekstammtisch</a>) und Felix (<a href=\"https://twitter.com/thegcat\">Twitter</a>,
+  <a href=\"https://alpha.app.net/thegcat\">App.net</a>)</li>\r\n<li>Vielen Dank an
+  <a href=\"http://vemedio.com\">Vemedio</a> für das Featuren in <a href=\"http://instaca.st\">Instacast</a></li>\r\n<li>Errata:
+  Evoke WLAN kommt nicht vom CCC sondern von einem Sponsor. Danke an <a href=\"https://twitter.com/zakx/status/362266026492178433\">zakx</a></li>\r\n</ul>\r\n\r\n<h2
+  id=\"generalgibberish00:01:45\">General Gibberish (00:01:45)</h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://www.pcworld.com/article/2045486/microsoft-accuses-microsoft-of-copyright-infringement-asks-google-to-scrub-search-links.html\">Microsoft
+  lässt Microsoft Seiten aus dem Google Index nehmen</a>\r\n\r\n<ul>\r\n<li><a href=\"http://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act\">Digital
+  Millenium Copyright Act</a></li>\r\n<li><a href=\"https://github.com/github/dmca\">GitHub
+  DMCA Repository</a></li>\r\n<li>Felix arbeitet bei <a href=\"http://plan.io\">planio</a>,
+  dort gibt&#8217;s keine Probleme mit DMCA Takedowns</li>\r\n</ul></li>\r\n<li><a
+  href=\"http://regexcrossword.com\">Regexp Crossword</a>\r\n\r\n<ul>\r\n<li><a href=\"http://de.wikipedia.org/wiki/Sudoku\">Soduko</a></li>\r\n<li>Felix
+  hat schon vor Monaten eine <a href=\"http://www.i-programmer.info/news/144-graphics-and-games/5450-can-you-do-the-regular-expression-crossword.html\">komplexere
+  Variante bekommen</a></li>\r\n<li><a href=\"http://www.adobe.com/de/products/reader.html\">Adobe
+  Reader</a></li>\r\n<li><a href=\"https://xkcd.com/208/\">Regex XKCD, an den Basti
+  sich nicht erinnert hat</a></li>\r\n</ul></li>\r\n<li><a href=\"http://www.golem.de/news/pornwall-britischer-pornofilter-blockt-auch-andere-inhalte-1307-100651.html\">UK
+  installiert Pornwall</a>\r\n\r\n<ul>\r\n<li><a href=\"http://domainincite.com/14058-the-uk-is-going-nuts-about-porn-and-go-daddy-and-nominet-are-helping\">GoDaddy
+  macht schon mit</a></li>\r\n</ul></li>\r\n<li><a href=\"http://www.golem.de/news/freies-android-fsf-startet-spendenkampagne-fuer-replicant-1307-100641.html\">FSF
+  will freies Android starten</a>\r\n\r\n<ul>\r\n<li><a href=\"http://replicant.us/2013/07/announcing-the-free-software-foundation-fundraising-program-for-replicant\">Replicant</a></li>\r\n<li><a
+  href=\"http://www.openmoko.org\">Openmoko</a></li>\r\n<li><a href=\"http://www.heise.de/security/artikel/DES-Hack-exponiert-Millionen-SIM-Karten-1920898.html\">SIM
+  Karten Hack</a></li>\r\n<li><a href=\"http://de.wikipedia.org/wiki/Karsten_Nohl\">Karsten
+  Nohl</a></li>\r\n<li><a href=\"https://srlabs.de\">SR Labs</a></li>\r\n<li><a href=\"https://srlabs.de/sim-card-workshope-ohm2013\">OHM
+  2013 Test</a></li>\r\n<li><a href=\"http://freakshow.fm/fs115-die-blaue-maus-auf-dem-berg\">FS115
+  Die blaue Maus auf dem Berg</a></li>\r\n<li><a href=\"http://www.heise.de/newsticker/meldung/Herzschrittmacher-Hacker-Barnaby-Jack-stirbt-eine-Woche-vor-Black-Hat-Auftritt-1925016.html\">Barnaby
+  Jack stirbt eine Woche vor seinem Black Hat Talk</a></li>\r\n</ul></li>\r\n<li><a
+  href=\"https://www.keyme.net\">Haustürschlüssel im iPhone speichern</a>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://en.wikipedia.org/wiki/Lock_picking\">Lock Picking</a></li>\r\n<li><a
+  href=\"http://keysduplicated.com\">Keys Duplicated</a></li>\r\n</ul></li>\r\n<li><a
+  href=\"http://www.theverge.com/2013/8/8/4603930/youtube-missile-command-and-other-easter-eggs-geek-week\">Youtube
+  Geek Week Easter Eggs</a></li>\r\n</ul>\r\n\r\n<h2 id=\"macmaniacs00:30:20\">Mac
+  Maniacs (00:30:20)</h2>\r\n\r\n<ul>\r\n<li><a href=\"http://www.macgasm.net/2013/07/31/amazon-sticks-it-to-apples-app-store-rules-with-updated-kindle-app\">Amazon
+  umgeht Apples Regeln</a></li>\r\n<li><a href=\"http://board.protecus.de/t42771.htm#360301\">iOS
+  7 misst wie lange du dich an gewissen Punkten aufhältst</a>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://www.google.com/landing/now/\">Google Now</a></li>\r\n<li><a href=\"http://www.tu-dortmund.de\">TU
+  Dortmund</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2 id=\"rubyrelics00:38:04\">Ruby
+  Relics (00:38:04)</h2>\r\n\r\n<ul>\r\n<li><a href=\"http://www.rubyflow.com/items/9606-practicing-ruby-s-public-archives\">Practicing
+  Ruby Archiv</a>\r\n\r\n<ul>\r\n<li><a href=\"https://practicingruby.com\">Greogory
+  Brown</a></li>\r\n<li><a href=\"https://cooperpress.com\">Peter Cooper</a></li>\r\n</ul></li>\r\n<li><a
+  href=\"http://mailchimp.com\">MailChimp</a> Rant!\r\n\r\n<ul>\r\n<li><a href=\"http://customer.io\">customer.io</a></li>\r\n</ul></li>\r\n<li><a
+  href=\"https://github.com/VerbalExpressions/JSVerbalExpressions\">Verbal Expressions
+  statt Regular Expressions?</a>\r\n\r\n<ul>\r\n<li><strong>Klaus drops wisdom</strong>:
+  Parsed kein HTML und XML mit Regulären Ausdrücken</li>\r\n<li><a href=\"http://www.milliondollarhomepage.com\">Million
+  Dollar Homepage</a></li>\r\n<li><a href=\"http://www.imdb.com/title/tt1231587\">Hot
+  Tub Time Machine</a></li>\r\n</ul></li>\r\n<li>Talk Empfehlung: <a href=\"http://www.youtube.com/watch?v=4_TqAMWbzfw\">GoRuCo
+  2013 - Deathmatch Bundler vs Rubygems.org</a> by <a href=\"http://goruco.com/speakers/2013/arko-andre\">Andre
+  Arko</a>\r\n\r\n<ul>\r\n<li><a href=\"http://goruco.com\">Gotham Ruby Conference</a></li>\r\n<li><a
+  href=\"http://bundler.io\">Bundler</a></li>\r\n<li><a href=\"http://rubygems.org\">Rubygems</a></li>\r\n<li><a
+  href=\"http://vimeo.com/44028326\">EuRuKo 2012: Bundle install Y U SO SLOW</a></li>\r\n<li><a
+  href=\"https://npmjs.org\">npm</a></li>\r\n<li><a href=\"http://cocoapods.org\">CocoaPods</a></li>\r\n<li><a
+  href=\"http://brew.sh\">Homebrew</a></li>\r\n<li><a href=\"http://pkw.de\">pkw.de</a></li>\r\n<li><a
+  href=\"http://www.redmine.org\">Redmine</a></li>\r\n</ul></li>\r\n<li><a href=\"https://www.bloc.io/ruby-warrior\">Ruby
+  Warrior</a> nochmal in detailliert</li>\r\n<li><a href=\"http://mailcatcher.me\">MailCatcher</a>\r\n\r\n<ul>\r\n<li><a
+  href=\"https://github.com/ryanb/letter_opener\">letter_opener</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2
+  id=\"neckbeardnarrative01:11:39\">Neckbeard Narrative (01:11:39)</h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"https://flynn.io\">Flynn</a></li>\r\n<li><a href=\"http://zachholman.com/talk/more-git-and-github-secrets\">More
+  git &amp; github secrets</a> von <a href=\"http://zachholman.com\">Zach Holman</a>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://programmers.stackexchange.com/questions/121555/why-is-trailing-whitespace-a-big-deal\">Trailing
+  Whitespace</a></li>\r\n<li><a href=\"https://github.com/guillermooo/Vintageous\">Vintageous</a>
+  für <a href=\"http://www.sublimetext.com/3\">Sublime Text 3</a></li>\r\n<li><a href=\"http://nitrous.io\">nitrous.io</a></li>\r\n<li><a
+  href=\"http://ascii.io\">ascii.io</a></li>\r\n<li><a href=\"https://github.com/chjj/tty.js\">ttyJS</a></li>\r\n<li><a
+  href=\"http://blog.nitrous.io/2013/08/05/nitrous-stories-i-yehuda-katz-tilde-nitrousio.html\">Nitrous.IO
+  Stories - Yehuda Katz and Tilde.IO</a></li>\r\n</ul></li>\r\n<li><a href=\"https://vimeo.com/71278954\">Bret
+  Victor - The Future of Programming</a>\r\n\r\n<ul>\r\n<li><a href=\"https://www.dropbox.com/dbx\">Dropbox
+  DBX</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2 id=\"gaminggalore01:29:12\">Gaming
+  Galore (01:29:12)</h2>\r\n\r\n<ul>\r\n<li><a href=\"http://www.oculusvr.com/blog/john-carmack-joins-oculus-as-cto\">John
+  Carmack wird CTO von Oculus</a>\r\n\r\n<ul>\r\n<li><a href=\"http://www.oculusvr.com\">Oculus
+  Rift</a></li>\r\n<li><a href=\"http://www.kickstarter.com/projects/1944625487/omni-move-naturally-in-your-favorite-game\">Kickstarter:
+  Omni - Move naturally</a></li>\r\n<li><a href=\"http://www.kickstarter.com/projects/141790329/araig-as-real-as-it-gets\">Kickstarter:
+  ARAIG - As Real As It Gets</a></li>\r\n<li><a href=\"http://www.tuaw.com/2010/11/19/john-carmack-talks-about-rage-sd-and-hd-ios-and-whats-next-fo\">John
+  Carmack about Rage and iOS</a></li>\r\n<li><a href=\"https://twitter.com/id_aa_carmack/status/331918309916295168\">John
+  Carmack portiert Wolfenstein auf Haskell</a></li>\r\n<li><a href=\"http://geekstammtisch.de/#GST005\">Geekstammtisch
+  mit Oliver Jucknath</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2 id=\"conferencechit-chat01:39:50\">Conference
+  Chit-Chat (01:39:50)</h2>\r\n\r\n<ul>\r\n<li>14.08. - 15.08. <a href=\"http://hacken.in/events/333-jrubyconf/dates/2247\">jRubyConf
+  EU</a> (Klaus)</li>\r\n<li>16.08. <a href=\"http://railsgirlsberlin.de/workshops/workshop-summer-edition-2013/\">RailsGirls</a>
+  (Felix)</li>\r\n<li>16.08. - 18.08.<a href=\"http://hacken.in/events/123-eurucamp/dates/2191\">eurucamp</a>
+  (Klaus, Felix, Lucas, Bodo)</li>\r\n<li>23.08. - <a href=\"http://hacken.in/events/9-devhouse-friday/dates/2384\">DevHouseFriday
+  - Pirate Edition</a> mit Rum! (Basti)</li>\r\n<li>24.08. - 25.08. <a href=\"http://ruby.froscon.org\">RedFrogConf</a>
+  auf der <a href=\"http://hacken.in/events/10-froscon/dates/1829\">FrOSCon</a> (Klaus,
+  Lucas, Tobi, Essy, Bodo, Basti, Dirk)</li>\r\n</ul>\r\n\r\n<h2 id=\"elapsedevents01:48:17\">Elapsed
+  Events (01:48:17)</h2>\r\n\r\n<ul>\r\n<li>Lucas&#8217; Empfehlungen von der <a href=\"http://backboneconf.com\">Backbone
+  Conf</a>\r\n\r\n<ul>\r\n<li>John K. Paul – I Like my jQuery Plugins Warm and Toasty</li>\r\n<li>Pamela
+  Fox – Beyond jQuery Widgets: JS UI Library Design</li>\r\n<li>Kristofer Joseph –
+  Building Reflow</li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2 id=\"derpranger01:52:29\">Der
+  Pranger™ (01:52:29)</h2>\r\n\r\n<ul>\r\n<li>Unsere Freiheit und Sicherheit sind
+  in Gefahr\r\n\r\n<ul>\r\n<li>Nochmal <a href=\"http://threema.ch/de/\">threema</a>
+  und <a href=\"http://heml.is\">heml.is</a></li>\r\n<li><a href=\"http://xmpp.org\">XMPP</a></li>\r\n<li><a
+  href=\"http://www.cypherpunks.ca/otr\">OTR</a></li>\r\n<li><a href=\"http://jabber.ccc.de\">Jabber
+  Server des CCC</a></li>\r\n<li>Unterthema: <a href=\"http://www.geek.com/apple/vlc-for-ios-is-back-in-the-app-store-but-for-how-long-1562739\">GPL
+  im App Store? - VLC code relicensed</a></li>\r\n<li><a href=\"http://threema.ch/validation\">Validierung
+  der Threema Verschlüsselung</a></li>\r\n<li><a href=\"http://www.bild.de/digital/digitalticker/deutsche-telekom/wichtige-nachrichten-aus-computer-internet-multimedia-31761386.bild.html\">Deutsche
+  Emails sind sicher!</a></li>\r\n<li><a href=\"http://www.e-mail-made-in-germany.de\">E-Mail
+  Made in Germany</a></li>\r\n<li><a href=\"http://www.heise.de/newsticker/meldung/Gemischtes-Echo-auf-E-Mail-Made-in-Germany-1933254.html\">Reaktionen
+  darauf</a></li>\r\n<li><a href=\"http://www.heise.de/security/meldung/Windows-Dynamische-Zertifikat-Updates-gefaehrden-SSL-Verschluesselung-1925115.html\">Dynamische
+  Zertifikat-Updates bei Windows</a></li>\r\n<li><a href=\"http://de.wikipedia.org/wiki/De-Mail\">De-Mail</a></li>\r\n<li><a
+  href=\"http://de.wikipedia.org/wiki/E-Postbrief\">EPostbrief</a></li>\r\n<li><a
+  href=\"http://ccc.de/de/updates/2013/sommermaerchen\">Reaktion des CCC</a></li>\r\n<li><a
+  href=\"https://twitter.com/csch42/status/365839182351958017\">Reaktion von Clemens
+  Schrimpe</a></li>\r\n<li><a href=\"http://de.wikipedia.org/wiki/Data_Encryption_Standard\">DES</a></li>\r\n<li><a
+  href=\"http://www.cypherspace.org/adam/hacks/lotus-nsa-key.html\">NSA&#8217;s Backdoor
+  Key from Lotus-Notes</a></li>\r\n<li><a href=\"http://article.gmane.org/gmane.linux.debian.security.announce/1614\">Predictable
+  SSH Keys</a></li>\r\n<li><a href=\"http://www.theverge.com/2013/8/8/4604202/phil-zimmerman-silent-circle-shuts-down-secure-email-following-lavabit-snowden\">Lavabit
+  und Silent Mail schalten sich selber ab</a></li>\r\n<li><a href=\"http://www.bouncycastle.org\">Bouncycastle</a></li>\r\n<li><a
+  href=\"http://en.wikipedia.org/wiki/Stuxnet\">Stuxnet</a></li>\r\n<li><a href=\"http://tox.im\">Tox</a></li>\r\n<li><a
+  href=\"http://www.huffingtonpost.com/2013/08/08/nsa-snowden_n_3727668.html\">NSA
+  will ca 90% seiner Sysadmins entlassen</a></li>\r\n<li><a href=\"http://en.wikipedia.org/wiki/Skynet_(Terminator)\">Skynet</a></li>\r\n<li><a
+  href=\"http://echtlustig.com/21941/sie-duerfen-die-irrenanstalt-verlassen\">Comic:
+  &#8220;Sie hatten recht&#8221;</a></li>\r\n<li><a href=\"http://aralbalkan.com/notes/schnail-mail-free-real-mail-for-life\">Schnail
+  Mail</a></li>\r\n<li><a href=\"https://www.ssllabs.com/ssltest/index.html\">SSL
+  Labs: ssltest</a></li>\r\n<li><a href=\"https://community.qualys.com/blogs/securitylabs/2013/08/05/configuring-apache-nginx-and-openssl-for-forward-secrecy\">SSL/TLS
+  Forward Secrecy für Apache und nginx</a></li>\r\n<li><a href=\"http://crunchbang.org/forums/viewtopic.php?id=24722\">The
+  paranoid #! Security Guide</a></li>\r\n</ul></li>\r\n</ul>"
+chapters:
+- !ruby/struct:Chapter
+  start: '00:00:00'
+  title: Meta Minutes
+- !ruby/struct:Chapter
+  start: '00:01:45'
+  title: General Gibberish
+- !ruby/struct:Chapter
+  start: '00:30:20'
+  title: Mac Maniacs
+- !ruby/struct:Chapter
+  start: '00:38:04'
+  title: Ruby Relics
+- !ruby/struct:Chapter
+  start: '01:11:39'
+  title: Neckbeard Narrative
+- !ruby/struct:Chapter
+  start: '01:29:12'
+  title: Gaming Galore
+- !ruby/struct:Chapter
+  start: '01:39:50'
+  title: Conference Chit-Chat
+- !ruby/struct:Chapter
+  start: '01:48:17'
+  title: Elapsed Events
+- !ruby/struct:Chapter
+  start: '01:52:29'
+  title: Der Pranger™
