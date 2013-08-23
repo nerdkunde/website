@@ -1,0 +1,491 @@
+
+# Disclaimer, den ich manuell in die HTML Seite kopiert hab
+#     <p><h3>Info for the English speaking people!</h3>
+#     We would have loved to make a dedicated episode for you with only the English interviews. But after doing the German
+#     version, we realized that making the same episode in English would lead to the same discussions that would sound pre-scripted
+#     since we already talked about the topics in German.
+#     </p>
+#     <p>But we used chapter marks extensively. In the player above, you can navigate directly to a single chapter. We have put
+#     markers at the beginning of each interview, so feel free to jump in and listen to the amazing stuff Tom Enebo, Charles Nutter,
+#     Josh Kalderimis, Arne Brasseur, Ashe Dryden, Floor Drees and Vicent Martí have to tell you.</p>
+#     <p>We hope you still enjoy listening. And hey, if you understand some German: Give the whole podcast a try :). If you don't understand something: Just ask us, we don't bite.</p>
+
+--- !ruby/struct:Episode
+number: 11
+name: NK011 Spezial - JRubyConf.eu & eurucamp
+subtitle: Lucas und Klaus berichten vom eurucamp, der JRubyConf.eu und den Tagen davor!
+  Dabei lassen wir unsere eigenen Eindrücke einfließen, lassen aber auch einige der
+  Vortragenden zu Wort kommen. Einige Interviews dabei auch in Englisch ;)
+length: 8547
+media:
+  psc:
+    size: 3167
+    file_ext: psc
+  mp3:
+    size: 102959239
+    file_ext: mp3
+  aac:
+    size: 71225452
+    file_ext: m4a
+  descr:
+    size: 47321
+    file_ext: json
+  opus:
+    size: 21761462
+    file_ext: opus
+auphonic_uuid: Ugot3Drz5u5mfCX9N2MwVd
+published_at: 2013-08-23 22:36:56.418043000 +02:00
+summary: "<p>Lucas und Klaus berichten vom eurucamp, der JRubyConf.eu und den Tagen
+  davor! Dabei lassen wir unsere eigenen Eindrücke einfließen, lassen aber auch einige
+  der Vortragenden zu Wort kommen. Einige Interviews dabei auch in Englisch ;)</p>\r\n\r\n<h2
+  id=\"einleitung00:00:00\">Einleitung (00:00:00)</h2>\r\n\r\n<ul>\r\n<li><a href=\"http://2013.eurucamp.org\">eurucamp
+  2013</a></li>\r\n<li><a href=\"http://jrubyconf.eu\">JRubyConf.eu 2013</a></li>\r\n<li><a
+  href=\"https://twitter.com/eurucamp/status/366581356555284481\">Wie spricht man
+  eurucamp aus?</a></li>\r\n</ul>\r\n\r\n<h2 id=\"eurucampweek01:00:00\">eurucamp
+  week (01:00:00)</h2>\r\n\r\n<ul>\r\n<li>Viele Aktivitäten aus der <a href=\"http://activities.eurucamp.org\">Activities
+  App</a>\r\n\r\n<ul>\r\n<li>Anfang für Klaus: Das <a href=\"http://activities.eurucamp.org/activities/7\">RUG::B
+  Grillen</a></li>\r\n<li><a href=\"http://berlin.onruby.de\">RUG::B</a></li>\r\n<li><a
+  href=\"http://www.tempelhoferfreiheit.de\">Tempelhofer Freiheit</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2
+  id=\"jrubyconf.euintro00:05:55\">JRubyConf.eu Intro (00:05:55)</h2>\r\n\r\n<ul>\r\n<li>JRuby
+  Conf ist die einzige JRuby Konferenzin 2013</li>\r\n<li><a href=\"http://jruby.org/gsoc\">JRuby
+  Google Summer of Code</a></li>\r\n<li>JRuby wird eigentlich im <strong>CDD</strong>-Stil
+  entwickelt: Conference Driven Development, hat aber diesmal leider nicht funktioniert</li>\r\n</ul>\r\n\r\n<h2
+  id=\"interview:tomenebocharlesnutterenglish00:07:50\">Interview: Tom Enebo &amp;
+  Charles Nutter [english] (00:07:50)</h2>\r\n\r\n<ul>\r\n<li><a href=\"http://twitter.com/tom_enebo\">Tom
+  Enebo</a> worked on JRuby since 2001 and keynoted about the future and some of the
+  pain points in JRuby (startup time and native C extensions)\r\n\r\n<ul>\r\n<li>In
+  the case of C extensions they need to get together with MRI and do something different</li>\r\n<li>In
+  the case of JRuby startup time, they have some plans. But only time will tell.</li>\r\n</ul></li>\r\n<li><p><a
+  href=\"http://twitter.com/headius\">Charles Nutter</a> is also working on JRuby
+  for a long time now and keynoted about the performance improvements. Over JRuby
+  versions, but also over JVM versions.</p></li>\r\n<li>Why did they deactivate C
+  extensions?\r\n\r\n<ul>\r\n<li>It didn&#8217;t really help migrate a lot. And especially
+  no one wanted it enough to maintain it and Tom and Charles are no experts in the
+  C API. It still out there, they want to spin it off as a 3rd party lib.</li>\r\n<li>Tom:
+  &#8220;I&#8217;ve never seen so many people in one language community, that like
+  to write stuff in another language.&#8221;</li>\r\n</ul></li>\r\n<li>Is <a href=\"https://github.com/ffi/ffi\">FFI</a>
+  the way to go?\r\n\r\n<ul>\r\n<li>It solves most of the problems of binding the
+  libraries into Ruby. They need some better tooling for generating FFI code. They
+  are also exploring writing a new C api that all implementations could support.</li>\r\n<li>The
+  JRuby community has got active and big enough that when a C extension comes out,
+  there is a port to Java of it very quickly.</li>\r\n<li>The solution for something
+  like <a href=\"http://libgit2.github.com\">libgit2</a> is unfortunately to write
+  it once in C and once in Java, hopefully bundling it as one gem.</li>\r\n<li>They
+  maintain both the MRI and the JRuby version of FFI.</li>\r\n</ul></li>\r\n<li>How
+  is the communication between the Ruby implementors?\r\n\r\n<ul>\r\n<li>They are
+  trying to improve their communication with Ruby Core, especially <a href=\"http://twitter.com/tenderlove\">Aaron
+  Patterson</a> is trying to set up Ruby implementors meetings.</li>\r\n<li>They are
+  trying to be more active on the Ruby bug tracker – and MRI is listening.</li>\r\n<li>In
+  the past year the number of JRuby users is going up a lot.</li>\r\n</ul></li>\r\n<li>Are
+  more people using JRuby in production?\r\n\r\n<ul>\r\n<li>The number has increased
+  a lot.</li>\r\n<li>In the US many Ruby companies use JRuby at least for some tools.</li>\r\n<li>The
+  number of people raising their handy was &#8220;very low&#8221;</li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2
+  id=\"diskussionberdasinterview00:16:32\">Diskussion über das Interview (00:16:32)</h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"https://github.com/headius/redblack\">Red Black Tree Benchmark</a></li>\r\n<li><a
+  href=\"http://www.joda.org/joda-time\">Joda Time</a></li>\r\n<li><a href=\"http://www.timeanddate.com/calendar/julian-gregorian-switch.html\">Julianischer
+  zu Gregorianischem Kalender</a></li>\r\n<li>Lucas ist es wichtig, dass seine Libraries
+  auf JRuby funktionieren</li>\r\n<li><a href=\"https://github.com/jruby/jruby-lint\">JRuby
+  Lint</a> hilft beim Umstieg von MRI zu JRuby</li>\r\n<li><a href=\"http://www.youtube.com/watch?v=BagNfTbXn3w\">Brian
+  Ford - Towards a design process for Ruby</a> auf der RubyConf 2012</li>\r\n<li><a
+  href=\"http://bugs.ruby-lang.org/issues/show/4085\">Refinements in Ruby 2.0</a></li>\r\n</ul>\r\n\r\n<h2
+  id=\"einleitungzuminterview00:22:45\">Einleitung zum Interview (00:22:45)</h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://nerdkunde.de/nk0005.html\">NK005 mit Diskussion über den SIGINT Kids
+  Workshop</a></li>\r\n</ul>\r\n\r\n<h2 id=\"interview:tobiaspfeiffer00:23:07\">Interview:
+  Tobias Pfeiffer (00:23:07)</h2>\r\n\r\n<ul>\r\n<li><a href=\"http://twitter.com/PragTob\">Tobi</a>
+  sprach über <a href=\"http://github.com/shoes/shoes4\">Shoes 4</a></li>\r\n<li>Tobi
+  ist noch an seinem Master in Software System Engineering und Freund von Ruby und
+  Open Source.</li>\r\n<li>Er organisiert die RUG::B und coached viel bei den <a href=\"http://www.railsgirlsberlin.de\">RailsGirls</a>
+  und dem <a href=\"http://railsgirlssummerofcode.org\">RailsGirls Summer of Code</a>.</li>\r\n<li>Er
+  ist in der Shoes Community seit 2 Jahren ca. dabei. Er macht aktuell seinen Google
+  SOC für Shoes, was sein absoluter Traum ist.</li>\r\n<li>Shoes ist ein GUI Toolkit
+  für Ruby.</li>\r\n<li>Bisher eher eine C Anwendung (80% des Codes ist C). Why war
+  ein sehr berühmter Ruby Programmierer, der vor einiger Zeit verschwunden ist. Er
+  hat Shoes geschrieben, mit drei Backends (für Mac, Windows und Linux).</li>\r\n<li>Shoes
+  4 ist neugeschrieben, reines Ruby – genau genommen JRuby. Das Backend soll austauschbar
+  sein, die erste Version ist mit JRuby und SWT geschrieben.</li>\r\n<li>Shoes 4 wird
+  seit über einem Jahr entwickelt, und aktuell arbeiten zwei Leute Vollzeit daran.
+  (Paras?) Aber ist noch Pre-Alpha. Fehlen noch 4 Tickets bis zum Alpha Milestone.</li>\r\n<li>Seine
+  Präsentation war eine Shoes 4 Applikation.</li>\r\n<li><a href=\"http;//twitter.com/Argorak\">Florian</a>
+  hat eine Applikation zur Drohnensteuerung geschrieben.</li>\r\n<li>&#8220;Friedenspanzer&#8221;
+  ist eine Beispielapplikation mit Panzer, aber ohne Gegner.</li>\r\n<li>Beim Google
+  SOC war JRuby eine der Organisationen. Zwei der Slots von JRuby gingen an Shoes.
+  Sein Mentor ist derjenige, der letztes Jahr den Google SOC mit Shoes gemacht hat.</li>\r\n<li>Shoes
+  ist auch gerade dafür da, um Kindern programmieren beizubringen.</li>\r\n</ul>\r\n\r\n<h2
+  id=\"diskussionberdasinterview00:30:33\">Diskussion über das Interview (00:30:33)</h2>\r\n\r\n<ul>\r\n<li>Der
+  Gedanke von <a href=\"http://en.wikipedia.org/wiki/Why_the_lucky_stiff\">why_</a>
+  wird fortgeführt</li>\r\n<li><a href=\"https://github.com/skade/talaria\">Talaria</a></li>\r\n<li>Ein
+  schöner Anwendungsfall für JRuby</li>\r\n</ul>\r\n\r\n<h2 id=\"einleitungzuminterview00:34:35\">Einleitung
+  zum Interview (00:34:35)</h2>\r\n\r\n<ul>\r\n<li><a href=\"https://www.facebook.com/playkingsbridge\">Kingsbridge</a></li>\r\n</ul>\r\n\r\n<h2
+  id=\"interview:timlossenlukasrieder00:34:55\">Interview: Tim Lossen &amp; Lukas
+  Rieder (00:34:55)</h2>\r\n\r\n<ul>\r\n<li><a href=\"https://twitter.com/tlossen\">Tim</a>
+  sprach über Datenauswertung mit JRuby</li>\r\n<li><a href=\"https://twitter.com/overbryd\">Lukas</a>
+  über den Stateful Application Server</li>\r\n<li>Gegen eine Datenbank entschieden,
+  weil die Workload ne andere ist: Wesentlich mehr Writes als Reads – da es um Spiele
+  geht. Updates sind schneller, wenn sie In-Memory gemacht werden.</li>\r\n<li>Die
+  ersten Spieler von Wooga hatten eine Datenbank, sie merkten aber &#8220;das ist
+  es irgendwie nicht&#8221;. Hauptproblem bei Spielen ist, dass viele Leute das Spiel
+  einmal anspielen, aber nie wiederkommen. Was die Datenbank killt, ist das bei der
+  Datenbank täglich sehr viele Records hinzukommen, die nie wieder weg gehen – also
+  tote Daten.</li>\r\n<li>Nun wird pro User wird ein File angelegt, und wenn die nicht
+  mehr angefasst werden, ist es egal.</li>\r\n<li>Warum JRuby?\r\n\r\n<ul>\r\n<li>Gibt
+  keinen zwingenden Grund, er mag einfach Ruby sehr gerne. JRuby hat den Vorteil,
+  dass er die Daten zwischen vielen Threads teilen kann – in einer klassischen MRI
+  Rails Anwendung ist aber nichts geteilt zwischen den Workern – was in diesem Fall
+  natürlich nicht geht.</li>\r\n</ul></li>\r\n<li>Lukas fand die Herausforderung sehr
+  interessant, ein skalierbares System mit Ruby zu bauen.</li>\r\n<li>Bei Wooga sind
+  die Spiele unabhängig von Prähistorie. Man muss nur beweisen, dass der Plan Hand
+  und Fuß hat.</li>\r\n<li>Lucas kann sich sehr gut vorstellen, die nächste Applikation
+  wieder in JRuby zu schreiben – aber ihn reizt auch Elixir und Celluloid.</li>\r\n<li>Jedes
+  Spiel wird von einem Team (das Team der beiden besteht aus 20 Leuten) entwickelt,
+  und das Team ist auch zuständig für&#8217;s Betreiben. Ops und Entwicklung – man
+  muss beides können.</li>\r\n</ul>\r\n\r\n<h2 id=\"diskussionberdasinterview00:42:30\">Diskussion
+  über das Interview (00:42:30)</h2>\r\n\r\n<ul>\r\n<li>Lastverteilung per Modulo
+  auf die Facebook Id des Users</li>\r\n<li>Für viele ist die <a href=\"http://www.erlang.org\">Erlang
+  VM</a> mittlerweile eine Alternative</li>\r\n<li>Die <a href=\"http://elixir-lang.org\">Elixir</a>
+  Sprache macht es an vielen Stellen einfacher</li>\r\n<li>Lucas schreibt lieber <a
+  href=\"http://www.haskell.org/haskellwiki/Haskell\">Haskell</a></li>\r\n</ul>\r\n\r\n<h2
+  id=\"einleitungzukrypt00:44:45\">Einleitung zu krypt (00:44:45)</h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://twitter.com/_emboss_\">Martin Boßlet</a> sprach über <a href=\"https://github.com/emboss/krypt\">Krypt</a>
+  und einer der Maintainer der OpenSSL Extension</li>\r\n</ul>\r\n\r\n<h2 id=\"interview:martinbolet00:45:15\">Interview:
+  Martin Boßlet (00:45:15)</h2>\r\n\r\n<ul>\r\n<li>Sie wollen über lange Sicht die
+  OpenSSL Extension mit Krypt ersetzen, weil sie denken, dass es besser ist, wenn
+  man eine Auswahl hat zwischen verschiedenen Crypto Libs (OpenSSL gibt es auf Windows
+  beispielsweise nicht).</li>\r\n<li>Krypt soll aber Crypto auch einfacher machen.
+  Er sieht ein riesiges Problem bei existierenden Crypto-libs: Man hat zu viele Optionen,
+  aber eigentlich ist nur eine Handvoll sinnvoll – und die Doku ist notorisch schlecht.
+  Krypto lässt aber auch die Möglichkeit für Poweruser offen, alles zu konfigurieren.</li>\r\n<li>Ihm
+  haben bei der Auswahl zwischen Python und Ruby die Security Libs bei Ruby besser
+  gefallen. Er hat Oktober 2010 angefangen die OpenSSL Implementierung zu fixen und
+  mit Patches zu beschicken, und wurde dann zum Maintainer.</li>\r\n<li>Er ist Teil
+  des Google SOC. Kann er jedem nur empfehlen. Er war aber sehr enttäuscht von der
+  Reaktion von Profs.</li>\r\n</ul>\r\n\r\n<h2 id=\"diskussionberdasinterview00:53:13\">Diskussion
+  über das Interview (00:53:13)</h2>\r\n\r\n<ul>\r\n<li>Lucas arbeitet im &#8220;<a
+  href=\"http://www.triagens.de\">triAGENS</a> Summer of Code&#8221;</li>\r\n<li>Austauschbare
+  Backends scheinen ein &#8220;Allgemeines Ding&#8221; zu werden</li>\r\n<li><a href=\"http://rubysummerofcode.org\">Ruby
+  Summer of Code</a></li>\r\n</ul>\r\n\r\n<h2 id=\"einleitungzuminterview00:55:30\">Einleitung
+  zum Interview (00:55:30)</h2>\r\n\r\n<ul>\r\n<li><a href=\"http://travisci.org\">Travis
+  CI</a> verwendet für viele seiner internen SOA Anwendungen JRuby</li>\r\n</ul>\r\n\r\n<h2
+  id=\"interview:joshkalderimisenglish00:56:07\">Interview: Josh Kalderimis [english]
+  (00:56:07)</h2>\r\n\r\n<ul>\r\n<li><a href=\"http://twitter.com/j2h\">Josh</a> works
+  as a developer at Travis CI</li>\r\n<li>His talk was a war story about how they
+  use JRuby at Travis and issues you should be aware of when you use JRuby.</li>\r\n<li>At
+  Travis they have about 10 deployable apps in their service oriented architecture
+  – but they don&#8217;t use JRuby exclusively. MRI is used for their website for
+  example. They use JRuby for all background processing, because of concurrency and
+  libs like RabbitMQ and HotBunnies.</li>\r\n<li>He&#8217;s not a big fan of the evented
+  model and architecture – it leaves you in this area if you do anything computational,
+  you got to block everything else. He prefers to use threads. Java AMQP lib is battle
+  tested and stable – and <a href=\"https://github.com/ruby-amqp/hot_bunnies\">HotBunnies</a>
+  is a nice wrapper around it.</li>\r\n<li>JRuby got more and more stable, and is
+  now really stable for them. The problem is that small changes in one place can break
+  shit down the line. He sees a real bright future for JRuby.</li>\r\n<li>If you use
+  JRuby turn invoke dynamic off on Heroku.</li>\r\n<li>He loves Tom and Charles. He
+  talked with them about his new love for Go and goroutines, and Charles was like
+  &#8220;eh – I&#8217;m just going to build it into JRuby&#8221; – so he built <a
+  href=\"https://github.com/headius/jo\">Jo</a>.</li>\r\n<li>He still feels warm and
+  fuzzy for all the love he gets for Travis – even though he thinks Travis is nothing
+  special. For them it&#8217;s a passion, not a job. They want to make the (open source)
+  ecosystem a lot better for testing.</li>\r\n</ul>\r\n\r\n<h2 id=\"diskussionberdasinterview01:02:30\">Diskussion
+  über das Interview (01:02:30)</h2>\r\n\r\n<ul>\r\n<li>Wir mögen Joshs Bescheidenheit</li>\r\n<li>&#8220;Best
+  Tool for the Job&#8221; wird durch eine SOA begünstigt</li>\r\n</ul>\r\n\r\n<h2
+  id=\"lucasfragenzurjrubyconf01:03:15\">Lucas&#8217; Fragen zur JRubyConf (01:03:15)</h2>\r\n\r\n<ul>\r\n<li>Waren
+  es eher Leute, die Erfahrung mit JRuby haben? Oder Neugierige?</li>\r\n<li>Wie viele
+  waren da?\r\n\r\n<ul>\r\n<li>Die meisten der 80 Teilnehmer haben schon mit JRuby
+  zu tun gehabt</li>\r\n</ul></li>\r\n<li>Top 3 Talks?\r\n\r\n<ul>\r\n<li>Theo Hultberg:
+  Chasing the elephant</li>\r\n<li>Die Keynotes von Charles Nutter und Tom Enebo</li>\r\n<li>Martin
+  Mauch: JRuby and Scala - Not even a compiler can seperate us!</li>\r\n</ul></li>\r\n</ul>\r\n\r\n<p><strong>SCUBY
+  RUBY DOO!</strong></p>\r\n\r\n<ul>\r\n<li>Wie sieht&#8217;s mit <a href=\"http://torquebox.org\">TorqueBox</a>
+  aus? Ist das nun der Standard?\r\n\r\n<ul>\r\n<li>TorqueBox nimmt einem viele Sachen
+  bei der Infrastruktur ab (Crons, Hintergrundaktivitäten)</li>\r\n<li>Automatisches
+  Clustering</li>\r\n</ul></li>\r\n<li>Wann ist JRuby zu Ruby 2.0 ready?\r\n\r\n<ul>\r\n<li>Nächste
+  JRuby Version wird 9000!</li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2 id=\"eurucampintro01:09:59\">eurucamp
+  Intro (01:09:59)</h2>\r\n\r\n<ul>\r\n<li>Anfang mit Workshops</li>\r\n<li>RailsGirls
+  Workshop</li>\r\n<li><a href=\"https://github.com/rom-rb\">Ruby Object Mapper</a>
+  Style Development\r\n\r\n<ul>\r\n<li><a href=\"https://en.wikipedia.org/wiki/Active_record_pattern\">Active
+  Record Pattern</a></li>\r\n<li><a href=\"http://en.wikipdia.org/wiki/Data_mapper_pattern\">Datamapper
+  Pattern</a></li>\r\n</ul></li>\r\n<li><a href=\"http://emberjs.org\">Ember.js</a>
+  Workshop</li>\r\n<li><a href=\"https://rvm.io\">RVM</a> Workshop</li>\r\n<li><a
+  href=\"http://www.rubymotion.com\">RubyMotion</a> Workshop</li>\r\n</ul>\r\n\r\n<h2
+  id=\"keynotevonjosephwilkersterabend01:15:08\">Keynote von Joseph Wilk &amp; erster
+  Abend (01:15:08)</h2>\r\n\r\n<ul>\r\n<li><a href=\"http://overtone.github.io\">Overtone</a></li>\r\n<li><a
+  href=\"http://de.wikipedia.org/wiki/Maschinelles_Lernen\">Maschinelles Lernen</a></li>\r\n<li><a
+  href=\"http://de.wikipedia.org/wiki/Haiku\">Haiku</a></li>\r\n</ul>\r\n\r\n<h2 id=\"einleitungzuminterview01:20:08\">Einleitung
+  zum Interview (01:20:08)</h2>\r\n\r\n<ul>\r\n<li>Wir lassen Arne das Thema selber
+  vorstellen ;)</li>\r\n</ul>\r\n\r\n<h2 id=\"interview:arnebrasseurenglish01:20:29\">Interview:
+  Arne Brasseur [english] (01:20:29)</h2>\r\n\r\n<ul>\r\n<li><a href=\"http://twitter.com/plexus\">Arne</a>
+  is a web developer from Belgium</li>\r\n<li>Talk about &#8220;Weblinguistics&#8221;
+  – Generating HTML through Syntax Trees rather than Strings</li>\r\n<li>He works
+  on <a href=\"https://github.com/plexus/hexp\">Hexp</a></li>\r\n<li>Because of security
+  (XSS for example), but also it is a higher level of abstraction and gives you the
+  possibility of reuse</li>\r\n<li>The transition to Rails 3 with HTML Safe was a
+  huge amount of work, which partly inspired this project</li>\r\n<li>And also the
+  vulnerabilities of Rails last winter was inspiration</li>\r\n<li>We use ASTs when
+  using SQL, but why not do the same with HTML?</li>\r\n<li>Haml has already some
+  of the benefits of this approach, because it always puts out valid HTML. But internally
+  its still a dumb String system.</li>\r\n<li>When Hexp gets a bigger ecosystem, there
+  could be a lot of reuse of components for example</li>\r\n<li>His presentation was
+  rendered by Hexp</li>\r\n<li>Hexp is not production ready meaning that Hexp is a
+  low-level thing that is only the foundation and can be used as a foundation and
+  performance needs to be addressed, for example it uses Nokogiri – which is slow
+  for HTML generation.</li>\r\n<li>He really likes the camp and all the nice Ruby
+  people. And he&#8217;s relaxed now after giving his talk.</li>\r\n<li>He didn&#8217;t
+  attend any workshops, because he was a coach for Railsgirls</li>\r\n<li>He really
+  wanted to attend the &#8220;ROM-style development&#8221; workshop, but couldn&#8217;t.</li>\r\n<li>He&#8217;s
+  one of the coaches for the Ruby Monsters – and he really enjoys it every week.</li>\r\n</ul>\r\n\r\n<h2
+  id=\"diskussionberdasinterview01:30:11\">Diskussion über das Interview (01:30:11)</h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://media.ccc.de/browse/congress/2011/28c3-4763-en-the_science_of_insecurity.html\">The
+  Science of Insecurity</a></li>\r\n</ul>\r\n\r\n<h2 id=\"einleitungzuminterview01:31:18\">Einleitung
+  zum Interview (01:31:18)</h2>\r\n\r\n<ul>\r\n<li>Diversity ist ein stetig aktuelles
+  Thema in der Tech Community</li>\r\n<li>Ashe hat auch den Ton für die Konferenz
+  gesetzt</li>\r\n<li>Diversity war ein wichtiges Thema auf der Konferenz</li>\r\n</ul>\r\n\r\n<h2
+  id=\"interview:ashedrydenenglish01:32:05\">Interview: Ashe Dryden [english] (01:32:05)</h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://twitter.com/ashedryden\">Ashe</a> is a Ruby Programmer from the US</li>\r\n<li>Talked
+  about Diversity and how it affects everybody and what we can do to fix it?</li>\r\n<li>Are
+  we getting better? Yes, she thinks so: Awareness has been raised, Conferences have
+  things like Code of Conduct, people are more aware of the issues and start to be
+  more inclusive</li>\r\n<li>More woman at eurucamp: Due to Railsgirls, but also due
+  to activity by the community as a whole – because a safer space is provided and
+  more diverse speakers, which can be role models.</li>\r\n<li>More female speakers
+  help getting more female attendees, because they feel like they are equally represented
+  and appreciated in the community.</li>\r\n<li>This was her first Rails Girls, but
+  she already did Rails Bridge and other workshops like it.</li>\r\n<li>Backlash from
+  women about the clishees at Rails Girls: She understands that. But the ultimate
+  message of RailsGirls is creating a safe space to learn and ask questions, and not
+  feeling uncomfortable or stupid is extremely important. In her opinion, all the
+  positive aspects far outweigh the negative aspects of it being ultra-feminin.</li>\r\n</ul>\r\n\r\n<h2
+  id=\"diskussionberdasinterview01:35:53\">Diskussion über das Interview (01:35:53)</h2>\r\n\r\n<ul>\r\n<li>Viele
+  Aspekte von Diversity im Talk beleuchtet, auch vieles was unklar war</li>\r\n<li><a
+  href=\"http://www.indiegogo.com/projects/programming-diversity\">Diversity Indiegogo</a></li>\r\n<li><a
+  href=\"http://2013.eurucamp.org/policies\">Der Code of Conduct des eurucamp</a>\r\n\r\n<ul>\r\n<li>tl;dr:
+  Don’t be a Jerk</li>\r\n</ul></li>\r\n<li><a href=\"http://blog.eurucamp.org/2013/08/20/eurucamp-incident-report\">Incident
+  Report</a></li>\r\n<li>Viele Sprecherinnen auf dem eurucamp, sehr hohes technisches
+  Niveua bei den technischen Talks</li>\r\n<li>Das Significant Other Ticket war eine
+  super Idee!</li>\r\n<li><a href=\"https://twitter.com/roy\">Roy Tomeji</a> hat über
+  Tricks gesprochen, die er nutzt um unser Gehirn zu manipulieren ;)\r\n\r\n<ul>\r\n<li>Mehr
+  <a href=\"http://de.wikipedia.org/wiki/Stroopwafel\">Stroopwafels</a> für die Welt!</li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2
+  id=\"einleitungzuminterview01:41:55\">Einleitung zum Interview (01:41:55)</h2>\r\n\r\n<ul>\r\n<li>Erster
+  Vortrag am Sonntag über GitHub Horrorgeschichten mit Ruby</li>\r\n</ul>\r\n\r\n<h2
+  id=\"interview:vicentmartenglish01:42:16\">Interview: Vicent Martí [english] (01:42:16)</h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://twitter.com/vmg\">Vicent</a> works at the system team at Github</li>\r\n<li>He
+  talked about horror stories of running a huge MRI system in production</li>\r\n<li>Pain
+  Points: MRI is a VM with a lot of legacy. It gets tricky to run it on a huge scale
+  in production. Some design decisions made very early on made sense back then, but
+  today we know better.</li>\r\n<li>They used JRuby for Github Enterprise at the beginning,
+  mainly because they could ship byte code. But at the end of the day they have focus
+  on Unix.</li>\r\n<li>They would love to one day switch to Rubinius, but it&#8217;s
+  very far away.</li>\r\n<li>JRuby is not an option, because of the experience of
+  the team</li>\r\n<li>Most of the team Github contributes back to MRI, because that&#8217;s
+  what they are using. But they also contribute to Rubinius – but mainly because they
+  love Open Source.</li>\r\n<li>He also works on <a href=\"http://libgit2.github.com\">libgit2</a>,
+  which is used internally at Github. Torvalds doesn&#8217;t work on Git anymore –
+  and he hates Vicent. But he chats a lot with the Git Core team. He&#8217;s happy
+  that <a href=\"https://github.com/peff\">Jeff King</a> is working at Github – he&#8217;s
+  working on Git full-time.</li>\r\n<li>libgit2 is lagging behind Git, but they try
+  to agree on things (also together with <a href=\"http://www.jgit.org\">jGit</a>)</li>\r\n<li><a
+  href=\"https://github.com/libgit2/rugged\">Rugged</a> doesn&#8217;t use FFI, because
+  its super slow on JRuby and wasting time on that would be very silly. Just use jGit
+  there.</li>\r\n</ul>\r\n\r\n<h2 id=\"diskussionberdasinterview01:46:50\">Diskussion
+  über das Interview (01:46:50)</h2>\r\n\r\n<ul>\r\n<li>Vicent war einer der ersten
+  GitHub Mitarbeiter</li>\r\n<li>Hat sehr viel an <a href=\"https://github.com/vmg/redcarpet\">RedCarpet</a>
+  mitgearbeitet</li>\r\n<li><a href=\"http://eclipse.github.com\">GitHub Eclipse/Java
+  Seite</a></li>\r\n<li>Talk war super gehalten: Märchen mit verschiedenen Stimmen
+  gesprochen</li>\r\n<li>Trotz ernstem Thema sehr witzig vorgetragen</li>\r\n</ul>\r\n\r\n<h2
+  id=\"clickety-klick01:49:17\">Clickety-Klick (01:49:17)</h2>\r\n\r\n<ul>\r\n<li>Talk
+  von <a href=\"http://twitter.com/chastell\">Piotr Szotkowski</a>\r\n\r\n<ul>\r\n<li>Eigentlich
+  eingereicht als Troll Thema</li>\r\n</ul></li>\r\n<li>Hat uns die <a href=\"http://www.pcworld.com/article/242037/mechanical_keyboard_faq_pick_the_right_switch.html\">verschiedenen
+  Switches von Cherry</a> präsentiert</li>\r\n<li><a href=\"http://en.wikipedia.org/wiki/Space-cadet_keyboard\">Space-cadet
+  keyboard</a></li>\r\n<li>Klaus kann nicht mit langen Tastenanschlägen arbeiten</li>\r\n<li>Lucas
+  würde gerne von den Apple Tastaturen weg wechseln</li>\r\n</ul>\r\n\r\n<h2 id=\"einleitungzuminterview01:53:13\">Einleitung
+  zum Interview (01:53:13)</h2>\r\n\r\n<ul>\r\n<li>Wir finden es ein wenig verrückt,
+  was die Floor so gemacht hat, aber sehr beeindruckend!</li>\r\n</ul>\r\n\r\n<h2
+  id=\"interview:floordreesenglish01:53:34\">Interview: Floor Drees [english] (01:53:34)</h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://twitter.com/FloorDrees\">Floor</a> started Programming one year ago
+  by herself using the Railsgirls tutorial, reading stuff on the internet and reading
+  <a href=\"http://about.avdi.org\">Avdi&#8217;s books</a></li>\r\n<li>Why Ruby? Because
+  the startup she worked at used Ruby.</li>\r\n<li>It was great that people helped
+  her learning, but in the talk she talked about pain points while learning. For example
+  teachers forget what was easy and what was not. Also she gave some tips on how to
+  make things not so scary and overwhelming.</li>\r\n<li>She would still recommend
+  web development as a starting point, because it&#8217;s so visual and we use websites
+  every day. Examples like Facebook and Twitter can be used.</li>\r\n</ul>\r\n\r\n<p>We
+  had to switch rooms, sorry for the hard cut :)</p>\r\n\r\n<ul>\r\n<li>Klaus thinks
+  that there&#8217;s a lot of stuff to learn for web development (CSS, JS, HTML&#8230;)</li>\r\n<li>She
+  thinks that there&#8217;s a thin line to choose which things you should teach now
+  and which ones you should teach later. There are a few things that beginners need
+  to understand in their first workshop.</li>\r\n<li>She learns by teaching and also
+  by setting deadlines for herself. Therefore she organized a lot of events like RailsGirls
+  and Pyladies.</li>\r\n</ul>\r\n\r\n<h2 id=\"diskussionzuminterview01:59:00\">Diskussion
+  zum Interview (01:59:00)</h2>\r\n\r\n<ul>\r\n<li>Der Raumwechsel von Konferenz zur
+  Kaffeemaschine war keine gute Idee ;)</li>\r\n<li>Lernen um dann zu unterrichten
+  ist eine coole Idee</li>\r\n<li>Konferenztalks zu einem Thema einzureichen, in das
+  man sich einarbeiten muss ist eine gute Idee</li>\r\n<li>Ein für alle mal: <strong>Für
+  Anfänger ist Rails nicht einfach!!!!!!1111einseinself</strong></li>\r\n<li>Bashing
+  ist nervig und für Anfänger absolut egal</li>\r\n<li>Lucas ist des Bashings schuldig</li>\r\n<li>Floor
+  hat die <a href=\"http://railsgirls.com/rotterdam\">RailsGirls Rotterdam</a> organisiert</li>\r\n</ul>\r\n\r\n<h2
+  id=\"berdascampunddiesiesta02:03:16\">Über das Camp und die &#8220;Siesta&#8221;
+  (02:03:16)</h2>\r\n\r\n<ul>\r\n<li>Nicht alle fanden die Siesta eine gute Idee</li>\r\n<li>Aktivitäten
+  die Sonne benötigen lassen sich abends schlecht ausführen</li>\r\n<li>Wir haben
+  die <a href=\"http://nerdkunde.de/nk0010.html\">NK010</a> in der Pause aufgenommen</li>\r\n</ul>\r\n\r\n<h2
+  id=\"berichtvonbodo02:04:55\">Bericht von Bodo (02:04:55)</h2>\r\n\r\n<ul>\r\n<li>Entspannte
+  Atmosphäre</li>\r\n<li>Frisbee, Go Spielen, Tastatur rumnerden, kleine Gesprächsrunde</li>\r\n<li>Dieses
+  Jahr gibt es ein vegetarisches &#8220;vegetarisches Menü&#8221;, dafür aber nicht
+  so warm wie letztes Jahr</li>\r\n<li>Bodo kommt wieder!</li>\r\n</ul>\r\n\r\n<h2
+  id=\"diskussionberdieorga02:06:30\">Diskussion über die Orga (02:06:30)</h2>\r\n\r\n<ul>\r\n<li>Wir
+  sind auch nächstes Jahr wieder da!</li>\r\n<li>Kinderbetreuung durch die <a href=\"http://www.kinderfee.de\">Kinderfee</a></li>\r\n<li>Beim
+  Abendessen und Frühstück waren viele Familien mit Kindern da.</li>\r\n<li>Konferenzvorträge
+  sind für Kinder wohl meist langweilig (vermuten wir :D)</li>\r\n<li>Wir finden,
+  dass es hier ins Konzept gepasst hat, ob andere Konferenzen das kopieren werden
+  - Wir sind uns nicht sicher</li>\r\n<li>Wichtiger organisatorischer Punkt ist das
+  Internet</li>\r\n</ul>\r\n\r\n<h2 id=\"interview:robertschulze02:09:35\">Interview:
+  Robert Schulze (02:09:35)</h2>\r\n\r\n<ul>\r\n<li><a href=\"http://twitter.com/fnordfish\">Robert</a>
+  hat sich um&#8217;s Internet gekümmert.</li>\r\n<li>Die Access Points und der Switch
+  sind nicht angekommen, aber <a href=\"http://plan.io\">plan.io</a> und die <a href=\"https://digitalegesellschaft.de\">Digitale
+  Gesellschaft</a> hat ausgeholfen.</li>\r\n<li>Freitag kam dann der Multirouter an,
+  der das DSL vom Hotel, mit <a href=\"http://vodafone.de\">LTE von Vodafone</a> und
+  dem <a href=\"http://streamservices.de\">Satellitenuplink von Streamservices</a>
+  zusammengeschaltet hat. Zusammen dann 8MBit. 300 User im Wifi.</li>\r\n</ul>\r\n\r\n<p><strong>Unterbrechung
+  durch Roberts Fans</strong></p>\r\n\r\n<ul>\r\n<li>Richtfunk von Berlin aus hat
+  leider nicht geklappt, die 18km vom Alexanderplatz zum See sind leider zu weit.</li>\r\n<li>LTE
+  ist mit geschlossener Tür nicht möglich gewesen.</li>\r\n<li>Musste alles zusammengelinkt
+  werden, es war ein wissenschaftliches Projekt.</li>\r\n<li>Vernetzen von Events
+  wäre gut, damit wir nicht immer wieder von neu anfangen müssen. Und der Ruby Berlin
+  e.V. will ein Setup dafür anschaffen.</li>\r\n</ul>\r\n\r\n<h2 id=\"diskussionberdasinterviewundchadfowler02:14:22\">Diskussion
+  über das Interview und Chad Fowler (02:14:22)</h2>\r\n\r\n<ul>\r\n<li>Es liegt Glasfaser
+  in der Location, aber die Telekon bietet keine Möglichkeit für 2 Tage Internet zu
+  kaufen</li>\r\n<li><a href=\"http://chadfowler.com\">Chad Fowler</a> war ein sehr
+  guter MC!</li>\r\n<li>Linux Laptops brauchen offensichtlich sehr lange, um an Beamern
+  zu funktionieren</li>\r\n<li>In Keynote kann man mit <strong>Cmd+x</strong> die
+  Bildschirme umschalten</li>\r\n</ul>\r\n\r\n<p><strong>Wir bedanken uns bei den
+  Organisatoren für die tolle Konferenz, bei den Interviewgästen für ihre Zeit! Wir
+  waren begeistert</strong></p>\r\n\r\n<h2 id=\"interview:dajanagntheralexcoles02:19:30\">Interview:
+  Dajana Günther &amp; Alex Coles (02:19:30)</h2>\r\n\r\n<ul>\r\n<li><a href=\"https://twitter.com/DG_Tweety\">Dajana</a>
+  und <a href=\"http://twitter.com/myabc\">Alex</a> waren die Hauptorgas des Camps</li>\r\n<li>Jetzt
+  fängt&#8217;s an zu Regnen, aber sonst war super viel Glück mit dem Wetter.</li>\r\n<li>Alex
+  muss sich erstmal ausruhen.</li>\r\n<li>Dajana: Erstmal aufräumen. Aber der Kopf
+  ist jetzt erstmal leer. Gab nur positives Feedback – sie ist begeistert!</li>\r\n<li>Orga
+  geht schon seit November/Dezember, Sponsoring Packages und Location usw.</li>\r\n<li>Heiße
+  Phase begann im März.</li>\r\n<li><a href=\"http://www.kinderfee.de\">Kinderfee</a>
+  hat es möglich gemacht, dass die Leute ihre Kinder und Partner mitbringen konnten,
+  so dass es eine Familenkonferenz sein konnte. Danke an Kinderfee!</li>\r\n<li>Alex:
+  Die Idee hinter dem &#8220;Significant Other Ticket&#8221; war, dass sich alle so
+  fühlen sollten, als wären sie im Urlaub.</li>\r\n<li>Klaus war zum ersten mal da
+  – aber er kommt nächstes Jahr wieder.</li>\r\n</ul>"
+chapters:
+- !ruby/struct:Chapter
+  start: '00:00:00'
+  title: Einleitung
+- !ruby/struct:Chapter
+  start: '00:05:55'
+  title: JRubyConf.eu Intro
+- !ruby/struct:Chapter
+  start: '00:07:50'
+  title: 'Interview: Tom Enebo  & Charles Nutter [english]'
+- !ruby/struct:Chapter
+  start: '00:16:32'
+  title: Diskussion über das Interview
+- !ruby/struct:Chapter
+  start: '00:22:45'
+  title: Einleitung zum Interview
+- !ruby/struct:Chapter
+  start: '00:23:07'
+  title: 'Interview: Tobias Pfeiffer'
+- !ruby/struct:Chapter
+  start: '00:30:33'
+  title: Diskussion über das Interview
+- !ruby/struct:Chapter
+  start: '00:34:35'
+  title: Einleitung zum Interview
+- !ruby/struct:Chapter
+  start: '00:34:55'
+  title: 'Interview: Tim Lossen & Lukas Rieder'
+- !ruby/struct:Chapter
+  start: '00:42:30'
+  title: Diskussion über das Interview
+- !ruby/struct:Chapter
+  start: '00:44:45'
+  title: Einleitung zu krypt
+- !ruby/struct:Chapter
+  start: '00:45:15'
+  title: 'Interview: Martin Boßlet'
+- !ruby/struct:Chapter
+  start: '00:53:13'
+  title: Diskussion über das Interview
+- !ruby/struct:Chapter
+  start: '00:55:30'
+  title: Einleitung zum Interview
+- !ruby/struct:Chapter
+  start: '00:56:07'
+  title: 'Interview: Josh Kalderimis [english]'
+- !ruby/struct:Chapter
+  start: '01:00:00'
+  title: eurucamp week
+- !ruby/struct:Chapter
+  start: '01:02:30'
+  title: Diskussion über das Interview
+- !ruby/struct:Chapter
+  start: '01:03:15'
+  title: Lucas' Fragen zur JRubyConf
+- !ruby/struct:Chapter
+  start: '01:09:59'
+  title: eurucamp Intro
+- !ruby/struct:Chapter
+  start: '01:15:08'
+  title: Keynote von Joseph Wilk & erster Abend
+- !ruby/struct:Chapter
+  start: '01:20:08'
+  title: Einleitung zum Interview
+- !ruby/struct:Chapter
+  start: '01:20:29'
+  title: 'Interview: Arne Brasseur [english]'
+- !ruby/struct:Chapter
+  start: '01:30:11'
+  title: Diskussion über das Interview
+- !ruby/struct:Chapter
+  start: '01:31:18'
+  title: Einleitung zum Interview
+- !ruby/struct:Chapter
+  start: '01:32:05'
+  title: 'Interview: Ashe Dryden [english]'
+- !ruby/struct:Chapter
+  start: '01:35:53'
+  title: Diskussion über das Interview
+- !ruby/struct:Chapter
+  start: '01:41:55'
+  title: Einleitung zum Interview
+- !ruby/struct:Chapter
+  start: '01:42:16'
+  title: 'Interview: Vicent Martí [english]'
+- !ruby/struct:Chapter
+  start: '01:46:50'
+  title: Diskussion über das Interview
+- !ruby/struct:Chapter
+  start: '01:49:17'
+  title: Clickety-Klick
+- !ruby/struct:Chapter
+  start: '01:53:13'
+  title: Einleitung zum Interview
+- !ruby/struct:Chapter
+  start: '01:53:34'
+  title: 'Interview: Floor Drees [english]'
+- !ruby/struct:Chapter
+  start: '01:59:00'
+  title: Diskussion zum Interview
+- !ruby/struct:Chapter
+  start: '02:03:16'
+  title: Über das Camp und die "Siesta"
+- !ruby/struct:Chapter
+  start: '02:04:55'
+  title: Bericht von Bodo
+- !ruby/struct:Chapter
+  start: '02:06:30'
+  title: Diskussion über die Orga
+- !ruby/struct:Chapter
+  start: '02:09:35'
+  title: 'Interview: Robert Schulze'
+- !ruby/struct:Chapter
+  start: '02:14:22'
+  title: Diskussion über das Interview und Chad Fowler
+- !ruby/struct:Chapter
+  start: '02:19:30'
+  title: 'Interview: Dajana Günther & Alex Coles'
+
