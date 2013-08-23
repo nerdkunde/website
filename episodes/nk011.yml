@@ -375,6 +375,9 @@ chapters:
   start: '00:00:00'
   title: Einleitung
 - !ruby/struct:Chapter
+  start: '00:01:00'
+  title: eurucamp week
+- !ruby/struct:Chapter
   start: '00:05:55'
   title: JRubyConf.eu Intro
 - !ruby/struct:Chapter
@@ -416,9 +419,6 @@ chapters:
 - !ruby/struct:Chapter
   start: '00:56:07'
   title: 'Interview: Josh Kalderimis [english]'
-- !ruby/struct:Chapter
-  start: '01:00:00'
-  title: eurucamp week
 - !ruby/struct:Chapter
   start: '01:02:30'
   title: Diskussion über das Interview
