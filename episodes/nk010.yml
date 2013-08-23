@@ -1,0 +1,131 @@
+--- !ruby/struct:Episode
+number: 10
+name: NK010 - Warten auf die Xbox Me
+subtitle: "Lucas, Bodo, Klaus und Felix sitzen in der Mittagspause des eurucamp 2013
+  und reden mal wieder über RSS Reader,\r\nProjekte von why the lucky stiff, Demos,
+  die Xbox One und blicken auf die ersten Tage des Camps zurück."
+length: 6161
+media:
+  opus:
+    size: 15700701
+    file_ext: opus
+  descr:
+    size: 17309
+    file_ext: json
+  psc:
+    size: 592
+    file_ext: psc
+  aac:
+    size: 51599095
+    file_ext: m4a
+  mp3:
+    size: 74242105
+    file_ext: mp3
+auphonic_uuid: N24DrULC3iBHiMgwgcka4c
+published_at: 2013-08-22 01:37:29.662278000 +02:00
+summary: "<p>Lucas, Bodo, Klaus und Felix sitzen in der Mittagspause des eurucamp
+  2013 und reden mal wieder über RSS Reader,\r\nProjekte von why the lucky stiff,
+  Demos, die Xbox One und blicken auf die ersten Tage des Camps zurück.</p>\r\n\r\n<h2
+  id=\"metaminutes00:00:00\">Meta Minutes (00:00:00)</h2>\r\n\r\n<ul>\r\n<li>Live
+  vom <a href=\"http://2013.eurucamp.org\">eurucamp 2013</a> in Berlin</li>\r\n<li>Mit
+  Felix und Bodo</li>\r\n<li>Tobi und Essy sind noch in Japan</li>\r\n<li>Errata:
+  Wir haben <strong>Silent Mail</strong> fälschlicherweise <strong>Secret Mail</strong>
+  genant</li>\r\n<li>Wir werden demnächst eine Meta-Folge machen ;)</li>\r\n</ul>\r\n\r\n<h2
+  id=\"generalgibberish00:01:52\">General Gibberish (00:01:52)</h2>\r\n\r\n<ul>\r\n<li>Neues
+  von der RSS Reader Front\r\n\r\n<ul>\r\n<li><a href=\"http://blog.theoldreader.com\">The
+  Old Reader wird privat</a>, dann aber doch wieder nicht</li>\r\n<li><a href=\"https://cloud.feedly.com/#pro\">Feedly
+  pro</a></li>\r\n<li><a href=\"http://feedafever.com\">Fever</a></li>\r\n<li><a href=\"https://github.com/swanson/stringer\">Stringer</a></li>\r\n<li><a
+  href=\"http://heroku.com\">Heroku</a></li>\r\n<li><a href=\"https://itunes.apple.com/de/app/byline/id284946773?mt=8\">Byline</a>
+  mit Sync über feedly</li>\r\n<li><a href=\"http://news.ycombinator.com\">Hackernews</a></li>\r\n</ul></li>\r\n<li><a
+  href=\"https://charlie.bz/presos/50resources\">50 Resources you might not have known</a>
+  von <a href=\"http//charlie.bz\">Charlie Somerville</a>\r\n\r\n<ul>\r\n<li><a href=\"https://github.com/charliesome/better_errors\">Better
+  Errors</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<p><strong>Auf dem eurucamp gibt es
+  eine vier Stunden lange Mittagspause, wir sitzen neben den <a href=\"http://ardrone2.parrot.com\">AR.Drones</a>,
+  die man immer mal vorbeifliegen und die Hecke mähen hört</strong></p>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://piratebrowser.com\">Pirate Bay stellt den Pirate Browser vor</a>\r\n\r\n<ul>\r\n<li><a
+  href=\"https://www.torproject.org\">Tor Project</a></li>\r\n<li><a href=\"https://www.torproject.org/projects/torbrowser.html.en\">Tor
+  Browser</a></li>\r\n<li><a href=\"http://blog.fefe.de/?ts=af0134f5\">fefe: Tor ist
+  tot</a></li>\r\n</ul></li>\r\n<li><a href=\"http://google-opensource.blogspot.de/2013/08/more-patents-in-service-of-open-source.html\">Google
+  macht weitere 79 Patente verfügbar unter OPN</a>\r\n\r\n<ul>\r\n<li><a href=\"http://www.google.com/patents/opnpledge/\">Open
+  Patent Non-Assertion</a></li>\r\n</ul></li>\r\n<li><a href=\"http://www.theverge.com/2013/8/12/4611766/htc-change-ad-campaign-robert-downey-jr\">HTC
+  hat sich Robert Downey Jr. als Werbefigur geschnappt</a>\r\n\r\n<ul>\r\n<li><a href=\"http://www.imdb.com/name/nm0000375\">Robert
+  Downey Jr.</a></li>\r\n<li><a href=\"http://www.businessweek.com/articles/2013-05-16/google-makes-android-but-samsung-makes-all-the-money\">Google
+  Makes Android, but Samsung Makes All the Money</a></li>\r\n<li><a href=\"http://www.htc.com/de/smartphones/htc-one\">HTC
+  One</a></li>\r\n</ul></li>\r\n<li><a href=\"http://aws.amazon.com/de/sns\">Amazon
+  SNS</a></li>\r\n<li><a href=\"https://gist.github.com/cookrn/4015437\">Ryan Dahl
+  verlässt das Netz</a>\r\n\r\n<ul>\r\n<li><a href=\"http://nodejs.org\">node.js</a></li>\r\n<li><a
+  href=\"http://en.wikipedia.org/wiki/Why_the_lucky_stiff\">why the lucky stiff</a></li>\r\n</ul></li>\r\n<li><a
+  href=\"http://www.youtube.com/watch?v=VgICnbC2-_Y\">Star Wars Episode 1&#8211;3
+  in repariert</a>\r\n\r\n<ul>\r\n<li><a href=\"http://www.spiegel.de/kultur/kino/disney-kuendigt-ab-2015-drei-neue-star-wars-episoden-an-a-895070.html\">Jedes
+  Jahr ein Star Wars ab 2015</a></li>\r\n</ul></li>\r\n<li><a href=\"http://mailpile.is\">Mailpile</a>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://www.mutt.org\">Mutt</a></li>\r\n<li><a href=\"http://www.gnupg.org\">GPG</a></li>\r\n<li><a
+  href=\"http://www.threema.ch/de\">Threema</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2
+  id=\"macmaniacs00:33:35\">Mac Maniacs (00:33:35)</h2>\r\n\r\n<ul>\r\n<li><a href=\"https://developer.apple.com/support/system-status\">Alle
+  Developer Dienste wieder da</a></li>\r\n<li><a href=\"http://www.kickstarter.com/projects/203272607/gnustep-project\">GNUstep
+  Kickstarter</a>\r\n\r\n<ul>\r\n<li><a href=\"http://en.wikipedia.org/wiki/NeXTStep\">NeXTStep</a></li>\r\n<li><a
+  href=\"http://en.wikipedia.org/wiki/Cocoa_(API)\">Cocoa</a></li>\r\n<li><a href=\"http://llvm.org\">LLVM</a></li>\r\n<li><a
+  href=\"http://clang.llvm.org\">clang</a></li>\r\n<li><a href=\"http://darling.dolezel.info/en/Darling\">Darling</a></li>\r\n<li><a
+  href=\"http://www.winehq.org\">Wine</a></li>\r\n<li><a href=\"https://bugs.launchpad.net/ubuntu/+bug/1\">Ubuntu
+  Issue #1</a></li>\r\n<li><a href=\"http://www.androidnext.de/news/google-play-geschenkkartendeutschland-verkauf/\">Google
+  Play Store Geschenkkarten</a></li>\r\n</ul></li>\r\n<li><a href=\"http://www.youtube.com/watch?v=GUdYebAN-Fs\">Larry
+  Ellison sagt Apple ist am Ende ohne Steve Jobs</a>\r\n\r\n<ul>\r\n<li><a href=\"http://www.teslamotors.com\">Tesla</a></li>\r\n</ul></li>\r\n<li><a
+  href=\"http://www.macgasm.net/2013/08/13/how-many-iphones-can-you-stick-to-your-body-smuggler-carries-66\">Schmuggler
+  klebt sich 66 iPhones an seinen Körper</a></li>\r\n<li><a href=\"http://www.macgasm.net/2013/08/15/apple-updates-app-store-review-guidelines-gets-stricter-on-kids-apps-and-gambling\">Neue
+  App Store Guidelines</a></li>\r\n</ul>\r\n\r\n<h2 id=\"rubyrelics00:52:15\">Ruby
+  Relics (00:52:15)</h2>\r\n\r\n<ul>\r\n<li><a href=\"http://exercism.io\">exercism.io</a>
+  von <a href=\"http://kytrinyx.com\">Katrina Owen</a></li>\r\n<li><a href=\"http://blog.fogus.me/2013/08/11/_whys-potion-a-new-home\">Potion
+  mit neuem Zuhause</a>\r\n\r\n<ul>\r\n<li><a href=\"https://github.com/whymirror\">whymirror</a></li>\r\n<li><a
+  href=\"https://github.com/shoes\">Shoes</a></li>\r\n<li><a href=\"http://hackety.com\">Hacketyhack</a></li>\r\n<li><a
+  href=\"https://github.com/whymirror/camping\">Camping</a></li>\r\n</ul></li>\r\n<li><a
+  href=\"http://ruby-hacking-guide.github.io\">Ruby Hacking Guide</a></li>\r\n<li><a
+  href=\"http://tableprintgem.com\">Tableprint</a></li>\r\n</ul>\r\n\r\n<h2 id=\"neckbeardnarrative01:02:20\">Neckbeard
+  Narrative (01:02:20)</h2>\r\n\r\n<ul>\r\n<li><a href=\"http://fabiensanglard.net/second_reality/index.php\">Second
+  Reality Codereview</a>\r\n\r\n<ul>\r\n<li>Grüße an die gleichzeitig laufende <a
+  href=\"http://www.evoke.eu/2013/\">Evoke 2013</a> in Köln</li>\r\n<li><a href=\"http://en.wikipedia.org/wiki/Commodore_64\">Commodore
+  64</a></li>\r\n<li><a href=\"http://www.dienstagstreff.de\">Dienstagstreff in Bochum</a></li>\r\n<li><a
+  href=\"http://cre.fm/cre177-commodore-64\">CRE177 - Commodore 64</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2
+  id=\"gaminggalore01:07:39\">Gaming Galore (01:07:39)</h2>\r\n\r\n<ul>\r\n<li>Xbox
+  One Hin und Her\r\n\r\n<ul>\r\n<li><a href=\"http://kotaku.com/microsoft-every-xbox-one-can-be-used-to-make-games-up-898750954\">Jede
+  Xbox als Dev Kit - Doch nicht</a></li>\r\n<li><a href=\"http://kotaku.com/microsoft-is-removing-xbox-one-drm-514390310\">Xbox
+  doch ohne DRM</a></li>\r\n<li><a href=\"http://kotaku.com/xbox-one-wont-actually-need-kinect-plugged-in-microso-1113142909\">Xbox
+  funktioniert doch ohne Kinect</a></li>\r\n<li><a href=\"http://kotaku.com/the-xbox-is-not-always-online-but-seems-to-block-used-509077987\">Xbox
+  braucht doch keine Internetverbindung</a></li>\r\n<li><a href=\"http://kotaku.com/sorry-russia-xbox-one-will-launch-in-only-13-countrie-1137660840\">Xbox
+  wird nur in 13 Ländern starten</a></li>\r\n<li><a href=\"http://kotaku.com/rumor-about-xbox-one-family-sharings-downsides-has-fla-534484570\">Doch
+  kein Teilen von Spielen</a></li>\r\n<li><a href=\"http://en.wikipedia.org/wiki/WinFS\">WinFS</a></li>\r\n<li><a
+  href=\"http://www.nintendo.de/Wii-U/Wii-U-344102.html\">Wii-U</a></li>\r\n<li><a
+  href=\"http://en.wikipedia.org/wiki/The_Legend_of_Zelda\">The Legend of Zelda</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2
+  id=\"elapsedrunningevents01:22:03\">Elapsed &amp; Running Events (01:22:03)</h2>\r\n\r\n<ul>\r\n<li>eurucamp
+  &amp; JRubyConf.eu\r\n\r\n<ul>\r\n<li>Erklärung der Lunchpacks, die <a href=\"https://twitter.com/fnordfish\">Robert</a>
+  ignoriert ;)</li>\r\n<li><a href=\"http://2013.jrubyconf.eu\">JRubyConf EU</a></li>\r\n<li><a
+  href=\"http://www.google-melange.com/gsoc/homepage/google/gsoc2013\">Google Summer
+  of Code</a></li>\r\n<li><a href=\"http://railsgirls.com\">Rails Girls</a></li>\r\n<li><a
+  href=\"http://railsinstaller.org/en\">Rails Installer</a></li>\r\n<li><a href=\"https://github.com/rails/turbolinks\">Turbolinks</a></li>\r\n<li>Viele
+  Speakerinnen vor Ort: <a href=\"https://twitter.com/FloorDrees\">Floor Drees</a>,
+  <a href=\"https://twitter.com/ashedryden\">Ashe Dryden</a>, uvm</li>\r\n<li><a href=\"https://github.com/rubymonsters\">Ruby
+  Monsters</a></li>\r\n<li><a href=\"https://github.com/jruby/jruby/wiki/Roadmap#jruby-20-future---also-referred-to-as-9k---or-9000\">JRuby
+  9k</a></li>\r\n<li><a href=\"https://github.com/rom-rb\">Ruby Object Mapper</a></li>\r\n<li><a
+  href=\"http://rubyberlin.org\">Ruby Berlin e.V.</a></li>\r\n<li><a href=\"http://www.onruby.de\">on
+  ruby</a></li>\r\n</ul></li>\r\n<li><a href=\"http://backboneconf.com\">BackboneConf
+  Videos sind online</a></li>\r\n</ul>"
+chapters:
+- !ruby/struct:Chapter
+  start: '00:00:00'
+  title: Meta Minutes
+- !ruby/struct:Chapter
+  start: '00:01:52'
+  title: General Gibberish
+- !ruby/struct:Chapter
+  start: '00:33:35'
+  title: Mac Maniacs
+- !ruby/struct:Chapter
+  start: '00:52:15'
+  title: Ruby Relics
+- !ruby/struct:Chapter
+  start: '01:02:20'
+  title: Neckbeard Narrative
+- !ruby/struct:Chapter
+  start: '01:07:39'
+  title: Gaming Galore
+- !ruby/struct:Chapter
+  start: '01:22:03'
+  title: Elapsed & Running Events
