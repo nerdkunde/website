@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/nerdkunde/gst-kitchen.git
-  revision: c19ef3056b364807f40c61ae80017720e326157d
+  revision: fc0b087fabf09fe72c598863cee6c615e0c7b818
   branch: nerdkunde-edition
   specs:
     gst-kitchen (0.8.0)
