@@ -1,0 +1,192 @@
+--- !ruby/struct:Episode
+number: 12
+name: NK012 - Japan ist auch eine Insel
+subtitle: Endlich wieder in kompletter Besetzung! Tobi und Essy berichten ausführlich
+  von ihrer Japanreise. Außerdem diskutieren wir über das Ubuntu Edge, Werbung auf
+  Google Glass, KitKat, den "Programmiererführerschein", NSA & GCHQ, genug Schlaf
+  und Cryptoparties!
+length: 10956
+media:
+  descr:
+    size: 23542
+    file_ext: json
+  opus:
+    size: 27859353
+    file_ext: opus
+  aac:
+    size: 90966690
+    file_ext: m4a
+  mp3:
+    size: 131808089
+    file_ext: mp3
+auphonic_uuid: UP9DmeYJ2sx8dY4QBJLtzR
+published_at: 2013-09-11 23:24:08.418661000 +02:00
+summary: "<p>
+  Endlich wieder in kompletter Besetzung! Tobi und Essy berichten ausführlich
+  von ihrer Japanreise. Außerdem diskutieren wir über das Ubuntu Edge, Werbung auf
+  Google Glass, KitKat, den \"Programmiererführerschein\", NSA & GCHQ, genug Schlaf
+  und Cryptoparties!</p>
+  <h2 id=\"metaminutes00:00:00\">Meta Minutes (00:00:00)</h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://pad.shownot.es\">Wir testen das Showpad</a></li>\r\n<li>Feedback vom
+  Dirk zu den Tastaturschaltern\r\n\r\n<ul>\r\n<li>Nur wenn die Switches &#8220;clicky&#8221;
+  sind (wie die Cherry-Blue) dann ist die Tastatur beim Tippen sehr laut. Wenn nicht,
+  dann ist nur geringfügig lauter als beispielsweise ein Apple Keyboard. Allerdings
+  muss man dann auch richtig tippen ;-) Man darf also nicht ganz durch drücken (&#8220;bottom
+  out&#8221;). Sonst gibt es halt das Geräusch von Plastik auf Plastik, und das ist
+  wieder laut (Hört man immer hier im HOC beim Bascht, der nach eigener Aussage &#8220;falsch&#8221;
+  tippt).</li>\r\n<li>Wenn man denn dann richtig tippt ist auch der Weg nicht wirklich
+  länger als beim Apple Keyboard. Allerdings ist das natürlich nicht ganz leicht.
+  <a href=\"http://www.overclock.net/t/491752/mechanical-keyboard-guide\">Hier noch
+  ein Link zu dem Thema</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2 id=\"japanesejourney00:02:49\">Japanese
+  Journey (00:02:49)</h2>\r\n\r\n<ul>\r\n<li>Essy und Tobi haben 3 Wochen in Japan
+  verbracht</li>\r\n<li><a href=\"http://www.stadt-koeln.de/5/volkshochschule\">Vorher
+  Sprachkurs an der VHS Köln</a></li>\r\n<li>Eine Reise von Osaka über Kyoto, Hiroshima,
+  Kobe, Nara, Fujisawa, Mout Fuiji nach Tokio</li>\r\n<li><a href=\"http://www.der-japan-rail-pass.de/\">Japan
+  Rails Pass</a></li>\r\n<li><a href=\"http://www.youtube.com/watch?v=WknMhk9J_EE\">Die
+  Leute in Osaka haben Humor</a></li>\r\n<li><a href=\"https://www.couchsurfing.org\">Unterkunft
+  per Couch Surfing</a></li>\r\n<li><a href=\"https://www.airbnb.com/\">AirBnb ist
+  ziemlich cool.</a></li>\r\n<li><a href=\"http://en.wikipedia.org/wiki/Shibuya,_Tokyo#Shibuya_Crossing\">Shibuya
+  Crossing</a></li>\r\n<li><a href=\"http://www.youtube.com/watch?v=QXtOdSgf6Ic\">SO
+  VIELE MENSCHEN</a></li>\r\n<li>Bahnen in Tokyo haben ihren eigenen Sound pro Linie\r\n\r\n<ul>\r\n<li><a
+  href=\"http://www.youtube.com/watch?v=22fUjaGmhns\">Beispiel 1</a></li>\r\n<li><a
+  href=\"http://www.youtube.com/watch?v=C49BXg0V2yc\">Beispiel 2</a></li>\r\n<li><a
+  href=\"http://www.youtube.com/watch?v=oI75M6an50I\">Beispiel 3</a></li>\r\n</ul></li>\r\n<li>Japanische
+  Schriftzeichen\r\n\r\n<ul>\r\n<li><a href=\"http://de.wikipedia.org/wiki/Hiragana\">Hiragana</a></li>\r\n<li><a
+  href=\"http://de.wikipedia.org/wiki/Katakana\">Katakana</a></li>\r\n<li><a href=\"http://de.wikipedia.org/wiki/Kanji\">Kanji</a></li>\r\n</ul></li>\r\n<li><a
+  href=\"http://www.wanikani.com\">Empfehlung: Wanikani</a></li>\r\n<li><a href=\"http://de.wikipedia.org/wiki/Suica\">Suicacard</a></li>\r\n<li><a
+  href=\"http://www.jreast.co.jp/e/\">JR Lines</a></li>\r\n<li><a href=\"http://de.wikipedia.org/wiki/Marburg\">Marburg</a></li>\r\n<li><a
+  href=\"http://de.wikipedia.org/wiki/Electronic_cash\">EC Karte</a>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://de.wikipedia.org/wiki/Maestro-Card\">Maestro</a></li>\r\n<li><a href=\"http://de.wikipedia.org/wiki/V-Pay\">V-Pay</a></li>\r\n<li><a
+  href=\"http://de.wikipedia.org/wiki/Visa_Inc.\">Visa Karte</a></li>\r\n</ul></li>\r\n<li>Offline
+  Karten Anwendungen\r\n\r\n<ul>\r\n<li><a href=\"http://mapswith.me/en/home\">MapsWithMe</a></li>\r\n<li><a
+  href=\"http://www.ulmon.com/?src=cmtgios\">CityMaps2Go</a></li>\r\n<li><a href=\"http://www.skobbler.de\">ForeverMap</a></li>\r\n<li><a
+  href=\"http://www.wanderbares-deutschland.de/wandern_und_gps/digitale_karten/unterschied_zwischen_vektor-karten_und_rasterkarten.html\">Vektor-
+  und Rasterkarten</a></li>\r\n<li><a href=\"http://www.openstreetmap.de\">OpenStreetMap</a></li>\r\n</ul></li>\r\n<li><a
+  href=\"http://line.naver.jp/en/\">Line App</a>\r\n\r\n<ul>\r\n<li><a href=\"http://www.nytimes.com/2013/09/06/technology/a-japanese-social-app-contacts-new-shores.html?pagewanted=all&amp;_r=0\">möchte
+  den westlichen Markt erobern</a></li>\r\n<li><a href=\"https://itunes.apple.com/de/app/line/id443904275?mt=8\">iOS</a></li>\r\n<li><a
+  href=\"https://play.google.com/store/apps/details?id=jp.naver.line.android&amp;hl=de\">Android</a></li>\r\n</ul></li>\r\n<li><a
+  href=\"http://de.wikipedia.org/wiki/Nuklearkatastrophe_von_Fukushima\">Fukushima</a></li>\r\n<li><a
+  href=\"http://www.youtube.com/watch?v=Sdlha6H5s6E\">Geigerzähler Vortrag vom 29C3
+  (2012)</a></li>\r\n</ul>\r\n\r\n<h2 id=\"generalgibberish00:50:52\">General Gibberish
+  (00:50:52)</h2>\r\n\r\n<ul>\r\n<li><a href=\"https://www.scantosecure.com/blog/dev-tools-with-free-for-open-source-plans\">Liste
+  mit Tools, die spezielle OpenSource Pläne haben</a></li>\r\n<li><a href=\"http://www.indiegogo.com/projects/ubuntu-edge\">Ubuntu
+  Edge hat sein Ziel um 20.000.000$ verpasst</a>\r\n\r\n<ul>\r\n<li><a href=\"http://de.wikipedia.org/wiki/Mark_Shuttleworth\">Mark
+  Shuttleworth</a></li>\r\n<li><a href=\"http://www.golem.de/news/ubuntu-edge-canonical-plant-ubuntu-smartphone-fuer-anfang-2014-1308-101172.html\">Soll
+  aber trotzdem als &#8220;Ubuntu Phone&#8221; gebaut werden</a></li>\r\n</ul></li>\r\n<li><a
+  href=\"http://hwbot.org/news/9824_breaking_windows_8_benchmark_results_no_longer_accepted_at_hwbot\">Windows
+  8 Zeitmessung verändert sich unter Last</a></li>\r\n<li><a href=\"https://github.com/feedbin/feedbin\">Feedbin
+  ist OpenSource</a>\r\n\r\n<ul>\r\n<li><a href=\"https://feedbin.me\">Feedbin.me</a></li>\r\n<li><a
+  href=\"http://cloud.feedly.com\">Feedly</a></li>\r\n</ul></li>\r\n<li><a href=\"http://www.macgasm.net/2013/08/19/google-wants-to-get-paid-for-every-outdoor-ad-you-look-at-with-glass/\">Google
+  will Kohle für jede Außenwerbung, die du dir mit Glas anschaust</a>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://www.google.com/glass/start/\">Google Glass</a></li>\r\n<li><a href=\"http://www.bbc.co.uk/news/technology-23665490\">London
+  lässt Bluetooth-Tracking-Mülleimer abbauen</a></li>\r\n<li><a href=\"http://de.wikipedia.org/wiki/Bluescreen-Technik\">Green
+  Screen</a></li>\r\n<li><a href=\"http://placeponi.es\">Place Ponies</a></li>\r\n<li><a
+  href=\"http://adblockforchrome.blogspot.de/2012/03/inturdusing-catblock.html\">Ad-Kittens</a></li>\r\n</ul></li>\r\n<li><a
+  href=\"http://www.macgasm.net/2013/09/03/google-partners-nestle-next-version-android-called-kit-kat\">Android
+  KitKat</a>\r\n\r\n<ul>\r\n<li><a href=\"http://bestboyz.de/wp-content/uploads/2010/10/gingerbread-man-android-rm-eng.jpg\">Gingerbread
+  Man</a></li>\r\n<li><a href=\"http://www.kitkat.com\">KitKat Seite veräppelt Apple
+  Seite</a></li>\r\n<li><a href=\"https://twitter.com/NokiaHomebase/status/375351338126671872/photo/1\">Nokia
+  trollt auf Twitter</a></li>\r\n</ul></li>\r\n<li><a href=\"http://conversations.nokia.com/2013/09/03/the-next-chapter-an-open-letter-from-steve-ballmer-and-stephen-elop\">Microsoft
+  kauft Nokia Devices</a></li>\r\n<li><a href=\"http://www.reddit.com/r/PHP/comments/1l7baq/creating_a_user_from_the_web_problem\">Reddit
+  PHP Troll</a>\r\n\r\n<ul>\r\n<li><a href=\"https://github.com/gderosa/rubysu\">sudo
+  Rubygem</a></li>\r\n<li><a href=\"http://www.reddit.com/r/PHP/comments/1l7baq/creating_a_user_from_the_web_problem/cbwxn1h\">Kommentar:
+  &#8220;Die Welt braucht einen Programmierfüherschein&#8221;</a></li>\r\n<li><a href=\"http://de.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard\">Regeln
+  für Kreditkartendaten</a></li>\r\n<li><a href=\"http://de.wikipedia.org/wiki/DJ-Führerschein\">DJ
+  Führerschein</a></li>\r\n<li><a href=\"http://de.wikipedia.org/wiki/Laserschutzbeauftragter\">Lasershutzbeauftragter</a></li>\r\n<li><a
+  href=\"http://de.wikipedia.org/wiki/Meisterzwang\">Meisterzwang</a></li>\r\n<li><a
+  href=\"http://de.wikipedia.org/wiki/Staplerfahrer_Klaus\">Staplerfahrer Klaus</a></li>\r\n</ul></li>\r\n<li><a
+  href=\"http://www.dellsystem.me/posts/dont-do-drugs-kids/\">How to not handle email
+  verification</a></li>\r\n<li><a href=\"http://www.amazon.com/gp/feature.html/?docId=1001373341\">Kindle
+  MatchBook</a>\r\n\r\n<ul>\r\n<li><a href=\"http://www.focus.de/finanzen/news/rueckwirkend-bis-1999-autorip-amazon-schenkt-kunden-alle-gekauften-cds-als-mp3_aid_1025321.html\">Amazon
+  &#8220;Auto Rip&#8221; rückwirkend für alle CD Käufe seit 1999</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2
+  id=\"tinytinfoils01:34:15\">Tiny Tinfoils (01:34:15)</h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://money.cnn.com/2013/08/26/technology/social/facebook-credit-score/index.html\">Kreditscore
+  in den USA verwendet auch den Score der Facebookfreunde</a>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://www.schufa.de\">Schufa</a></li>\r\n</ul></li>\r\n<li><a href=\"http://www.golem.de/news/nsa-affaere-geheimdienst-zwingt-guardian-zur-zerstoerung-von-festplatten-1308-101081.html\">GCHQ
+  zwingt &#8220;The Guardian&#8221; zur Zerstörung von Festplatten</a>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://en.wikipedia.org/wiki/Glenn_Greenwald\">Glenn Greenwald</a></li>\r\n<li><a
+  href=\"http://www.theguardian.com/world/2013/aug/18/glenn-greenwald-guardian-partner-detained-heathrow\">David
+  Miranda 9 Stunden lang in Heathrow festgehalten</a></li>\r\n<li><a href=\"http://www.zeit.de/wissen/2013-06/seekabel-glasfaser-spionage\">England
+  horcht am Unterseekabel</a></li>\r\n</ul></li>\r\n<li><a href=\"http://www.golem.de/news/ueberwachung-nsa-hackt-un-zentrale-1308-101181.html\">NSA
+  hackt die UN Zentrale</a></li>\r\n<li><a href=\"http://www.zeit.de/digital/datenschutz/2013-09/nsa-gchq-private-internet-verschluesselung\">NSA
+  und GCHQ haben eure Zertifikate</a></li>\r\n<li><a href=\"http://www.heise.de/security/meldung/Bruce-Schneier-zum-NSA-Skandal-Die-US-Regierung-hat-das-Internet-verraten-1951318.html\">Bruce
+  Schneier zum NSA Skandal</a>\r\n\r\n<ul>\r\n<li><a href=\"http://en.wikipedia.org/wiki/Bruce_Schneier\">Bruce
+  Schneier</a></li>\r\n</ul></li>\r\n<li><a href=\"http://www.golem.de/news/anonymisierung-tor-nutzer-surfen-nicht-anonym-1309-101417.html\">Tor
+  User enttarnen ist leichter als man denkt</a>\r\n\r\n<ul>\r\n<li><a href=\"http://blog.fefe.de/?ts=af0134f5\">Fefe
+  sagt: &#8220;Tor ist tot&#8221;</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2 id=\"macmaniacs01:44:51\">Mac
+  Maniacs (01:44:51)</h2>\r\n\r\n<ul>\r\n<li><a href=\"https://www.codefellows.org/blogs/5-reasons-ios7-marks-the-best-time-to-get-started-in-app-development\">5
+  Reasons to start developing iOS Apps now</a></li>\r\n<li><a href=\"http://www.heise.de/mac-and-i/meldung/Unicode-Bug-laesst-iOS-und-OS-X-Apps-abstuerzen-1946022.html\">Unicode
+  Bug Rendering-Fehler in Apples CoreText API</a></li>\r\n<li><a href=\"http://mjtsai.com/blog/2013/09/05/the-gatekeeper-and-the-keymaster\">OMNI
+  Group, App Store und Upgrades</a>\r\n\r\n<ul>\r\n<li><a href=\"http://www.omnigroup.com\">The
+  Omni Group</a></li>\r\n<li><a href=\"http://www.omnigroup.com/blog/entry/omnikeymaster-upgrade-pricing-for-mac-app-store-customers\">Omni
+  KeyMaster</a></li>\r\n</ul></li>\r\n<li><a href=\"http://furbo.org/2013/09/05/fingerprints\">Ideen,
+  was man mit einem Fingerprint Scanner im iPhone anfangen könnte</a></li>\r\n<li>Essy
+  ist nun Mac User \\o/</li>\r\n<li>Lucas&#8217; Geheimes Projekt ist nun gespoilert
+  :P</li>\r\n</ul>\r\n\r\n<h2 id=\"javascriptjargon02:02:44\">Javascript Jargon (02:02:44)</h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://emberjs.com/blog/2013/08/31/ember-1-0-released.html\">Ember.js 1.0
+  final</a>\r\n\r\n<ul>\r\n<li><a href=\"http://www.kaspertidemann.com/the-jj-abrams-branch-of-ember-data\">Nun
+  Focus auf Ember Data: Branch name jj-abrams</a></li>\r\n<li><a href=\"http://emberjs.com/guides/\">Ember.js
+  guides</a></li>\r\n<li><a href=\"http://www.embercasts.com\">embercasts</a></li>\r\n<li><a
+  href=\"https://peepcode.com/products/emberjs\">Peepcode Ember.js</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h1
+  id=\"rubyrelics02:07:35\">Ruby Relics (02:07:35)</h1>\r\n\r\n<ul>\r\n<li><a href=\"https://github.com/tokaido/tokaidoapp/releases/tag/v0.5-pre1\">Tokaido
+  PreRelease</a>\r\n\r\n<ul>\r\n<li><a href=\"http://yehudakatz.com\">Yehuda Katz</a></li>\r\n</ul></li>\r\n<li><a
+  href=\"http://railscasts.com/announcements/12\">Ryan Bates braucht noch etwas mehr
+  Pause</a>\r\n\r\n<ul>\r\n<li>Alles Gute an ihn!</li>\r\n<li><a href=\"http://railscasts.com\">Railscasts</a></li>\r\n<li><a
+  href=\"http://www.rubytapas.com\">Rubytapas</a></li>\r\n<li><a href=\"http://www.rubytapas.com/episodes/12\">Strecke
+  über rake</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2 id=\"neckbeardnarrative02:13:36\">Neckbeard
+  Narrative (02:13:36)</h2>\r\n\r\n<ul>\r\n<li><a href=\"http://sfconservancy.org/news/2013/aug/16/exfat-samsung/\">Samsung
+  hat exFat als OpenSource veröffentlicht</a></li>\r\n<li><a href=\"http://hannover.ccc.de/~nexus/whistle.html\">CCC
+  Hannover nimmt Whistle.im auseinander</a></li>\r\n<li>If programming languages were...\r\n\r\n<ul>\r\n<li><a
+  href=\"http://users.cms.caltech.edu/~mvanier/hacking/rants/cars.html\">... cars</a></li>\r\n<li><a
+  href=\"http://churchm.ag/if-programming-languages-were-essays-comic/\">... essays</a></li>\r\n<li><a
+  href=\"http://blog.aegisub.org/2008/12/if-programming-languages-were-religions.html\">...
+  religions</a></li>\r\n</ul></li>\r\n<li><a href=\"http://www.gitsleep.com\">GitSleep</a>\r\n\r\n<ul>\r\n<li><a
+  href=\"https://jawbone.com/up\">Jawbone</a></li>\r\n<li><a href=\"http://www.fitbit.com/de\">Fitbit</a></li>\r\n<li><a
+  href=\"http://quantifiedself.com\">Quantified self</a></li>\r\n<li><a href=\"http://www.intexdevelopment.com/index.php/home/airbed-furniture-pumps/in-home-airbeds/deluxe-pillow-rest-raised-beds.html\">Intex
+  Airbed</a></li>\r\n</ul></li>\r\n<li><a href=\"http://www.codinghorror.com/blog/2013/08/the-code-keyboard.html\">CODE
+  Tastatur von Jeff Atwood</a></li>\r\n<li><a href=\"http://explainshell.com\">Explain
+  Shell</a>\r\n\r\n<ul>\r\n<li><a href=\"http://xkcd.com/1168/\">XKCD 1168</a></li>\r\n</ul></li>\r\n<li><a
+  href=\"http://blog.poteland.com/blog/2013/09/03/the-dilemma-of-complexity\">The
+  dilemma of complexity and the benefits of go</a>\r\n\r\n<ul>\r\n<li><a href=\"http://tour.golang.org\">Tour
+  of Go</a></li>\r\n<li><a href=\"http://www.rust-lang.org\">Rust</a></li>\r\n<li><a
+  href=\"https://github.com/headius/jo\">Go features für (J)Ruby: Jo</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2
+  id=\"elapsedevents02:38:20\">Elapsed Events (02:38:20)</h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://www.froscon.org\">FrOSCon</a>\r\n\r\n<ul>\r\n<li><a href=\"http://kids.froscon.de\">Kinderbetreuung
+  und FrogLabs</a></li>\r\n<li><a href=\"http://de.wikipedia.org/wiki/CryptoParty\">Crypto&#8220;party&#8221;</a>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://www.gnupg.org\">GnuPG</a></li>\r\n<li><a href=\"http://de.wikipedia.org/wiki/Speed-Dating\">Speed-Dating</a></li>\r\n<li><a
+  href=\"http://de.wikipedia.org/wiki/Web_of_Trust\">Web Of Trust</a></li>\r\n</ul></li>\r\n</ul></li>\r\n<li><a
+  href=\"http://ruby.froscon.org\">RedFrogConf</a>\r\n\r\n<ul>\r\n<li><a href=\"https://media.ccc.de/tags/RedFrogConf.html\">Videos
+  der Konferenz</a></li>\r\n</ul></li>\r\n<li><a href=\"http://confreaks.com/events/lonestarruby2013\">Videos
+  der LoneStar Ruby Conf sind online</a>\r\n\r\n<ul>\r\n<li><a href=\"http://de.wikipedia.org/wiki/Mel_Brooks%E2%80%99_Spaceballs\">Spaceballs</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2
+  id=\"metazumende02:59:20\">Meta zum Ende (02:59:20)</h2>\r\n\r\n<ul>\r\n<li>Es wird
+  eine Meta-Folge geben, wo wir uns ein wenig Vorstellen werden</li>\r\n<li>Was wollt
+  ihr wissen? Mail: <a href=\"&#109;&#x61;&#x69;&#108;&#116;&#x6f;&#58;&#x61;&#108;&#108;&#101;&#x40;&#x6e;&#x65;&#114;&#x64;&#107;&#117;&#110;&#x64;&#x65;&#x2e;&#x64;&#x65;\">&#97;&#x6c;&#x6c;&#x65;&#x40;&#x6e;&#x65;&#x72;&#x64;&#x6b;&#x75;&#110;&#x64;&#101;&#x2e;&#100;&#101;</a></li>\r\n<li><a
+  href=\"http://www.ernstdeslebens.de\">Ernst des Lebens Podcast</a></li>\r\n</ul>"
+chapters:
+- !ruby/struct:Chapter
+  start: '00:00:00'
+  title: Meta Minutes
+- !ruby/struct:Chapter
+  start: '00:02:49'
+  title: Japanese Journey
+- !ruby/struct:Chapter
+  start: '00:50:52'
+  title: General Gibberish
+- !ruby/struct:Chapter
+  start: '01:34:15'
+  title: Tiny Tinfoils
+- !ruby/struct:Chapter
+  start: '01:44:51'
+  title: Mac Maniacs
+- !ruby/struct:Chapter
+  start: '02:02:44'
+  title: Javascript Jargon
+- !ruby/struct:Chapter
+  start: '02:13:36'
+  title: Neckbeard Narrative
+- !ruby/struct:Chapter
+  start: '02:38:20'
+  title: Elapsed Events
+- !ruby/struct:Chapter
+  start: '02:59:20'
+  title: Meta zum Ende
