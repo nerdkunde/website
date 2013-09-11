@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/nerdkunde/gst-kitchen.git
-  revision: fc0b087fabf09fe72c598863cee6c615e0c7b818
+  revision: 855bd51feeb10e15d729493a76648c5e49e61b22
   branch: nerdkunde-edition
   specs:
     gst-kitchen (0.8.0)
@@ -15,7 +15,7 @@ GEM
     html_truncator (0.3.0)
       nokogiri (~> 1.4)
     nokogiri (1.5.9)
-    rake (10.0.4)
+    rake (10.1.0)
     redcarpet (3.0.0)
     sass (3.2.7)
     slim (1.3.6)

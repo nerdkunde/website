@@ -39,7 +39,7 @@
   .episodes
     h2.episode-count Bisher #{podcast.episodes.count} #{podcast.episodes.count == 1 ? 'Folge' : 'Folgen'} :
     - podcast.episodes.reverse.each_with_index do |episode, index|
-      a.episode.episode-preview.well.span6 href="nk#{"%04d" % episode.number}.html"
+      a.episode.episode-preview.well.span6 href="nk#{"%03d" % episode.number}.html"
         h3= episode.title
         p= episode.subtitle
         div.episode-date= episode.published_at.strftime("%d.%m.%Y")
