@@ -6,20 +6,20 @@ subtitle: In dieser Folge stellt sich die Nerdkunde einmal vor. Über GitHub Iss
   haben. Wir werden das wiederholen, also schickt uns gerne weitere Fragen ;)
 length: 7443
 media:
-  descr:
-    size: 27234
-    file_ext: json
-  opus:
-    size: 18959875
-    file_ext: opus
   aac:
     size: 62123607
     file_ext: m4a
   mp3:
-    size: 89650946
+    size: 89650974
     file_ext: mp3
+  opus:
+    size: 18959882
+    file_ext: opus
+  descr:
+    size: 27217
+    file_ext: json
 auphonic_uuid: YuYUStdHfWiwu83hxXq3Y5
-published_at: 2013-09-26 20:17:28.559269000 +02:00
+published_at: 2013-09-27 11:38:07.398959000 +02:00
 summary: "<h2 id=\"begrung00:00:00\">Begrüßung (00:00:00)</h2>\r\n\r\n<p>Vielen Dank
   an Felix Tscheulin (der diese Episode angeregt hat), Dorthe Luebbert, Bascht, Dirk
   Breuer, Basti Cohnen, Florian Gilcher </p>\r\n\r\n<h2 id=\"allgemeinevorstellung00:02:05\">Allgemeine
@@ -38,10 +38,10 @@ summary: "<h2 id=\"begrung00:00:00\">Begrüßung (00:00:00)</h2>\r\n\r\n<p>Viele
   href=\"http://www.sleepcycle.com\">SleepCycle</a></li>\r\n<li><a href=\"http://www.hermann-kola.de/content/kola.php?Sprache=de&amp;wert=Hausmarke-Lakritz\">hausmarke
   Lakritzcola</a></li>\r\n</ul>\r\n\r\n<h2 id=\"welcheinteressantenproblemstellungenmusstetihraufderarbeitlsenundwiehabtihresgelst00:07:48\">Welche
   interessanten Problemstellungen musstet ihr auf der Arbeit lösen, und wie habt ihr
-  es gelöst? (00:07:48)</h2>\r\n\r\n<ul>\r\n<li><a href=\"https://github.com/rails/rails/tree/master/activerecord\">ActiveRecord</a>\r\n\r\n<ul>\r\n<li><a
-  href=\"standalone-migrations\">https://github.com/thuss/standalone-migrations</a></li>\r\n</ul></li><li><a
+  es gelöst? (00:07:48)</h2>\r\n\r\n<ul>\r\n<li><a href=\"https://github.com/rails/rails/tree/master/activerecord\">ActiveRecord</a>\r\n<ul>\r\n<li><a
+  href=\"https://github.com/thuss/standalone-migrations\">standalone_migrations</a></li>\r\n</ul></li>\r\n<li><a
   href=\"http://www.arangodb.org/2013/03/29/foxx-a-lightweight-javascript-application-framework-for-arangodb\">ArangoDB
-  Foxx</a></li>\r\n<li><a href=\"http://www.sinatrarb.com/\">Sinatra</a></li>\r\n<li>Tobi
+  Foxx</a><ul>\r\n<li><a href=\"http://www.sinatrarb.com/\">Sinatra</a></li></ul></li>\r\n<li>Tobi
   erklärt, wie man ein Ampersand malt: &amp;</li>\r\n<li><a href=\"http://jquery.com/\">jQuery</a></li>\r\n<li><a
   href=\"http://de.wikipedia.org/wiki/JavaServer_Faces\">JavaServer Faces</a></li>\r\n</ul>\r\n\r\n<h2
   id=\"lieblingsmusikbeimcoden00:16:47\">Lieblingsmusik beim Coden? (00:16:47)</h2>\r\n\r\n<ul>\r\n<li><a
@@ -111,8 +111,8 @@ summary: "<h2 id=\"begrung00:00:00\">Begrüßung (00:00:00)</h2>\r\n\r\n<p>Viele
   Tech Podcast</a></li>\r\n<li><a href=\"http://podcastideen.tumblr.com\">Blog für
   Podcastideen</a></li>\r\n</ul>\r\n\r\n<h2 id=\"aktuelletiteldieihraufeurentelefonenspielt01:11:20\">Aktuelle
   Titel, die ihr auf euren Telefonen spielt? (01:11:20)</h2>\r\n\r\n<ul>\r\n<li><a
-  href=\"http://superspellboy.com\">Super Spell Boy</a>\r\n\r\n<ul>\r\n<li><a href=\"http://geekstammtisch.de/#GST023\">Geekstammtisch
-  GST023</a></li>\r\n</ul></li>\r\n<li><a href=\"https://itunes.apple.com/de/app/dots-a-game-about-connecting/id632285588?mt=8\">Dots</a></li>\r\n<li><a
+  href=\"http://superspellboy.com\">Super Spell Boy</a>\r\n\r\n<ul>\r\n<li><a href=\"http://geekstammtisch.de/#GST024\">Geekstammtisch
+  GST024</a></li>\r\n</ul></li>\r\n<li><a href=\"https://itunes.apple.com/de/app/dots-a-game-about-connecting/id632285588?mt=8\">Dots</a></li>\r\n<li><a
   href=\"https://itunes.apple.com/de/app/ballerburg/id495361559?mt=8\">Ballerburg</a></li>\r\n<li><a
   href=\"https://itunes.apple.com/de/app/4-pics-1-word/id595558452?mt=8\">4 Bilder
   1 Wort</a></li>\r\n<li><a href=\"https://play.google.com/store/apps/details?id=com.nianticproject.ingress&amp;hl=de\">Ingress</a></li>\r\n<li><a
