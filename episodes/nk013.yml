@@ -1,0 +1,234 @@
+--- !ruby/struct:Episode
+number: 13
+name: NK013 - Da geht's um logische Abflüsse
+subtitle: In dieser Folge stellt sich die Nerdkunde einmal vor. Über GitHub Issues
+  konntet ihr uns Fragen einsenden, die wir nach bestem Wissen und Gewissen beantwortet
+  haben. Wir werden das wiederholen, also schickt uns gerne weitere Fragen ;)
+length: 7443
+media:
+  descr:
+    size: 27234
+    file_ext: json
+  opus:
+    size: 18959875
+    file_ext: opus
+  aac:
+    size: 62123607
+    file_ext: m4a
+  mp3:
+    size: 89650946
+    file_ext: mp3
+auphonic_uuid: YuYUStdHfWiwu83hxXq3Y5
+published_at: 2013-09-26 20:17:28.559269000 +02:00
+summary: "<h2 id=\"begrung00:00:00\">Begrüßung (00:00:00)</h2>\r\n\r\n<p>Vielen Dank
+  an Felix Tscheulin (der diese Episode angeregt hat), Dorthe Luebbert, Bascht, Dirk
+  Breuer, Basti Cohnen, Florian Gilcher </p>\r\n\r\n<h2 id=\"allgemeinevorstellung00:02:05\">Allgemeine
+  Vorstellung (00:02:05)</h2>\r\n\r\n<ul>\r\n<li>Lucas: <a href=\"http://www.triagens.de\">triAGENS</a>,
+  <a href=\"http;//www.arangodb.org\">ArangoDB</a>, Masterstudent <a href=\"http://www.rwth.de\">RWTH
+  Aachen</a></li>\r\n<li>Klaus: <a href=\"http://www.putpat.tv\">Putpat.tv</a>, <a
+  href=\"http://www.dhbw.de\">Duale Hochschule Baden-Württemberg in Stuttgart</a>
+  und <a href=\"http://de.ibm.com\">IBM</a></li>\r\n<li>Essy: Web-Administratorin,
+  Masterstudentin <a href=\"http://fh-koeln.de/\">FH Köln</a></li>\r\n<li>Tobi: auch
+  bei <a href=\"http://www.putpat.tv\">Putpat.tv</a>. Ausbildung am <a href=\"http://www.bib.de/b.i.b.-international-college-bergisch-gladbach.aspx\">b.i.b.</a>,
+  Medieninformatik (Spieleentwicklung)</li>\r\n</ul>\r\n\r\n<h2 id=\"prozedere00:05:35\">Prozedere
+  (00:05:35)</h2>\r\n\r\n<ul>\r\n<li>Fragen kommen aus euren <a href=\"https://github.com/nerdkunde/fragestunde/issues\">GitHub
+  Issues</a></li>\r\n<li>In zufälliger Reihenfolge an den Beamer geworfen per <a href=\"https://github.com/nerdkunde/fragestunde/blob/master/fragen.rb\">Ruby
+  Script</a></li>\r\n</ul>\r\n\r\n<h2 id=\"wiegehtseuchheuteso00:06:24\">Wie gehts
+  euch heute so? (00:06:24)</h2>\r\n\r\n<ul>\r\n<li><a href=\"http://www.wrint.de/category/wrintheit\">Wrintheit</a></li>\r\n<li><a
+  href=\"http://www.sleepcycle.com\">SleepCycle</a></li>\r\n<li><a href=\"http://www.hermann-kola.de/content/kola.php?Sprache=de&amp;wert=Hausmarke-Lakritz\">hausmarke
+  Lakritzcola</a></li>\r\n</ul>\r\n\r\n<h2 id=\"welcheinteressantenproblemstellungenmusstetihraufderarbeitlsenundwiehabtihresgelst00:07:48\">Welche
+  interessanten Problemstellungen musstet ihr auf der Arbeit lösen, und wie habt ihr
+  es gelöst? (00:07:48)</h2>\r\n\r\n<ul>\r\n<li><a href=\"https://github.com/rails/rails/tree/master/activerecord\">ActiveRecord</a>\r\n\r\n<ul>\r\n<li><a
+  href=\"standalone-migrations\">https://github.com/thuss/standalone-migrations</a></li>\r\n</ul></li><li><a
+  href=\"http://www.arangodb.org/2013/03/29/foxx-a-lightweight-javascript-application-framework-for-arangodb\">ArangoDB
+  Foxx</a></li>\r\n<li><a href=\"http://www.sinatrarb.com/\">Sinatra</a></li>\r\n<li>Tobi
+  erklärt, wie man ein Ampersand malt: &amp;</li>\r\n<li><a href=\"http://jquery.com/\">jQuery</a></li>\r\n<li><a
+  href=\"http://de.wikipedia.org/wiki/JavaServer_Faces\">JavaServer Faces</a></li>\r\n</ul>\r\n\r\n<h2
+  id=\"lieblingsmusikbeimcoden00:16:47\">Lieblingsmusik beim Coden? (00:16:47)</h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"https://soundcloud.com/klaustopher/sets/arbeitsuntermalung\">Martin Solveig
+  Tomorrowland - Part 1 &amp; 2</a></li>\r\n<li><a href=\"http://www.lukhash.com\">LukHash</a></li>\r\n<li><a
+  href=\"http://www.lastfm.de/music/Schelmish\">Schelmish</a></li>\r\n<li><a href=\"http://www.lastfm.de/music/Saor+Patrol?ac=Saor%20Patrol\">Saor
+  Patrol</a></li>\r\n<li><a href=\"http://naturesounds.in\">Naturgeräusche</a></li>\r\n<li><a
+  href=\"http://en.wikipedia.org/wiki/Noise-cancelling_headphones\">Noise-cancelling
+  headphones</a></li>\r\n<li><a href=\"http://de-de.sennheiser.com/dj-kopfhoerer-stereo-hd-25-aluminum\">Sennheiser
+  HD25</a></li>\r\n<li><a href=\"http://simplynoise.com\">SimplyNoise</a></li>\r\n<li><a
+  href=\"http://de.wikipedia.org/wiki/Girls%E2%80%99_Generation\">Girls&#8217; Generation</a></li>\r\n</ul>\r\n\r\n<h2
+  id=\"wiesiehteuerperfekterarbeitsplatzaus00:23:17\">Wie sieht euer perfekter Arbeitsplatz
+  aus? (00:23:17)</h2>\r\n\r\n<ul>\r\n<li><a href=\"http://www.fatboy.com/de\">fatboy</a></li>\r\n<li><a
+  href=\"http://www.bluelounge.com/products/studiodesk\">Bluelounge Studiodesk</a></li>\r\n<li><a
+  href=\"http://www.apple.com/de/magicmouse\">Magic Mouse</a></li>\r\n<li><a href=\"http://www.lacie.com/products/product.htm?id=10549\">Lacie
+  Little Big Disk</a></li>\r\n<li><a href=\"http://www.getdialogue.com\">Dialogue</a></li>\r\n<li><a
+  href=\"http://www.ikea.com/de/de/catalog/products/40103100\">IKEA Markus</a>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://thewirecutter.com/reviews/best-office-chair-is-the-steelcase-leap/\">Wirecutter
+  Test</a></li>\r\n</ul></li>\r\n<li><a href=\"http://twelvesouth.com/products/BookArc_for_Air\">BookArc</a></li>\r\n<li><a
+  href=\"http://www.littlebigplanet.com\">LittleBigPlanet</a></li>\r\n<li><a href=\"http://www.stern.de/schlaf/therapie/powernapping-das-nickerchen-zwischendurch-637134.html\">PowerNap</a></li>\r\n<li><a
+  href=\"http://de.wikipedia.org/wiki/Lavalampe\">Lavalampe</a></li>\r\n<li><a href=\"http://en.wikipedia.org/wiki/Stress_ball\">Stressball</a></li>\r\n<li><a
+  href=\"http://en.wikipedia.org/wiki/Standing_desk\">Standing Desk</a></li>\r\n<li><a
+  href=\"https://www.leapmotion.com\">Leap Motion</a></li>\r\n<li><a href=\"http://www.trix.de/de/startseite.html\">TRIX</a>
+  Eisenbahn\r\n\r\n<ul>\r\n<li><a href=\"http://www.youtube.com/watch?v=gsoytm-JZJY\">Eisenbahn
+  - kleines Testrund</a></li>\r\n<li><a href=\"http://www.youtube.com/watch?v=WPqlWHipIac\">Eisenbahn
+  - große Runde</a></li>\r\n</ul></li>\r\n<li><a href=\"http://panic.com/statusboard\">Panic
+  Status Board</a></li>\r\n<li><a href=\"http://www.teufel.de\">Teufel Lautsprecher</a></li>\r\n<li><a
+  href=\"http://home-office-cologne.de\">Home Office Cologne</a></li>\r\n<li><a href=\"http://www.gesetze-im-internet.de/bildscharbv\">Bildschirmarbeitsplatzverordnung</a></li>\r\n<li><a
+  href=\"http://www.apple.com/de/osx/preview\">OSX Mavericks</a></li>\r\n</ul>\r\n\r\n<h2
+  id=\"totesholzoderkindle00:44:23\">&#8220;Totes Holz&#8221; oder Kindle (00:44:23)</h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://www.amazon.de/gp/product/B007HCCOD0\">Kindle</a></li>\r\n<li><a href=\"http://www.google.de/nexus/7\">Nexus
+  7</a></li>\r\n<li><a href=\"http://www.apple.com/de/ipad/overview\">iPad</a></li>\r\n<li><a
+  href=\"http://www.amazon.de/gp/product/B00CTUKFNQ\">Kindle Paperwhite</a></li>\r\n<li><a
+  href=\"http://www.apple.com/de/ipad-mini/overview\">iPad mini</a></li>\r\n</ul>\r\n\r\n<h2
+  id=\"wasmusseuermeinungennacheinernerd-touriinklngesehenhaben00:47:11\">Was muss
+  euer Meinungen nach einer Nerd-Touri in Köln gesehen haben (00:47:11)</h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://www.koelner-dom.de\">Kölner Dom</a></li>\r\n<li><a href=\"http://www.home-office-cologne.de\">Home
+  Office</a></li>\r\n<li><a href=\"http://koeln.ccc.de/\">C4</a>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://koeln.ccc.de/c4/openchaos.xml\">OpenChaos</a></li>\r\n<li><a href=\"http://www.evoke.eu/2013/\">Evoke</a></li>\r\n<li><a
+  href=\"http://c-base.org\">c-base Berlin</a></li>\r\n</ul></li>\r\n<li><a href=\"http://dingfabrik.de\">Ding
+  Fabrik</a></li>\r\n<li><a href=\"http://hacken.in/koeln\">hacken.in</a> - Usergroups
+  und co</li>\r\n</ul>\r\n\r\n<h2 id=\"wasistlieblingsbandoder-knstler00:50:52\">Was
+  ist Lieblingsband oder -künstler? (00:50:52)</h2>\r\n\r\n<ul>\r\n<li><a href=\"http://www.lastfm.de/music/The+Airborne+Toxic+Event?ac=The%20Airb\">The
+  Airborne Toxic Event</a>\r\n\r\n<ul>\r\n<li><a href=\"http://www.wildecker-herzbuben.com\">Wildecker
+  Herzbuben</a></li>\r\n</ul></li>\r\n<li><a href=\"https://soundcloud.com/martinsolveig\">Martin
+  Solveig</a></li>\r\n<li><a href=\"http://www.blumentopf.com\">Blumentopf</a></li>\r\n<li><a
+  href=\"https://www.spotify.com/de/\">Spotify</a></li>\r\n<li><a href=\"http://de.wikipedia.org/wiki/Lostprophets\">Lost
+  Prophets</a></li>\r\n<li><a href=\"http://www.poetsofthefall.com/\">Poets of the
+  Fall</a></li>\r\n<li><a href=\"http://www.fivefingerdeathpunch.com\">Five Finger
+  Death Punch</a></li>\r\n<li><a href=\"http://www.disturbed1.com\">Disturbed</a></li>\r\n<li><a
+  href=\"http://www.schandmaul.de\">Schandmaul</a></li>\r\n<li><a href=\"http://www.linkinpark.de\">Linkin
+  Park</a></li>\r\n</ul>\r\n\r\n<h2 id=\"habeneuchschonwildfremdeleuteaufdenpodcastangesprochenfhltmansicheinkleinwenigberhmt00:55:19\">Haben
+  euch schon wildfremde Leute auf den Podcast angesprochen? Fühlt man sich ein klein
+  wenig berühmt? (00:55:19)</h2>\r\n\r\n<ul>\r\n<li><a href=\"http://2013.railscamp.de\">Rails
+  Camp 2013</a></li>\r\n<li><a href=\"http://2013.eurucamp.org\">eurucamp 2013</a></li>\r\n<li><a
+  href=\"https://www.podigee.com/\">podigee</a></li>\r\n</ul>\r\n\r\n<h2 id=\"ihrdrftnurnoch5podcastsabonnieren.welche00:57:46\">Ihr
+  dürft nur noch 5 Podcasts abonnieren. Welche? (00:57:46)</h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://geekstammtisch.de\">Geekstammtisch</a></li>\r\n<li><a href=\"http://www.wrint.de\">WRINT</a></li>\r\n<li><a
+  href=\"http://cre.fm\">CRE</a></li>\r\n<li><a href=\"http://www.ernstdeslebens.de\">Ernst
+  des Lebens</a></li>\r\n<li><a href=\"http://blog.binaergewitter.de\">Binärgewitter</a>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://www.radiotux.de\">Radio Tux</a></li>\r\n<li><a href=\"http://shackspace.de\">shackspace</a></li>\r\n</ul></li>\r\n<li><a
+  href=\"http://5by5.tv/geekfriday\">Geek Friday</a></li>\r\n<li><a href=\"http://5by5.tv/bionic\">Bionic</a></li>\r\n<li><a
+  href=\"http://tearawaytrousers.com\">The Prompt</a></li>\r\n<li><a href=\"http://rubyrogues.com\">Ruby
+  Rogues</a></li>\r\n<li><a href=\"http://5by5.tv/changelog\">The Changelog</a></li>\r\n<li><a
+  href=\"http://not-safe-for-work.de\">Not Safe For Work</a></li>\r\n<li><a href=\"http://5by5.tv/hypercritical\">Hypercritical</a></li>\r\n<li><a
+  href=\"http://radiotatooine.tumblr.com\">Radio Tattooine</a></li>\r\n<li><a href=\"http://atp.fm\">Accidental
+  Tech Podcast</a></li>\r\n<li><a href=\"http://podcastideen.tumblr.com\">Blog für
+  Podcastideen</a></li>\r\n</ul>\r\n\r\n<h2 id=\"aktuelletiteldieihraufeurentelefonenspielt01:11:20\">Aktuelle
+  Titel, die ihr auf euren Telefonen spielt? (01:11:20)</h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://superspellboy.com\">Super Spell Boy</a>\r\n\r\n<ul>\r\n<li><a href=\"http://geekstammtisch.de/#GST023\">Geekstammtisch
+  GST023</a></li>\r\n</ul></li>\r\n<li><a href=\"https://itunes.apple.com/de/app/dots-a-game-about-connecting/id632285588?mt=8\">Dots</a></li>\r\n<li><a
+  href=\"https://itunes.apple.com/de/app/ballerburg/id495361559?mt=8\">Ballerburg</a></li>\r\n<li><a
+  href=\"https://itunes.apple.com/de/app/4-pics-1-word/id595558452?mt=8\">4 Bilder
+  1 Wort</a></li>\r\n<li><a href=\"https://play.google.com/store/apps/details?id=com.nianticproject.ingress&amp;hl=de\">Ingress</a></li>\r\n<li><a
+  href=\"https://itunes.apple.com/de/app/kingdom-rush/id516378985?mt=8\">Kingdom Rush</a></li>\r\n<li><a
+  href=\"https://itunes.apple.com/us/app/kingdom-rush-frontiers-hd/id598581619?mt=8\">Kingdom
+  Rush Frontiers</a></li>\r\n<li><a href=\"https://itunes.apple.com/de/app/peggle/id314303518?mt=8\">Peggle</a></li>\r\n<li><a
+  href=\"https://itunes.apple.com/de/app/smartgo-player/id314506629?mt=8\">Smart Go</a>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://www.dgob.de/lv-nrw/koeln\">Kölner Go Gruppe</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2
+  id=\"welchemailclientsbenutztihr01:22:06\">Welche Mail Clients benutzt ihr? (01:22:06)</h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://de.wikipedia.org/wiki/Mail_(Apple)\">Apple Mail</a></li>\r\n<li><a
+  href=\"http://sparrowmailapp.com\">Sparrow</a>: <a href=\"https://itunes.apple.com/de/app/sparrow/id417250177?mt=12\">Mac</a>,
+  <a href=\"https://itunes.apple.com/de/app/sparrow/id492573565?mt=8\">iOS</a></li>\r\n<li><a
+  href=\"http://www.mozilla.org/de/thunderbird\">Thunderbird</a></li>\r\n<li><a href=\"http://mail.google.com\">Google
+  Mail im Web</a></li>\r\n<li><a href=\"https://play.google.com/store/apps/details?id=com.google.android.gm&amp;hl=de\">Android
+  Gmail</a></li>\r\n<li><a href=\"http://office.microsoft.com/de-de/outlook\">Outlook</a></li>\r\n<li><a
+  href=\"http://www-03.ibm.com/software/products/de/de/ibmnotes/\">IBM Notes</a> (vorher:
+  Lotus Notes)\r\n\r\n<ul>\r\n<li><a href=\"http://www-03.ibm.com/software/products/de/de/expeditor/\">Lotus
+  Expeditor</a></li>\r\n<li><a href=\"http://eclipse.org\">Eclipse</a></li>\r\n<li><a
+  href=\"http://www-03.ibm.com/software/products/de/de/lotusymp/\">Lotus Symphony</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2
+  id=\"welchegameshabtihrzuletztgezockt01:27:48\">Welche Games habt ihr zuletzt gezockt?
+  (01:27:48)</h2>\r\n\r\n<ul>\r\n<li><a href=\"https://minecraft.net\">Minecraft</a></li>\r\n<li><a
+  href=\"http://eu.battle.net/d3/de/\">Diablo 3</a></li>\r\n<li><a href=\"http://www.rockstargames.com/V/de_de\">GTA
+  V</a></li>\r\n</ul>\r\n\r\n<h2 id=\"mitwelcherberhmtenbekanntenpersnlichkeitdesit-bereichswrdetihrgernemaleinentrinkengehen01:29:27\">Mit
+  welcher berühmten/bekannten Persönlichkeit des IT-Bereichs würdet ihr gerne mal
+  einen Trinken gehen? (01:29:27)</h2>\r\n\r\n<ul>\r\n<li><a href=\"http://de.wikipedia.org/wiki/Linus_Torvalds\">Linus
+  Torvalds</a></li>\r\n<li><a href=\"http://en.wikipedia.org/wiki/Yukihiro_Matsumoto\">Matz</a></li>\r\n<li><a
+  href=\"http://en.wikipedia.org/wiki/Why_the_lucky_stiff\">Why the lucky stiff?</a></li>\r\n<li><a
+  href=\"http://en.wikipedia.org/wiki/Steve_Ballmer\">Steve Ballmer</a></li>\r\n<li><a
+  href=\"http://zachholman.com\">Zach Holman</a></li>\r\n</ul>\r\n\r\n<h2 id=\"cmssystemebenutztmansowasinrails01:31:50\">CMS
+  Systeme, benutzt man so was? In Rails? (01:31:50)</h2>\r\n\r\n<ul>\r\n<li><a href=\"http://de.wordpress.org\">Wordpress</a></li>\r\n<li><a
+  href=\"http://spreecommerce.com\">Spree Commerce</a></li>\r\n</ul>\r\n\r\n<h2 id=\"wiewoundwannbistduindenzaubertrankgefallen1:35:48\">Wie,
+  wo und wann bist du in &#8220;den Zaubertrank&#8221; gefallen? (1:35:48)</h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://commons.wikimedia.org/wiki/File:Atari-520ST.jpg\">Atari 520ST</a></li>\r\n<li><a
+  href=\"http://en.wikipedia.org/wiki/Atari_ST_BASIC\">Atari ST Basic</a></li>\r\n<li><a
+  href=\"http://images.moonglum.net/Born2Hack.JPG\">Lucas: Born 2 Hack</a></li>\r\n<li><a
+  href=\"https://upload.wikimedia.org/wikipedia/commons/5/56/Indigo_iMac_G3_slot_loading.jpg\">iMac
+  Indigo Blue</a></li>\r\n<li><a href=\"http://de.wikipedia.org/wiki/Xojo\">Real Basic</a></li>\r\n<li><a
+  href=\"http://de.wikipedia.org/wiki/WordPerfect\">WordPerfect</a></li>\r\n<li><a
+  href=\"https://www.suse.com/de-de/\">SuSe 6.0</a></li>\r\n<li><a href=\"http://de.wikipedia.org/wiki/Microsoft_Paint\">Microsoft
+  Paint</a></li>\r\n<li><a href=\"http://de.wikipedia.org/wiki/SimCity\">SimCity</a></li>\r\n<li><a
+  href=\"http://de.wikipedia.org/wiki/Commodore_64\">Commodore 64</a></li>\r\n<li><a
+  href=\"http://www.teltarif.de/a/telekom/xxl.html\">T-ISDN XXL</a></li>\r\n<li><a
+  href=\"http://blitzbasic.de\">BlitzBasic</a></li>\r\n<li><a href=\"http://en.wikipedia.org/wiki/Turbo_C%2B%2B\">Borland
+  Turbo C++</a></li>\r\n<li><a href=\"http://www.acsl.org\">American Computer Science
+  League</a></li>\r\n<li><a href=\"http://www.rockportpilot.com/people/article_7b23922b-c78c-5cca-be64-4f446096ed2e.html\">&#8220;Software
+  Pirates impressive, place first in national contest&#8221;</a></li>\r\n<li><a href=\"http://www.spacex.com\">SpaceX</a></li>\r\n</ul>\r\n\r\n<h2
+  id=\"zuwelchertageszeitsindwiramproduktivsten01:52:30\">Zu welcher Tageszeit sind
+  wir am produktivsten? (01:52:30)</h2>\r\n\r\n<ul>\r\n<li><a href=\"http://osrc.dfm.io/moonglum\">Lucas
+  OpenSource Report Card</a></li>\r\n</ul>\r\n\r\n<h2 id=\"wiewrdetihreuremzahnarztfrisretcerklrenwasihraufderarbeitmacht01:57:03\">Wie
+  würdet ihr eurem Zahnarzt/Frisör/etc erklären, was ihr auf der Arbeit macht? (01:57:03)</h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://de.wikipedia.org/wiki/Musikfernsehsender\">Musikfernsehen</a></li>\r\n<li><a
+  href=\"http://de.wikipedia.org/wiki/Metapher\">Metapher</a></li>\r\n<li><a href=\"http://de.wikipedia.org/wiki/Active_Directory\">Active
+  Directory</a></li>\r\n<li><a href=\"http://de.wikipedia.org/wiki/Datenbank\">Datenbank</a></li>\r\n<li><a
+  href=\"http://de.wikipedia.org/wiki/Analogie_(Rhetorik)\">Analogie</a></li>\r\n</ul>"
+chapters:
+- !ruby/struct:Chapter
+  start: '00:00:00'
+  title: Begrüßung
+- !ruby/struct:Chapter
+  start: '00:02:05'
+  title: Allgemeine Vorstellung
+- !ruby/struct:Chapter
+  start: '00:05:35'
+  title: Prozedere
+- !ruby/struct:Chapter
+  start: '00:06:24'
+  title: Wie gehts euch heute so?
+- !ruby/struct:Chapter
+  start: '00:07:48'
+  title: Welche interessanten Problemstellungen musstet ihr auf der Arbeit lösen,
+    und wie habt ihr es gelöst?
+- !ruby/struct:Chapter
+  start: '00:16:47'
+  title: Lieblingsmusik beim Coden?
+- !ruby/struct:Chapter
+  start: '00:23:17'
+  title: Wie sieht euer perfekter Arbeitsplatz aus?
+- !ruby/struct:Chapter
+  start: '00:44:23'
+  title: "\"Totes Holz\" oder Kindle?"
+- !ruby/struct:Chapter
+  start: '00:47:11'
+  title: Was muss euer Meinungen nach einer Nerd-Touri in Köln gesehen haben?
+- !ruby/struct:Chapter
+  start: '00:50:52'
+  title: Was ist Lieblingsband oder -künstler?
+- !ruby/struct:Chapter
+  start: '00:55:19'
+  title: Haben euch schon wildfremde Leute auf den Podcast angesprochen? Fühlt man
+    sich ein klein wenig berühmt?
+- !ruby/struct:Chapter
+  start: '00:57:46'
+  title: Ihr dürft nur noch 5 Podcasts abonnieren. Welche?
+- !ruby/struct:Chapter
+  start: '01:11:20'
+  title: Aktuelle Titel, die ihr auf euren Telefonen spielt?
+- !ruby/struct:Chapter
+  start: '01:22:06'
+  title: Welche Mail Clients benutzt ihr?
+- !ruby/struct:Chapter
+  start: '01:27:48'
+  title: Welche Games habt ihr zuletzt gezockt?
+- !ruby/struct:Chapter
+  start: '01:29:27'
+  title: Mit welcher berühmten/bekannten Persönlichkeit des IT-Bereichs würdet ihr
+    gerne mal einen Trinken gehen?
+- !ruby/struct:Chapter
+  start: '01:31:50'
+  title: CMS Systeme, benutzt man so was? In Rails?
+- !ruby/struct:Chapter
+  start: '01:35:48'
+  title: Wie, wo und wann bist du in "den Zaubertrank" gefallen?
+- !ruby/struct:Chapter
+  start: '01:52:30'
+  title: Zu welcher Tageszeit sind wir am produktivsten?
+- !ruby/struct:Chapter
+  start: '01:57:03'
+  title: Wie würdet ihr eurem Zahnarzt/Frisör/etc erklären, was ihr auf der Arbeit
+    macht?
