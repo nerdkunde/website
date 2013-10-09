@@ -1,0 +1,192 @@
+--- !ruby/struct:Episode
+number: 14
+name: NK014 - To Seal the Deal
+subtitle: In dieser Folge beschäftigen wir uns noch einmal mit euren Fragen, bevor
+  es dann in der Folge 15 mit leicht verändertem Format weitergehen wird.
+length: 6397
+media:
+  descr:
+    size: 22326
+    file_ext: json
+  opus:
+    size: 16192945
+    file_ext: opus
+  aac:
+    size: 53542958
+    file_ext: m4a
+  mp3:
+    size: 77086793
+    file_ext: mp3
+auphonic_uuid: 7SjuvfWRPJR4yvxT6CqZFY
+published_at: 2013-10-09 20:49:39.471513000 +02:00
+summary: "<h2 id=\"metaminutes00:00:00\">Meta Minutes (00:00:00)</h2>\r\n\r\n<ul>\r\n<li>zakx:
+  Feedback: CCC Köln hat immer gerne Gäste\r\n\r\n<ul>\r\n<li><a href=\"http://koeln.ccc.de/u23/\">U23</a></li>\r\n</ul></li>\r\n<li>zakx:
+  Die <a href=\"http://dingfabrik.de\">Dingfabrik</a> hat seine neuen Räume bezogen:
+  Erzbergerplatz 9</li>\r\n</ul>\r\n\r\n<h2 id=\"wiegehtseuchdennheuteso00:02:55\">Wie
+  geht&#8217;s euch denn heute so? (00:02:55)</h2>\r\n\r\n<ul>\r\n<li><a href=\"https://en.wikipedia.org/wiki/Perl\">Perl</a></li>\r\n</ul>\r\n\r\n<h2
+  id=\"einjungernerdpadawankommtzueuch:waswreeuertipp00:06:03\">Ein junger Nerd Padawan
+  kommt zu Euch: Was wäre euer Tipp (00:06:03)</h2>\r\n\r\n<ul>\r\n<li>Tragt Schnurrbärte!!!!</li>\r\n<li><a
+  href=\"http://www.bitboxer.de\">Bodo</a> - <a href=\"http://media.ccc.de/browse/conferences/froscon/2013/hs6_-_2013-08-24_10:30_-_weck_den_geek_in_dir_-_bodo_tasche_-_1261.html\">Wecke
+  den Geek in dir</a></li>\r\n<li><a href=\"http://www.youtube.com/watch?v=H_BtmV4JRSc\">Will
+  Wheaton</a></li>\r\n<li>Früh mit der Commandline anfangen</li>\r\n<li>Stellt Fragen</li>\r\n<li>Podcast:
+  Fangt einfach an. Traut euch :)</li>\r\n</ul>\r\n\r\n<h2 id=\"waswardiegrtedummheitdieihrcomputerbezogenjebegangenhabt00:09:47\">Was
+  war die größte Dummheit, die ihr Computerbezogen je begangen habt? (00:09:47)</h2>\r\n\r\n<ul>\r\n<li><code>chmod
+  -r /</code></li>\r\n<li>Der Glaube an <a href=\"http://get.adobe.com/de/flashplayer\">Flash</a>
+  als Zukunft des Webs</li>\r\n<li>Arbeit in einer Versicherung</li>\r\n</ul>\r\n\r\n<h2
+  id=\"die4wichtigstenguiprogrammeaufdeinemmacsind00:13:05\">Die 4 wichtigsten GUI
+  Programme auf deinem Mac sind&#8230;? (00:13:05)</h2>\r\n\r\n<ul>\r\n<li><a href=\"http://www.iterm2.com\">iTerm</a></li>\r\n<li><a
+  href=\"https://agilebits.com/onepassword\">1Password</a></li>\r\n<li><a href=\"http://www.dropbox.com\">Dropbox</a></li>\r\n<li><a
+  href=\"http://www.google.de/intl/de/chrome/browser/\">Google Chrome</a></li>\r\n<li><a
+  href=\"http://www.apple.com/de/safari/\">Apple Safari</a></li>\r\n<li><a href=\"https://itunes.apple.com/de/app/ia-writer/id439623248?mt=12\">iAWriter</a></li>\r\n<li><a
+  href=\"http://www.alfredapp.com\">Alfred</a></li>\r\n<li><a href=\"http://www.macbartender.com\">Bartender</a></li>\r\n<li><a
+  href=\"http://www.sequelpro.com\">Sequel Pro</a></li>\r\n<li><a href=\"http://kapeli.com/dash\">Dash</a></li>\r\n<li><a
+  href=\"https://developer.apple.com/xcode\">Xcode</a></li>\r\n<li><a href=\"http://flexibits.com/fantastical\">Fantastical</a></li>\r\n<li><a
+  href=\"http://brettterpstra.com/projects/nvalt\">nvalt</a></li>\r\n<li><a href=\"http://bjango.com/mac/istatmenus/\">iStat
+  Menus</a></li>\r\n<li><a href=\"https://github.com/phinze/homebrew-cask\">Homebrew
+  Cask</a></li>\r\n</ul>\r\n\r\n<h2 id=\"ineinerklassischenabenteuerrundewhlstduwelchencharakter00:19:25\">In
+  einer klassischen Abenteuerrunde wählst du welchen Charakter? (00:19:25)</h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://www.ulisses-spiele.de/sortiment/rollenspiele/das-schwarze-auge/\">DSA
+  (Das Schwarze Auge)</a></li>\r\n<li><a href=\"http://www.wizards.com/dnd/\">Dungeons
+  &amp; Dragons</a></li>\r\n<li><a href=\"http://www.pegasus.de/shadowrun/\">Shadowrun</a></li>\r\n</ul>\r\n\r\n<h2
+  id=\"waswareuererstesprogrammwelchesauchvonanderenleutenbenutztwurde00:23:10\">Was
+  war euer erstes Programm, welches auch von <em>anderen</em> Leuten benutzt wurde?
+  (00:23:10)</h2>\r\n\r\n<ul>\r\n<li>Notizen App von Klaus mit hart kodierten Pfaden
+  zu IE &amp; Netscape</li>\r\n<li>Moonlander Spiel von Tobi</li>\r\n<li>Taschenrechner
+  &amp; Nachhilfebörse von Essy</li>\r\n<li>Windows &#8220;Emulator&#8221; von Lucas</li>\r\n<li>midi2keyboard
+  von Klaus</li>\r\n</ul>\r\n\r\n<h2 id=\"welcheserienfaszinierendich00:30:09\">Welche
+  Serien faszinieren dich? (00:30:09)</h2>\r\n\r\n<ul>\r\n<li><a href=\"http://www.amctv.com/shows/breaking-bad\">Breaking
+  Bad</a></li>\r\n<li><a href=\"http://www.sho.com/sho/dexter/home\">Dexter</a></li>\r\n<li><a
+  href=\"http://www.nbc.com/community\">Community</a></li>\r\n<li><a href=\"http://www.cbs.com/shows/how_i_met_your_mother\">How
+  I Met Your Mother</a></li>\r\n<li><a href=\"http://www.cbs.com/shows/big_bang_theory\">The
+  Big Bang Theory</a></li>\r\n<li><a href=\"http://www.sho.com/sho/homeland/home\">Homeland</a></li>\r\n<li><a
+  href=\"http://www.bbcamerica.com/torchwood\">Torchwood</a></li>\r\n<li><a href=\"http://www.bbc.co.uk/programmes/b006q2x0\">Dr
+  Who</a></li>\r\n<li><a href=\"http://www.thesimpsons.com\">The Simpsons</a></li>\r\n<li><a
+  href=\"http://www.southpark.de\">South Park</a></li>\r\n<li><a href=\"http://www.battlestargalactica.com\">Battlestar
+  Galactica</a></li>\r\n<li><a href=\"http://wwws.warnerbros.co.jp/deathnote\">Death
+  Note</a></li>\r\n</ul>\r\n\r\n<h2 id=\"wievielestundenamtagverbringstduiminternet00:35:34\">Wie
+  viele Stunden am Tag verbringst du <em>im Internet</em>? (00:35:34)</h2>\r\n\r\n<ul>\r\n<li>Wir
+  sind alle schwer verwirrt?</li>\r\n</ul>\r\n\r\n<h2 id=\"homebrewistfrischinstalliert.welche5commandlinetoolskommendanach00:39:30\">Homebrew
+  ist frisch installiert. Welche 5 Command Line Tools kommen danach? (00:39:30)</h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"https://code.google.com/p/macvim/\">mvim</a></li>\r\n<li><a href=\"http://git-scm.com/\">git</a></li>\r\n<li><a
+  href=\"http://zsh.sourceforge.net\">zsh</a></li>\r\n<li><a href=\"http://tmux.sourceforge.net\">tmux</a></li>\r\n<li><a
+  href=\"http://www.gnu.org/software/wget\">wget</a></li>\r\n<li><a href=\"http://manpages.ubuntu.com/manpages/gutsy/man1/grcat.1.html\">grc</a></li>\r\n<li><a
+  href=\"https://github.com/github/hub\">hub</a></li>\r\n<li><a href=\"http://unixhelp.ed.ac.uk/CGI/man-cgi?tree\">tree</a></li>\r\n<li><a
+  href=\"http://nodejs.org\">node.js</a></li>\r\n<li><a href=\"https://github.com/bitboxer/de-coding.keylayout\">Bodos
+  Keyboard Layout</a></li>\r\n</ul>\r\n\r\n<h2 id=\"whitespacesensitivoderliebernicht00:42:54\">Whitespace
+  Sensitiv oder lieber nicht? (00:42:54)</h2>\r\n\r\n<ul>\r\n<li>Lucas mag Significant
+  Whitepace, aber keine Sprachen, die das verwenden</li>\r\n</ul>\r\n\r\n<h2 id=\"abseitsvomrechnerinwelchemthemanerdetihrgernerum00:44:57\">Abseits
+  vom Rechner, in welchem Thema &#8220;nerdet&#8221; ihr gerne rum (00:44:57)</h2>\r\n\r\n<ul>\r\n<li>Pen
+  &amp; Paper</li>\r\n<li>Kochen</li>\r\n<li>Serien\r\n\r\n<ul>\r\n<li><a href=\"http://www.seriesly.com\">Seriesly</a></li>\r\n</ul></li>\r\n<li>Kaffee</li>\r\n<li>Audio&amp;Video-Equipment,
+  Podcast, DJing</li>\r\n<li>Videospiele</li>\r\n<li>DIY Möbel</li>\r\n<li>Lego</li>\r\n</ul>\r\n\r\n<h2
+  id=\"welchentexteditorbentuztdu00:54:48\">Welchen Text Editor bentuzt du? (00:54:48)</h2>\r\n\r\n<ul>\r\n<li>Vim
+  / MacVim</li>\r\n<li><a href=\"http://www.sublimetext.com/2\">Sublime Text 2</a></li>\r\n<li><a
+  href=\"http://www.techrepublic.com/blog/opensource/using-vi-key-bindings-in-bash-and-zsh/193\">Vim
+  Mode in ZSH</a></li>\r\n</ul>\r\n\r\n<h2 id=\"welchennamespacenutztihrfreuregerte00:56:50\">Welchen
+  Namespace nutzt ihr für eure Geräte? (00:56:50)</h2>\r\n\r\n<ul>\r\n<li>Monde</li>\r\n<li><a
+  href=\"http://wikipedia.qwika.com/de2en/Personen_und_Lebewesen_aus_dem_Roman_Per_Anhalter_durch_die_Galaxis\">Charaktere
+  der Hitchhikers Triologie</a></li>\r\n<li><a href=\"https://en.wikipedia.org/wiki/Elric_of_Melnibon%C3%A9\">Elric
+  von Melniboné</a></li>\r\n<li>moon*</li>\r\n<li><a href=\"https://de.wikipedia.org/wiki/Keine_halben_Sachen\">Keine
+  halben Sachen</a></li>\r\n<li><a href=\"http://de.wikipedia.org/wiki/Apfelsorten\">Apfelsorten</a></li>\r\n</ul>\r\n\r\n<h2
+  id=\"wasistdieersteeinstellungeuresbetriebssystemsdieihraufjedenfallndert01:03:03\">Was
+  ist die erste Einstellung eures Betriebssystems die ihr auf jeden Fall ändert? (01:03:03)</h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://en.wikipedia.org/wiki/Autocorrection\">Auto Correct</a></li>\r\n<li>Dock
+  an die Seite schieben</li>\r\n<li>Tap als Klick</li>\r\n<li>Zwei-Finger-Rechtsklick</li>\r\n</ul>\r\n\r\n<h2
+  id=\"welcheprogrammiersprachefindetihrmomentamamspannendsten01:06:07\">Welche Programmiersprache
+  findet ihr momentam am Spannendsten? (01:06:07)</h2>\r\n\r\n<ul>\r\n<li><a href=\"http://elixir-lang.org\">Elxir</a></li>\r\n<li><a
+  href=\"http://golang.org\">Go</a></li>\r\n<li><a href=\"https://developer.apple.com/library/mac/documentation/cocoa/conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html\">ObjectiveC</a></li>\r\n<li>Lisp
+  Sprachen\r\n\r\n<ul>\r\n<li><a href=\"http://www.clisp.org\">CommonLisp</a></li>\r\n<li><a
+  href=\"http://clojure.org\">Clojure</a></li>\r\n</ul></li>\r\n<li><a href=\"http://www.rust-lang.org\">Rust</a></li>\r\n</ul>\r\n\r\n<h2
+  id=\"waswolltetihralskindwerdenundaufwaswrdetihrumschulenwennihrnichtmehrit-fuzziseinknntwollt01:10:44\">Was
+  wolltet ihr als Kind werden und auf was würdet ihr umschulen, wenn ihr nicht mehr
+  IT-Fuzzi sein könnt/wollt? (01:10:44)</h2>\r\n\r\n<ul>\r\n<li><a href=\"http://de.wikipedia.org/wiki/Pilot\">Pilot</a></li>\r\n<li>&#8220;Komputerfachmann&#8221;</li>\r\n<li><a
+  href=\"http://de.wikipedia.org/wiki/Stuntman\">Stuntfrau</a></li>\r\n<li><a href=\"http://de.wikipedia.org/wiki/Lehrer\">Grundschullehrer</a></li>\r\n<li><a
+  href=\"http://de.wikipedia.org/wiki/Schriftsteller\">Schriftsteller</a></li>\r\n<li><a
+  href=\"http://de.wikipedia.org/wiki/Dokumentarfilm\">Tierdokumentarfilmer</a></li>\r\n</ul>\r\n\r\n<h2
+  id=\"wowrdestdugernemalleben01:17:03\">Wo würdest du gerne mal leben? (01:17:03)</h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://de.wikipedia.org/wiki/Japan\">Japan</a></li>\r\n<li><a href=\"http://de.wikipedia.org/wiki/K%C3%B6ln\">Köln</a></li>\r\n<li><a
+  href=\"http://de.wikipedia.org/wiki/Edinburgh\">Edinburgh</a></li>\r\n<li><a href=\"http://de.wikipedia.org/wiki/USA\">USA</a>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://de.wikipedia.org/wiki/San_Francisco\">San Francisco</a></li>\r\n<li><a
+  href=\"http://de.wikipedia.org/wiki/Austin_(Texas)\">Austin</a></li>\r\n</ul></li>\r\n<li><a
+  href=\"http://de.wikipedia.org/wiki/Stockholm\">Stockholm</a></li>\r\n</ul>\r\n\r\n<h2
+  id=\"welcheoshabtihrbenutzt01:25:31\">Welche OS habt ihr benutzt? (01:25:31)</h2>\r\n\r\n<ul>\r\n<li>Quasi
+  alle OSe die es gibt</li>\r\n</ul>\r\n\r\n<h2 id=\"die4wichtigstenappsaufdeinemsmartphonesind01:32:48\">Die
+  4 wichtigsten Apps auf deinem Smartphone sind&#8230;? (01:32:48)</h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://tapbots.com/software/tweetbot\">Tweetbot</a></li>\r\n<li><a href=\"http://vemedio.com/products/instacast\">Instacast</a></li>\r\n<li><a
+  href=\"http://ioctocat.com\">iOctocat</a>\r\n\r\n<ul>\r\n<li><a href=\"http://nerdkunde.de/nk007.html\">Nerdkunde
+  NK007 mit Dennis Reimann</a></li>\r\n</ul></li>\r\n<li>Nachrichten</li>\r\n<li>Telefon</li>\r\n<li>Mail</li>\r\n<li><a
+  href=\"https://threema.ch/de\">Threema</a></li>\r\n<li>Uhr</li>\r\n<li><a href=\"https://play.google.com/store/apps/details?id=ch.bitspin.timely&amp;hl=de\">Timely</a></li>\r\n<li>Google
+  Authenticator: <a href=\"https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&amp;hl=de\">Android</a>,
+  <a href=\"https://itunes.apple.com/de/app/google-authenticator/id388497605?mt=8\">iOS</a></li>\r\n<li><a
+  href=\"https://itunes.apple.com/de/app/hde-otp-generator/id571240327?mt=8\">HDE
+  OTP</a></li>\r\n<li><a href=\"https://itunes.apple.com/de/app/sleep-cycle-alarm-clock/id320606217?mt=8\">Sleep
+  Cycle</a></li>\r\n</ul>\r\n\r\n<h2 id=\"abschied01:42:28\">Abschied (01:42:28)</h2>\r\n\r\n<ul>\r\n<li>Wir
+  haben noch Codes für <a href=\"http://rhinealitygames.com\">Super Spell Boy</a>.
+  Schreibt uns an <a href=\"alle@nerdkunde.de\">alle@nerdkunde.de</a> oder <a href=\"http://www.twitter.com/nerdkunde\">@nerdkunde</a>,
+  wenn ihr einen haben wollt.</li>\r\n<li><a href=\"http://uisprech.de\">UISprech
+  Podcast</a></li>\r\n</ul>"
+chapters:
+- !ruby/struct:Chapter
+  start: '00:00:00'
+  title: Meta Minutes
+- !ruby/struct:Chapter
+  start: '00:02:55'
+  title: Wie geht's euch denn heute so?
+- !ruby/struct:Chapter
+  start: '00:06:03'
+  title: 'Ein junger Nerd Padawan kommt zu Euch: Was wäre euer Tipp'
+- !ruby/struct:Chapter
+  start: '00:09:47'
+  title: Was war die größte Dummheit, die ihr Computerbezogen je begangen habt?
+- !ruby/struct:Chapter
+  start: '00:13:05'
+  title: Die 4 wichtigsten GUI Programme auf deinem Mac sind...?
+- !ruby/struct:Chapter
+  start: '00:19:25'
+  title: In einer klassischen Abenteuerrunde wählst du welchen Charakter?
+- !ruby/struct:Chapter
+  start: '00:23:10'
+  title: Was war euer erstes Programm, welches auch von _anderen_ Leuten benutzt wurde?
+- !ruby/struct:Chapter
+  start: '00:30:09'
+  title: Welche Serien faszinieren dich?
+- !ruby/struct:Chapter
+  start: '00:35:34'
+  title: Wie viele Stunden am Tag verbringst du _im Internet_?
+- !ruby/struct:Chapter
+  start: '00:39:30'
+  title: Homebrew ist frisch installiert. Welche 5 Command Line Tools kommen danach?
+- !ruby/struct:Chapter
+  start: '00:42:54'
+  title: Whitespace Sensitiv oder lieber nicht?
+- !ruby/struct:Chapter
+  start: '00:44:57'
+  title: Abseits vom Rechner, in welchem Thema "nerdet" ihr gerne rum
+- !ruby/struct:Chapter
+  start: '00:54:48'
+  title: Welchen Text Editor bentuzt du?
+- !ruby/struct:Chapter
+  start: '00:56:50'
+  title: Welchen Namespace nutzt ihr für eure Geräte?
+- !ruby/struct:Chapter
+  start: '01:03:03'
+  title: Was ist die erste Einstellung eures Betriebssystems die ihr auf jeden Fall
+    ändert?
+- !ruby/struct:Chapter
+  start: '01:06:07'
+  title: Welche Programmiersprache findet ihr momentam am Spannendsten?
+- !ruby/struct:Chapter
+  start: '01:10:44'
+  title: Was wolltet ihr als Kind werden und auf was würdet ihr umschulen, wenn ihr
+    nicht mehr IT-Fuzzi sein könnt/wollt?
+- !ruby/struct:Chapter
+  start: '01:17:03'
+  title: Wo würdest du gerne mal leben?
+- !ruby/struct:Chapter
+  start: '01:25:31'
+  title: Welche OS habt ihr benutzt?
+- !ruby/struct:Chapter
+  start: '01:32:48'
+  title: Die 4 wichtigsten Apps auf deinem Smartphone sind...?
+- !ruby/struct:Chapter
+  start: '01:42:28'
+  title: Abschied
