@@ -1,0 +1,102 @@
+--- !ruby/struct:Episode
+number: 15
+name: NK015 - Rails Rumble Review, Apple Air, Gaming Galore
+subtitle: Die erste Folge nach neuem System. Wir haben die festen Kategorien abgelegt
+  und bilden diese dynamisch aus den Nachrichten die wir finden. In dieser Folge geht
+  es um den 2013er Rails Rumble, die Apple Keynote vom 22.10. und neues in der Spielewelt
+length: 6213
+media:
+  descr:
+    size: 14302
+    file_ext: json
+  psc:
+    size: 517
+    file_ext: psc
+  opus:
+    size: 26396310
+    file_ext: opus
+  aac:
+    size: 52015137
+    file_ext: m4a
+  mp3:
+    size: 74856544
+    file_ext: mp3
+auphonic_uuid: MXu9UHo6z8iRJbuMre7KVC
+published_at: 2013-10-30 10:41:35.747576000 +01:00
+summary: "<h2 id=\"metaminutes00:00:00\">Meta Minutes (00:00:00)</h2>\r\n\r\n<ul>\r\n<li>Zu
+  Gast bei <a href=\"http://www.putpat.tv\">Putpat.tv</a></li>\r\n<li>Neues Konzept!</li>\r\n<li>Steffen
+  Tröster hört uns aus Finnland</li>\r\n</ul>\r\n\r\n<h2 id=\"narcissisticnews00:02:48\">Narcissistic
+  News (00:02:48)</h2>\r\n\r\n<ul>\r\n<li><a href=\"http://en.wikipedia.org/wiki/United_States_federal_government_shutdown_of_2013\">US
+  Government Shutdown</a>\r\n\r\n<ul>\r\n<li><a href=\"http://de.wikipedia.org/wiki/Samantha_Cristoforetti\">Samantha
+  Christoferetti</a></li>\r\n<li><a href=\"http://de.wikipedia.org/wiki/Gravity_(Film)\">Gravity
+  im Kino</a></li>\r\n<li><a href=\"https://plus.google.com/112628950566484266163/posts/eLfr3ND1iid\">Post
+  1</a></li>\r\n<li><a href=\"https://plus.google.com/112628950566484266163/posts/YK8FZJb3hjQ\">Post
+  2</a></li>\r\n</ul></li>\r\n<li><a href=\"http://bling.github.io/blog/2013/10/16/emacs-as-my-leader-evil-mode\">emacs
+  evil mode</a>\r\n\r\n<ul>\r\n<li><a href=\"http://www.sublimetext.com/docs/2/vintage.html\">Sublime
+  Vintage Mode</a></li>\r\n<li><a href=\"http://rubyrogues.com/126-rr-remote-pair-programming-with-sam-livingston-gray\">Ruby
+  Rogues 126</a></li>\r\n</ul></li>\r\n<li><a href=\"https://www.youtube.com/watch?v=D2RoYvcqhgM\">Marco
+  Arment über Angst, Konkurrenz, Podcasts und sein nächstes Projekt</a></li>\r\n<li>Prokratinieren
+  mit <a href=\"http://www.collectedcurios.com/sequentialart.php\">Sequential Art
+  Comic</a>\r\n\r\n<ul>\r\n<li><a href=\"http://xkcd.org\">XKCD</a></li>\r\n<li><a
+  href=\"http://thedoghousediaries.com\">Doghouse Diaries</a></li>\r\n<li><a href=\"http://www.cad-comic.com\">Ctrl-Alt-Delete</a></li>\r\n</ul></li>\r\n<li><a
+  href=\"http://kotaku.com/army-robot-fires-machine-gun-internet-watches-in-horro-1450408634\">Kampfroboter
+  der US Army</a>\r\n\r\n<ul>\r\n<li><a href=\"http://tardec.info/roboticsrodeo\">Demonstration
+  am 20.08. in Fort Benning</a></li>\r\n<li><a href=\"http://www.90percentofeverything.com/2010/01/21/xbox-controllers-used-in-the-millitary-life-mimicking-art\">Xbox
+  360 Controller bei der US Army</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2 id=\"railsrumblereview00:19:45\">Rails
+  Rumble Review (00:19:45)</h2>\r\n\r\n<ul>\r\n<li><a href=\"http://railsrumble.com\">Rails
+  Rumble</a></li>\r\n<li><a href=\"http://klauszanders.de/blog/2012/10/15/how-to-start-your-own-geocoder-in-48-hours\">GeoCoder
+  Projekt vom letzten Jahr</a></li>\r\n<li>&#8220;Das Nerdkunde Team&#8221;\r\n\r\n<ul>\r\n<li>Alle
+  außer Klaus, dafür mit <a href=\"http://tfcl.de\">Dirk</a></li>\r\n<li><a href=\"https://auphonic.com\">Auphonic</a></li>\r\n<li><a
+  href=\"http://www.trello.com\">Trello</a></li>\r\n<li><a href=\"http://www.arangodb.org\">ArangoDB</a></li>\r\n<li><a
+  href=\"https://github.com/triAGENS/guacamole\">Guacamole</a></li>\r\n</ul></li>\r\n<li><a
+  href=\"http://rumble.seemespeak.org\">SeeMeSpeak</a>\r\n\r\n<ul>\r\n<li><a href=\"http://dict.cc\">Dict.cc</a></li>\r\n<li><a
+  href=\"http://rumble.seemespeak.org/videos/N4crRG9eSBO7u-KYdMWJ2w\">Kaffee in Deutscher
+  Gebärdensprache</a></li>\r\n<li><a href=\"http://rumble.seemespeak.org/videos/JJ8BtP6JQCGyO-jNxLO4mQ\">Merkel
+  in Deutscher Gebärdensprache</a></li>\r\n<li><a href=\"https://github.com/seemespeak/seemespeak\">Implementierungsdetails</a></li>\r\n<li><a
+  href=\"http://munich.rubyshift.org\">Ruby User Group München</a></li>\r\n<li><a
+  href=\"http://torquebox.org\">TorqueBox</a></li>\r\n<li><a href=\"http://www.elasticsearch.org\">ElasticSearch</a></li>\r\n</ul></li>\r\n<li><a
+  href=\"http://railsrumble.com/entries/all\">Andere interessante Einträge</a>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://railsrumble.com/entries/86-llama-or-alpaca\">Llama or Alpaca?</a></li>\r\n<li><a
+  href=\"http://railsrumble.com/entries/532-touchtypein\">TouchTypeIn</a></li>\r\n<li><a
+  href=\"http://railsrumble.com/entries/192-splendid-mail\">Splendid Mail</a></li>\r\n<li><a
+  href=\"http://railsrumble.com/entries/421-i-like-you-really\">I Like You Really</a></li>\r\n<li><a
+  href=\"http://lightning-thunderbolts.r13.railsrumble.com\">Bughunter</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2
+  id=\"appleair00:43:45\">Apple Air (00:43:45)</h2>\r\n\r\n<ul>\r\n<li><a href=\"http://www.apple.com/de/ipad-air\">iPad
+  Air</a></li>\r\n<li><a href=\"http://www.apple.com/de/ipad-mini\">iPad Mini Retina</a></li>\r\n<li><a
+  href=\"http://thenextweb.com/apple/2013/10/22/ipad-air-vs-ipad-4-apple-changed\">Unterschiede
+  beim iPad</a></li>\r\n<li><a href=\"http://www.apple.com/de/mac-pro\">Mac Pro</a></li>\r\n<li><a
+  href=\"http://www.apple.com/de/macbook-pro\">MacBook Pro</a></li>\r\n<li><a href=\"https://itunes.apple.com/us/app/os-x-mavericks/id675248567?mt=12\">Mavericks
+  umsonst</a></li>\r\n<li>App Store Pricing\r\n\r\n<ul>\r\n<li><a href=\"http://dennisreimann.de/blog/app-store-pricing\">Dennis
+  Reimann über App Store Pricing</a></li>\r\n<li><a href=\"http://geekstammtisch.de/#GST024\">Geek
+  Stammtisch über Super Spell Boy</a></li>\r\n<li><a href=\"http://flexibits.com/fantastical\">Fantastical</a></li>\r\n<li><a
+  href=\"http://tapbots.com\">Tapbots</a></li>\r\n<li><a href=\"http://monoxyd.de/20130118-die-wahrheit-017-threema-smartphone-messenger-mit-verschlusselung\">Die
+  Wahrheit 17: Threema</a></li>\r\n</ul></li>\r\n<li><a href=\"http://hypercritical.co/2013/10/22/mavericks\">John
+  Siracusas Review on Mavericks</a></li>\r\n<li><a href=\"http://www.macstories.net/roundups/os-x-mavericks-tips-tricks-and-details\">Tips
+  from Ticci</a></li>\r\n<li><a href=\"http://www.appgefahren.de/keynote-ilife-iwork-apps-kostenlos-komplett-ueberarbeitet-84429.html\">iWork
+  &amp; iLife umsonst zu neuen Geräten</a></li>\r\n<li>iWork Collaboration in der
+  Cloud</li>\r\n</ul>\r\n\r\n<h2 id=\"gaminggalore01:23:48\">Gaming Galore (01:23:48)</h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://www.slashgear.com/ingress-for-ios-coming-in-2014-14301236/\">Ingress
+  für iPhone</a>\r\n\r\n<ul>\r\n<li><a href=\"http://ios-ingress.com\">Quellcode</a>
+  (nicht offiziell, aber trotzdem &#8230;)</li>\r\n</ul></li>\r\n<li><a href=\"http://www.golem.de/news/john-carmack-oculus-rift-soll-raeumliche-position-erkennen-1310-102250.html\">Oculus
+  Rift mit Android</a></li>\r\n<li><a href=\"http://arstechnica.com/gaming/2013/09/diablo-3-to-permanently-remove-its-auction-houses-in-march-2014\">Diablo
+  3 Auktionshaus tot</a></li>\r\n</ul>\r\n\r\n<h2 id=\"byebyefriends01:42:45\">Bye,
+  Bye Friends (01:42:45)</h2>\r\n\r\n<ul>\r\n<li><a href=\"http://weknowmemes.com/2013/08/sir-are-you-aware-you-are-a-cat\">Sir, are you aware that you are a cat?</a></li>\r\n</ul>"
+chapters:
+- !ruby/struct:Chapter
+  start: '00:00:00'
+  title: Meta Minutes
+- !ruby/struct:Chapter
+  start: '00:02:48'
+  title: Narcissistic News
+- !ruby/struct:Chapter
+  start: '00:19:45'
+  title: Rails Rumble Review
+- !ruby/struct:Chapter
+  start: '00:43:45'
+  title: Apple Air
+- !ruby/struct:Chapter
+  start: '01:23:48'
+  title: Gaming Galore
+- !ruby/struct:Chapter
+  start: '01:42:45'
+  title: Bye, Bye Friends
