@@ -1,0 +1,108 @@
+--- !ruby/struct:Episode
+number: 17
+name: NK017 - Ruby Relics, Generation GitHub, Tiny Tinfoils
+subtitle: Lucas ist aus Miami zurück und hat uns viel Feedback zur letzten Folge mitgebracht.
+  Außerdem gibt es viele neue Ruby Releases. Wir diskutieren den Trend, GitHub Profile
+  von Bewerbern anzuschauen und blicken noch einmal auf den NSA-Sommer zurück.
+length: 6821
+media:
+  descr:
+    size: 14735
+    file_ext: json
+  psc:
+    size: 612
+    file_ext: psc
+  opus:
+    size: 28913845
+    file_ext: opus
+  aac:
+    size: 56990931
+    file_ext: m4a
+  mp3:
+    size: 82148091
+    file_ext: mp3
+auphonic_uuid: JLTwzYUYjiyW54szaNhMhk
+published_at: 2013-11-25 00:08:10.503241000 +01:00
+summary: "<h2 id=\"wiegehtsunsheuteso00:00:00\">Wie geht&#8217;s uns heute so? (00:00:00)</h2>\r\n\r\n<h2
+  id=\"metaminutes00:00:45\">Meta Minutes (00:00:45)</h2>\r\n\r\n<ul>\r\n<li><a href=\"https://twitter.com/DonSchado/status/400398439651237888\">Marco
+  hat sein Alter falsch angegeben, er ist 29</a></li>\r\n<li>Thema Zeros in JavaScript:
+  NaN ist auch in Ruby nicht gleich zu NaN. Nicht nur in JavaScript. Und das ist auch
+  gut so\r\n\r\n<ul>\r\n<li>Ruby: <code>Float::NAN == Float::NAN</code></li>\r\n<li>Python:
+  <code>float('nan') == float('nan')</code></li>\r\n<li>Scheme: <code>(= +nan.0 +nan.0)</code></li>\r\n<li>Java:
+  <code>NaN = 0.0 / 0.0; NaN == NaN</code></li>\r\n</ul></li>\r\n<li>Rubinius X ist
+  nicht die Zukunft von Rubinius. Es ist eine Spielwiese</li>\r\n<li><a href=\"http://about.travis-ci.org/blog/2013-11-22-travis-foundation-launches-open-source-grants\">Travis
+  Foundation gegründet, unterstützt Michael Papis bis Mitte Januar</a>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://railsgirlssummerofcode.org\">Rails Girls Summer of Code</a></li>\r\n</ul></li>\r\n<li>Tests
+  bei Command Line Tools\r\n\r\n<ul>\r\n<li>RVM ist Test Driven Entwickelt</li>\r\n<li>Auch
+  <code>ls</code> ist getestet http://ftp.gnu.org/gnu/coreutils – da den Folder test
+  und dort bei <code>ls</code> anschauen</li>\r\n</ul></li>\r\n<li><a href=\"https://en.wikipedia.org/wiki/Futures_and_promises\">Futures
+  &amp; Promises</a></li>\r\n</ul>\r\n\r\n<h2 id=\"narcissisticnews00:13:12\">Narcissistic
+  News (00:13:12)</h2>\r\n\r\n<ul>\r\n<li><a href=\"http://www.nintendo.de/Nintendo-3DS/Nintendo-3DS-94560.html\">Nintendo
+  3DS</a>\r\n\r\n<ul>\r\n<li><a href=\"http://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_Between_Worlds\">Zelda
+  - A Link Between Worlds</a></li>\r\n</ul></li>\r\n<li><a href=\"http://xkcd.com/1291\">XKCD</a></li>\r\n<li><a
+  href=\"https://twitter.com/coderdojocgn\">Coder Dojo Köln</a></li>\r\n<li><a href=\"http://doctorbeet.blogspot.ru/2013/11/lg-smart-tvs-logging-usb-filenames-and.html\">LG
+  SmartTV telefoniert nach hause</a></li>\r\n<li><a href=\"http://www.golem.de/news/kult-programmierer-john-carmack-verlaesst-id-software-1311-102925.html\">John
+  Carmack verlässt id Software</a></li>\r\n</ul>\r\n\r\n<h2 id=\"rubyrelics00:26:20\">Ruby
+  Relics (00:26:20)</h2>\r\n\r\n<ul>\r\n<li><a href=\"https://www.ruby-lang.org/en/news/2013/11/22/heap-overflow-in-floating-point-parsing-cve-2013-4164\">Ruby
+  Security Vulnerability: Heap Overfloew in Floating Point Parsing</a></li>\r\n<li><a
+  href=\"https://www.ruby-lang.org/en/news/2013/11/22/ruby-2-1-0-preview2-is-released\">Ruby
+  2.1 preview 2</a></li>\r\n<li>Special zur RubyConf vom Geekstammtisch – Link reichen
+  wir per Twitter/App.net nach ;)</li>\r\n</ul>\r\n\r\n<h2 id=\"generationgithub00:33:21\">Generation
+  GitHub (00:33:21)</h2>\r\n\r\n<p>Sollte das öffentliche Github Profil als Einstellungsmerkmal
+  genutzt werden?</p>\r\n\r\n<ul>\r\n<li><a href=\"http://ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community\">The
+  Ethics of Unpaid Labor and the OSS Community</a></li>\r\n<li><a href=\"http://hacken.in\">hacken.in</a></li>\r\n<li><a
+  href=\"http://blog.jcoglan.com/2013/11/15/why-github-is-not-your-cv\">Why Github
+  is not your CV</a></li>\r\n<li><a href=\"https://news.ycombinator.com/item?id=6752800\">Diskussion
+  um resume.github.io</a>\r\n\r\n<ul>\r\n<li><a href=\"http://resume.github.io/?klaustopher\">Klausens
+  GitHub Resumé</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2 id=\"tinytinfoils01:05:15\">Tiny
+  Tinfoils (01:05:15)</h2>\r\n\r\n<ul>\r\n<li><a href=\"http://logbuch-netzpolitik.de/lnp085-tatmittel-internet\">Logbuch
+  Netzpolitik Folge mit Clemens Schrimpe</a></li>\r\n<li><a href=\"https://plus.google.com/108799184931623330498/posts/SfYy8xbDWGG\">Google
+  Engineer Brandon Downey: &#8222;Fuck these guys&#8220;</a></li>\r\n<li><a href=\"http://www.youtube.com/watch?v=anwy2MPT5RE\">Monty
+  Python SPAM</a></li>\r\n<li><a href=\"http://silentcircle.wordpress.com/2013/10/30/announcing-the-dark-mail-alliance-founded-by-silent-circle-lavabit\">Silent
+  Circle &amp; Lavabit bilden die “Dark Mail Alliance” um Mail 3.0 zu bauen</a>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://de.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol\">XMPP</a></li>\r\n<li><a
+  href=\"http://en.wikipedia.org/wiki/STARTTLS\">STARTTLS</a></li>\r\n</ul></li>\r\n<li><a
+  href=\"http://blog.quarkslab.com/imessage-privacy.html\">iMessage Privacy</a></li>\r\n<li><a
+  href=\"http://linux.slashdot.org/story/13/09/19/0227238/linus-torvalds-admits-hes-been-asked-to-insert-backdoor-into-linux\">NSA
+  Backdoor in Linux? - Linus Torvalds antwortet</a></li>\r\n<li><a href=\"http://engineering.linkedin.com/mobile/linkedin-intro-doing-impossible-ios\">LinkedIn
+  mit eigenem Mail Proxy - What could possibly go wrong?</a>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://jordan-wright.github.io/blog/2013/10/26/phishing-with-linkedins-intro\">Und
+  schon der erste Phishing Ansatz</a></li>\r\n</ul></li>\r\n<li><a href=\"http://alternativlos.org/30\">Neuste
+  Alternativlosfolge (30) zum Kryptographie und Cyber War</a></li>\r\n<li><a href=\"http://lanyrd.com/2012/29c3/scbqch/\">29c3
+  Telling the Truth about Secret US Government Power Becomes a Crime</a></li>\r\n<li>NSA
+  leaks in chronological order\r\n\r\n<ul>\r\n<li><a href=\"http://www.reddit.com/r/NSALeaks/comments/1p0two/nsaleaks_as_of_102213_chronological_order\">Auf
+  Reddit</a></li>\r\n<li><a href=\"http://america.aljazeera.com/articles/multimedia/timeline-edward-snowden-revelations.html\">Auf
+  Al Jazeera America</a></li>\r\n</ul></li>\r\n<li>Threema Kontaktliste wird immer
+  länger</li>\r\n</ul>\r\n\r\n<h2 id=\"washabtihrgelesengegucktgehrt01:44:46\">Was
+  habt ihr gelesen/geguckt/gehört? (01:44:46)</h2>\r\n\r\n<ul>\r\n<li><a href=\"http://patshaughnessy.net/ruby-under-a-microscope\">Ruby
+  under the Microscope</a></li>\r\n<li><a href=\"http://www.youtube.com/watch?v=t_W8H4SOAGA\">Black
+  Hat Recordings USA 2013, Pwnie Awards</a></li>\r\n<li><a href=\"http://37signals.com/remote/\">Remote</a></li>\r\n<li><a
+  href=\"http://www.amazon.de/Arbeitsfrei-Eine-Entdeckungsreise-Maschinen-ersetzen/dp/3570501558\">Arbeitsfrei</a></li>\r\n<li><a
+  href=\"https://gumroad.com/l/nshipster\">NS Hipster</a></li>\r\n<li><a href=\"http://de.wikipedia.org/wiki/Metro_2033_%28Roman%29\">Metro
+  2033</a></li>\r\n</ul>\r\n\r\n<p>Wir sind beim <a href=\"http://podunion.com/podwichteln\">Podwichteln
+  2013</a> dabei. Am 24.12. gibt es hier eine Folge, die von anderen Podcastern für
+  uns produziert wurde. Wir sind schon gespannt, was kommen wird.</p>\r\n\r\n<p>Uns
+  gibt es dann auch irgendwo anders zu hören. Wo genau? Das müsst ihr dann selber
+  herausfinden.</p>"
+chapters:
+- !ruby/struct:Chapter
+  start: '00:00:00'
+  title: Wie geht's uns heute so?
+- !ruby/struct:Chapter
+  start: '00:00:45'
+  title: Meta Minutes
+- !ruby/struct:Chapter
+  start: '00:13:12'
+  title: Narcissistic News
+- !ruby/struct:Chapter
+  start: '00:26:20'
+  title: Ruby Relics
+- !ruby/struct:Chapter
+  start: '00:33:21'
+  title: Generation Github
+- !ruby/struct:Chapter
+  start: '01:05:15'
+  title: Tiny Tinfoils
+- !ruby/struct:Chapter
+  start: '01:44:46'
+  title: Was habt ihr gelesen/geguckt/gehört?
