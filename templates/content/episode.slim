@@ -35,3 +35,18 @@ ul.downloads.pull-right
 
 .description
   == description
+
+.comments
+  #disqus_thread
+  javascript:
+    var disqus_disable_mobile = true;
+    var disqus_shortname = 'nerdkunde';
+    (function() {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+  a.dsq-brlink href="http://disqus.com"
+    | comments powered by 
+    span.logo-disqus Disqus
+    
