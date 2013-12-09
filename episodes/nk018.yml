@@ -1,0 +1,111 @@
+--- !ruby/struct:Episode
+number: 18
+name: NK018 - Mobile Maniacs, Ruby Relics, Neckbeard Narrativ
+subtitle: Unsere letzte eigene Folge für dieses Jahr. Wir diskutieren in voller Besetzung
+  die Adaption von Android KitKat vs. iOS 7, die Zukunft von Bundler, Konsolentools,
+  die Wünsche von Richard Stallman, Amazons Lieferung per Drohnen sowie viele andere
+  Themen.
+length: 6395
+media:
+  descr:
+    size: 15546
+    file_ext: json
+  psc:
+    size: 747
+    file_ext: psc
+  opus:
+    size: 27026226
+    file_ext: opus
+  aac:
+    size: 53502138
+    file_ext: m4a
+  mp3:
+    size: 77034507
+    file_ext: mp3
+auphonic_uuid: Cv2hzdXMhivcDLCETUgTDR
+published_at: 2013-12-09 10:45:46.675976000 +01:00
+summary: "<h2 id=\"begrung00:00:00\">Begrüßung <code>00:00:00</code></h2>\r\n\r\n<h2
+  id=\"wiegehteseuch00:00:30\">Wie geht es euch? <code>00:00:30</code></h2>\r\n\r\n<h2
+  id=\"metaminutes00:02:22\">Meta Minutes <code>00:02:22</code></h2>\r\n\r\n<ul>\r\n<li>Follow
+  Up\r\n\r\n<ul>\r\n<li><a href=\"https://alpha.app.net/uwe/post/15844109\">Uwe via
+  ADN zum Thema Tafelcoding</a></li>\r\n<li><a href=\"http://www.heise.de/newsticker/meldung/Studie-Job-Vermittlung-via-Social-Network-bei-Arbeitgebern-beliebter-als-bei-Arbeitnehmern-2053341.html\">Social
+  Media Personalsuche ist bei Personalern beliebt, bei Mitarbeitern nicht</a></li>\r\n<li><a
+  href=\"https://twitter.com/bitboxer/status/408548863906430976\">Bodos Tweet</a></li>\r\n<li><a
+  href=\"http://www.kickstarter.com/projects/ladar/lavabits-dark-mail-initiative\">Dark
+  Mail hat sein Funding Goal erreicht</a></li>\r\n<li><a href=\"http://geekstammtisch.de#GST026\">RubyConf
+  Geekstammtisch Folge ist online</a></li>\r\n<li><a href=\"http://www.confreaks.com/events/rubyconf2013\">RubyConf
+  Videos sind online, inkl. Pry Video</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2 id=\"narcissisticnews00:07:43\">Narcissistic
+  News <code>00:07:43</code></h2>\r\n\r\n<ul>\r\n<li><a href=\"https://www.facebook.com/media/set/?set=a.10152491759569988.1073741842.71726614987&amp;type=1\">Orkan
+  Xaver und wie das Miniatur Wunderland damit umgeht</a></li>\r\n<li><a href=\"http://rubyrogues.com/134-rr-sharktime-with-lucas-dohmen\">Lucas
+  bei den Ruby Rogues</a></li>\r\n<li><a href=\"https://events.ccc.de/congress/2013/Fahrplan/schedule.html\">30c3
+  Fahrplan online</a></li>\r\n<li><a href=\"http://www.nzz.ch/aktuell/international/auslandnachrichten/japan-billigt-umstrittenes-geheimhaltungsgesetz-1.18199701\">Japan
+  beschließt Geheimhaltungsgesetz</a></li>\r\n</ul>\r\n\r\n<h2 id=\"mobilemaniacs00:15:01\">Mobile
+  Maniacs <code>00:15:01</code></h2>\r\n\r\n<ul>\r\n<li><a href=\"http://thenextweb.com/google/2013/12/03/one-month-after-launch-kitkat-is-installed-on-1-1-of-active-android-devices\">Kit
+  Kat “schon” bei 1.1%</a>\r\n\r\n<ul>\r\n<li><a href=\"https://developer.apple.com/support/appstore/\">iOS
+  7 schon auf 74%</a></li>\r\n<li><a href=\"http://www.fidlee.com/android-support-vs-ios-support\">Android
+  Fragmentierung mal sehr gut veranschaulicht</a></li>\r\n</ul></li>\r\n<li><a href=\"http://www.reuters.com/article/2013/12/05/us-usa-obama-apple-idUSBRE9B402Y20131205\">Obama
+  darf kein iPhone benutzen</a>\r\n\r\n<ul>\r\n<li><a href=\"http://www.techhive.com/article/155010/obama.html\">ZuneGate</a></li>\r\n<li><a
+  href=\"http://www.heise.de/ix/meldung/Technische-Details-zum-Merkel-Phone-2-0-1815368.html\">Merkelphone
+  2.0</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2 id=\"rubyrelicsjavajecken00:38:11\">Ruby
+  Relics / Java Jecken <code>00:38:11</code></h2>\r\n\r\n<ul>\r\n<li><a href=\"https://github.com/rubysec/bundler-audit\">Bundler
+  Audit</a></li>\r\n<li><a href=\"http://weblog.rubyonrails.org/2013/12/3/Rails_3_2_16_and_4_0_2_have_been_released/\">Aktuelle
+  Sicherheitslücken in Rails 3.2.15 und 4.0.0</a></li>\r\n<li><a href=\"https://github.com/jruby/jruby/issues/1146#issuecomment-29714318\">Bundler
+  wird Teil von Rubygems</a></li>\r\n<li><a href=\"http://thechangelog.com/rails-4-1-get-spring-step\">Rails
+  nun standardmäßig mit Spring</a></li>\r\n<li><a href=\"http://torquebox.org/news/2013/12/04/torquebox-next-generation\">TorqueBox
+  - the next generation</a>\r\n\r\n<ul>\r\n<li><a href=\"http://windup.jboss.org\">JBoss
+  WindUp</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2 id=\"neckbeardnarrative00:53:57\">Neckbeard
+  Narrative <code>00:53:57</code></h2>\r\n\r\n<ul>\r\n<li><a href=\"http://goosecode.com/watson/\">Watson
+  - Issues im Code</a></li>\r\n<li><a href=\"https://github.com/belluzj/cosmic-sans-neue\">Cosmic
+  Sans Neue Mono</a>\r\n\r\n<ul>\r\n<li><a href=\"http://store2.adobe.com/cfusion/store/html/index.cfm?store=OLS-DE&amp;event=displayFontPackage&amp;code=1960\">Source
+  Code Pro</a></li>\r\n<li><a href=\"https://github.com/belluzj/cosmic-sans-neue/issues/13\">GitHub
+  Issue Danksagung</a></li>\r\n<li><a href=\"http://brettterpstra.com\">Brett Terpstras
+  Homepage</a></li>\r\n</ul></li>\r\n<li><a href=\"https://github.com/busyloop/lolcat\">lolcat</a></li>\r\n<li><a
+  href=\"http://en.wikipedia.org/wiki/Fortune_%28Unix%29\">fortune</a></li>\r\n<li><a
+  href=\"http://cowsay.morecode.org\">cowsay</a></li>\r\n<li><a href=\"http://langlangmatrix.com\">LangLang</a>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://tim-and-klaus.de/tak001-es-weihnachtet-ein-wenig/\">Tim über RPython
+  und VM Bau</a></li>\r\n</ul></li>\r\n<li><a href=\"https://lists.gnu.org/archive/html/emacs-devel/2013-11/msg00515.html\">Richard
+  Stallman wünscht sich, dass das WYSIWYG Feature von Emacs fertig gebaut wird</a></li>\r\n<li><a
+  href=\"https://github.com/nelhage/reptyr\">reptyr</a>\r\n\r\n<ul>\r\n<li><a href=\"https://upload.wikimedia.org/wikipedia/commons/e/e1/Lightmatter_guenon.jpg\">Meerkat</a></li>\r\n<li><a
+  href=\"http://tmux.sourceforge.net\">tmux</a></li>\r\n</ul></li>\r\n<li><a href=\"http://home.tamk.fi/~jaalto/course/coding-style/doc/unmaintainable-code/\">How
+  to write unmaintainable Code</a></li>\r\n<li><a href=\"http://www.amazon.com/b?ie=UTF8&amp;node=8037720011\">Amazon
+  Prime Air</a>\r\n\r\n<ul>\r\n<li><a href=\"http://www.golem.de/news/amazon-prime-air-wie-realistisch-amazons-drohnenflug-wirklich-ist-1312-103082.html\">Wie
+  realistisch ist das Ganze?</a></li>\r\n<li><a href=\"http://www.der-postillon.com/2013/12/amazon-plant-pakete-mit-riesigen.html\">Der
+  Postillon</a></li>\r\n<li><a href=\"https://dl.dropboxusercontent.com/u/4273585/hermes.jpg\">Hermes
+  Tweet</a></li>\r\n<li><a href=\"http://www.heise.de/newsticker/meldung/c-t-testet-Heftlieferung-per-Drohne-2060778.html\">Heise.de</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2
+  id=\"washabtihrgelesengegucktgehrt01:36:35\">Was habt ihr gelesen/geguckt/gehört?
+  <code>01:36:35</code></h2>\r\n\r\n<ul>\r\n<li>Lucas\r\n\r\n<ul>\r\n<li><a href=\"http://www.imdb.com/title/tt0268126/?ref_=nm_knf_i2\">Adaption</a></li>\r\n<li><a
+  href=\"http://www.imdb.com/title/tt0088763/\">Back to the Future</a></li>\r\n</ul></li>\r\n<li>Klaus\r\n\r\n<ul>\r\n<li><a
+  href=\"http://www.culinaricast.de\">Culinaricast</a></li>\r\n</ul></li>\r\n<li>Essy\r\n\r\n<ul>\r\n<li><a
+  href=\"http://www.amazon.de/Hands--Node-js-Pedro-Teixeira-ebook/dp/B004ZURMXY/ref=sr_1_1?ie=UTF8&amp;qid=1386520956&amp;sr=8-1&amp;keywords=hands-on+node.js\">Hands
+  on Node.js</a></li>\r\n<li><a href=\"http://methodischinkorrekt.wordpress.com/\">Methodisch
+  Inkorrekt Podcast</a></li>\r\n</ul></li>\r\n<li>Tobi\r\n\r\n<ul>\r\n<li><a href=\"http://www.amazon.de/W%C3%A4chter-Nacht-Roman-Sergej-Lukianenko/dp/3453530802/ref=sr_1_sc_1?ie=UTF8&amp;qid=1386528494&amp;sr=8-1-spell&amp;keywords=w%C3%A4chter+de+rnacht\">Wächter
+  der Nacht</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2 id=\"verabschiedung01:44:30\">Verabschiedung
+  <code>01:44:30</code></h2>"
+chapters:
+- !ruby/struct:Chapter
+  start: '00:00:00'
+  title: Begrüßung
+- !ruby/struct:Chapter
+  start: '00:00:30'
+  title: Wie geht es euch?
+- !ruby/struct:Chapter
+  start: '00:02:22'
+  title: Meta Minutes
+- !ruby/struct:Chapter
+  start: '00:07:43'
+  title: Narcissistic News
+- !ruby/struct:Chapter
+  start: '00:15:01'
+  title: Mobile Maniacs
+- !ruby/struct:Chapter
+  start: '00:38:11'
+  title: Ruby Relics / Java Jecken
+- !ruby/struct:Chapter
+  start: '00:53:57'
+  title: Neckbeard Narrative
+- !ruby/struct:Chapter
+  start: '01:36:35'
+  title: Was habt ihr gelesen/geguckt/gehört?
+- !ruby/struct:Chapter
+  start: '01:44:30'
+  title: Verabschiedung
