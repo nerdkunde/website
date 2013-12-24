@@ -1,0 +1,41 @@
+--- !ruby/struct:Episode
+number: 19
+name: 'NK019 - Podwichteln 2013: Frohe Kunde über den Nerd'
+subtitle: 'Diese Folge ist ein Geschenk, das wir zum Podwichteln 2013 geschenkt bekommen
+  haben. Wo die Folge herkommt erfahrt ihr am 31.12.2013 auf der Internetseite der
+  Podunion.'
+length: 869
+media:
+  mp3:
+    size: 10704987
+    file_ext: mp3
+  aac:
+    size: 7625321
+    file_ext: m4a
+  descr:
+    size: 10055
+    file_ext: json
+  opus:
+    size: 3567078
+    file_ext: opus
+auphonic_uuid: caKFX2SHAPnFeUmstNARsD
+published_at: 2013-12-24 08:16:27.009378000 +01:00
+summary: "<p>Informationen, wer uns diese schöne Folge gewichtelt hat findet ihr ab dem 31.12.
+  auf der Homepage der <a href=\"http://podunion.com/podwichteln\">Podunion</a>. Wo es unsere Folge gibt?
+  Das müsst ihr herausfinden ;)</p>\r\n<p>Wir bedanken uns bei allen Hörern für ein tolles Jahr 2013. Wir
+  freuen uns auf das nächste Jahr! Euch allen ein paar schöne Weihnachtstage und einen guten Rutsch ins neue
+  Jahr.</p>\r\n<h2 id=\"begrung:\">Begrüßung:</h2>\r\n\r\n<ul>\r\n<li>Mein Name als Cliffhanger</li>\r\n<li>Vielen
+  Dank, das ich dabei sein darf</li>\r\n<li>Heute mal alleine</li>\r\n</ul>\r\n\r\n<h2
+  id=\"ichundnerds\">Ich und Nerds</h2>\r\n\r\n<ul>\r\n<li>mein Problem mit dem Verstehen</li>\r\n<li>ich
+  als Heizungsnerd</li>\r\n<li>Blindflug durch die Welt von Ruby, Java, Python und
+  Scheme</li>\r\n<li>Ruby, das Mädchen aus der 6ten</li>\r\n<li>Java vs. Jewer</li>\r\n<li>Mein
+  Atari 2600 in den 80ern</li>\r\n</ul>\r\n\r\n<h2 id=\"wasisteinechternerd\">Was
+  ist ein echter Nerd?</h2>\r\n\r\n<ul>\r\n<li>der Streber und Sonderling</li>\r\n<li>manchmal
+  mit erhöhten IQ</li>\r\n<li>meist Computerenthusiasten (Freaks)</li>\r\n<li>Das
+  Gedicht von Dr. Sues</li>\r\n</ul>\r\n\r\n<h2 id=\"derzwischenfallimfallrohr\">Der
+  Zwischenfall im Fallrohr</h2>\r\n\r\n<h2 id=\"welchekonsoleistdierichtige\">Welche
+  Konsole ist die Richtige</h2>\r\n\r\n<ul>\r\n<li>Der Preis ist heiß</li>\r\n<li>Hoffen
+  auf Preissenkungen im neuen Jahr</li>\r\n<li>Playstation 4 doch mehr zum Spielen</li>\r\n<li>X-Box
+  one kann sogar skypen</li>\r\n<li>Tendenz zur X-Box</li>\r\n</ul>\r\n\r\n<h2 id=\"verabschiedungundbestewnsche\">Verabschiedung
+  und beste Wünsche</h2>"
+chapters: []
