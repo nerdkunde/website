@@ -1,0 +1,56 @@
+--- !ruby/struct:Episode
+number: 20
+name: NK020 - Sprachlos auf dem 30C3 (aka GST028)
+subtitle: Essy, Lucas, Tobias, Bodo, Dirk und Basti berichten ihre Eindrücke vom 30C3
+length: 2835
+media:
+  mp3:
+    size: 34300637
+    file_ext: mp3
+  aac:
+    size: 24331906
+    file_ext: m4a
+  psc:
+    size: 347
+    file_ext: psc
+  descr:
+    size: 11732
+    file_ext: json
+  opus:
+    size: 11669870
+    file_ext: opus
+auphonic_uuid: 3A4y8DFtTAV8os7YTUermd
+published_at: 2013-12-30 21:09:59.263941000 +01:00
+summary: "<p>Das zweite Joint Venture der @nerdkunde (ohne Klaus, mit Bodo) und des
+  @geekstammtisch (mit allen) live und in Farbe vom 30. Chaos Communication Congress
+  (30C3) aus dem @Sendezentrum. Wir geben einen kurzen persönlichen Rundblick über
+  die letzten vier Tage Kongress. Vielen Dank an das Sendezentrum für die Bereitstellung
+  des Equipments und Ralf (@rstockm) für die super Betreuung!</p>\r\n\r\n<h1 id=\"erffnung\">Eröffnung</h1>\r\n\r\n<ul>\r\n<li>Intro</li>\r\n<li>Nerdkunde-Style:
+  Wie geht es uns? Bitte jeder einmal kurz seine Eindrücke zum Congress</li>\r\n<li>Eröffnungsveranstaltung
+  mit Tim Pritlove und <a href=\"https://events.ccc.de/congress/2013/Fahrplan/events/5605.html\">super
+  Video</a>\r\n\r\n<ul>\r\n<li><a href=\"http://vimeo.com/82903406\">Vimeo</a></li>\r\n</ul></li>\r\n<li>Atmosphäre,
+  das Drumherum (und Coffeenerds)</li>\r\n</ul>\r\n\r\n<h1 id=\"unseretop-7\">Unsere
+  Top&#8211;7</h1>\r\n\r\n<ul>\r\n<li><a href=\"https://events.ccc.de/congress/2013/Fahrplan/events/5279.html\">Even
+  More Tamagotchis Were Harmed in the Making of this Presentation</a></li>\r\n<li><a
+  href=\"https://events.ccc.de/congress/2013/Fahrplan/events/5588.html\">My journey
+  into FM-RDS</a></li>\r\n<li><a href=\"https://events.ccc.de/congress/2013/Fahrplan/events/5714.html\">Fnord
+  News Show mit Frank und Fefe</a></li>\r\n<li><a href=\"https://events.ccc.de/congress/2013/Fahrplan/speakers/4428.html\">Die
+  Keynote mit Glenn Greenwald</a></li>\r\n<li><a href=\"https://events.ccc.de/congress/2013/Fahrplan/events/5210.html\">Bullshit
+  made in Germany mit Linus Neumann</a></li>\r\n<li><a href=\"https://events.ccc.de/congress/2013/Fahrplan/events/5604.html\">Seeing
+  The Secret State: Six Landscapes von Trevor Paglen</a></li>\r\n<li>Seidenstraße
+  und How to build your own bottle paket LEDs:\r\n\r\n<ul>\r\n<li><a href=\"https://events.ccc.de/congress/2013/Fahrplan/events/5610.html\">https://events.ccc.de/congress/2013/Fahrplan/events/5610.html</a></li>\r\n<li><a
+  href=\"https://twitter.com/bitboxer/status/417628749841313792/photo/1/large\">https://twitter.com/bitboxer/status/417628749841313792/photo/1/large</a></li>\r\n</ul></li>\r\n<li>Detaillierte
+  Übersicht / Interviews zum Congress: <a href=\"http://die-sondersendung.de/30c3\">Die
+  Sondersendung</a></li>\r\n</ul>\r\n\r\n<h3 id=\"solongandthankyouforallthefishmate\">So
+  long and thank you for all the fish mate</h3>\r\n\r\n<ul>\r\n<li>Danke an den CCC,
+  alle Engel und die Orga für eine großartigen Congress</li>\r\n</ul>"
+chapters:
+- !ruby/struct:Chapter
+  start: '00:00:00'
+  title: Eröffnung
+- !ruby/struct:Chapter
+  start: '00:07:53'
+  title: Unsere Top-7
+- !ruby/struct:Chapter
+  start: '00:44:07'
+  title: So long and thank you for all the (fish)mate
