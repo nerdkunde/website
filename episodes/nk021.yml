@@ -1,0 +1,112 @@
+--- !ruby/struct:Episode
+number: 21
+name: NK021 - Sein echter Name ist Kai
+subtitle: Wir begrüßen euch im Jahr 2014 mit Infos vom 30c3, dementsprechend auch
+  neuen Security Themen, neuen und alten Ruby Versionen und diskutieren über Softwarepatente
+  und E-Mail Hosting.
+length: 5974
+media:
+  aac:
+    size: 50059195
+    file_ext: m4a
+  mp3:
+    size: 71988928
+    file_ext: mp3
+  psc:
+    size: 673
+    file_ext: psc
+  descr:
+    size: 17478
+    file_ext: json
+auphonic_uuid: 9Wiw5f8VsmsuBHDgWqLwKN
+published_at: 2014-01-15 18:00:34.199385000 +01:00
+summary: "<h2 id=\"begrung00:00:00\">Begrüßung <code>00:00:00</code></h2>\r\n\r\n<ul>\r\n<li>Letzte
+  Aufnahme aus dem <a href=\"http://home-office-cologne.de\">Home Office Cologne in
+  der Hochstadenstraße</a></li>\r\n</ul>\r\n\r\n<h2 id=\"wiegehtsunsheute00:00:58\">Wie
+  geht&#8217;s uns heute? <code>00:00:58</code></h2>\r\n\r\n<ul>\r\n<li><a href=\"http://www.wanikani.com/login\">Wanikani</a></li>\r\n</ul>\r\n\r\n<h2
+  id=\"followup00:03:37\">Follow Up <code>00:03:37</code></h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://bobsonbob.de/\">Podwichteln Auflösung: Bobsonbob Podcast</a>\r\n\r\n<ul>\r\n<li>Wir
+  empfehlen die Playstation 4, jedenfalls zum Zocken</li>\r\n<li>Ansonsten ist die
+  Playstation 3 immernoch ein gutes Multimedia Gerät</li>\r\n</ul></li>\r\n<li><a
+  href=\"http://esel-und-teddy.podspot.de/post/podwichteln-2013\">Unsere Podwichtelfolge
+  bei der Esel &amp; Teddy Show</a></li>\r\n<li><a href=\"https://www.bountysource.com/fundraisers/489-rvm-2-0\">RVM
+  46.000 von 50.000, noch bis Dienstag</a>\r\n\r\n<ul>\r\n<li><a href=\"http://about.travis-ci.org/blog/2013-11-22-travis-foundation-launches-open-source-grants/\">Travis
+  Foundation</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2 id=\"favoritenews00:08:46\">Favorite
+  News <code>00:08:46</code></h2>\r\n\r\n<ul>\r\n<li><a href=\"http://www.rust-lang.org\">Rust</a></li>\r\n<li><a
+  href=\"http://nic.berlin\">Berlin NIC</a>\r\n\r\n<ul>\r\n<li><a href=\"https://www.netcologne.de/punkt-koeln/\">NetCologne:
+  .koeln und .cologne</a></li>\r\n<li><a href=\"http://www.golem.de/news/geotld-stadt-domain-berlin-ist-online-1401-103851.html\">Golem
+  Artikel dazu</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2 id=\"rubyrelics00:14:21\">Ruby
+  Relics <code>00:14:21</code></h2>\r\n\r\n<ul>\r\n<li><a href=\"https://www.ruby-lang.org/en/news/2013/12/17/maintenance-of-1-8-7-and-1-9-2/\">Ruby
+  1.8.7 und 1.9.2 werden doch noch supported</a></li>\r\n<li><a href=\"http://www.ruby-lang.org/en/news/2014/01/10/ruby-1-9-3-will-end-on-2015/\">Ruby
+  1.9.3 Support wird zum 23.2.2015 eingestellt</a></li>\r\n<li><a href=\"https://www.ruby-lang.org/en/news/2013/12/21/semantic-versioning-after-2-1-0/\">Ruby
+  nach 2.1.0 wird SemVer benutzen</a></li>\r\n<li><a href=\"https://www.ruby-lang.org/en/news/2013/12/25/ruby-2-1-0-is-released/\">Ruby
+  2.1.0 pünktlich am 25. Dezember released</a>\r\n\r\n<ul>\r\n<li><a href=\"http://tmm1.net\">Blog
+  von Aman Gupta</a></li>\r\n</ul></li>\r\n<li><a href=\"http://rubini.us/2014/01/06/happy-2014/\">Ein
+  neuer Sponsor für Brian Shirai &amp; Rubinius</a></li>\r\n</ul>\r\n\r\n<h2 id=\"tinytinfoils00:27:15\">Tiny
+  Tinfoils <code>00:27:15</code></h2>\r\n\r\n<ul>\r\n<li><a href=\"http://media.ccc.de/browse/congress/2013/i5TMBRf_-3TiDrceuY3osQ.html\">Jacob
+  Appelbaum - To Protect and Infect</a>\r\n\r\n<ul>\r\n<li><a href=\"https://de.wikipedia.org/wiki/Philip_K._Dick\">Philip
+  K. Dick</a></li>\r\n<li><a href=\"http://logbuch-netzpolitik.de/lnp089-botschaft-bedeutet-botschaft\">Logbuch
+  Netzpolitik #89</a></li>\r\n</ul></li>\r\n<li><a href=\"http://www.spiegel.de/netzwelt/netzpolitik/neue-dokumente-der-geheime-werkzeugkasten-der-nsa-a-941153.html\">Der
+  geheime Werkzeugkasten der NSA</a>\r\n\r\n<ul>\r\n<li><a href=\"http://kleinerdrei.org/2014/01/alles-sehr-real\">Kleiner
+  Drei Blogpost</a></li>\r\n</ul></li>\r\n<li><a href=\"https://blog.twitter.com/2013/forward-secrecy-at-twitter-0\">Twitter
+  setzt auf Forward Secrecy</a>\r\n\r\n<ul>\r\n<li><a href=\"https://github.com/blog/1727-introducing-forward-secrecy-and-authenticated-encryption-ciphers\">Github
+  auch</a></li>\r\n<li><a href=\"http://www.theverge.com/2013/6/26/4468050/facebook-follows-google-with-tough-encryption-standard\">Google
+  und Facebook auch</a></li>\r\n<li><a href=\"http://vincent.bernat.im/en/blog/2011-ssl-perfect-forward-secrecy.html\">Vincent
+  Bernat zu dem Thema</a></li>\r\n<li><a href=\"https://community.qualys.com/blogs/securitylabs/2013/06/25/ssl-labs-deploying-forward-secrecy\">SSL
+  Labs Artikel</a></li>\r\n</ul></li>\r\n<li><a href=\"https://www.howsmyssl.com\">How
+  is my SSL?</a>\r\n\r\n<ul>\r\n<li><a href=\"https://cc.dcsec.uni-hannover.de\">SSL
+  Cipher Suite Details of your browser</a></li>\r\n</ul></li>\r\n<li><a href=\"http://blogs.msdn.com/b/windows_hardware_certification/archive/2013/12/03/microsoft-uefi-ca-signing-policy-updates.aspx\">MS
+  signiert keinen GPLv3 Code mehr für SecureBoot</a></li>\r\n<li><a href=\"http://justdelete.me/\">Accounts
+  löschen - Übersicht und Direktlinks</a></li>\r\n<li><a href=\"http://arstechnica.com/security/2013/12/new-attack-steals-e-mail-decryption-keys-by-capturing-computer-sounds/\">Known-Plaintext
+  Angriff zum Abhören von Schlüsseln per Geräuschen des Rechners</a>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://www.cs.tau.ac.il/~tromer/acoustic/\">das Paper dazu hier</a></li>\r\n<li><a
+  href=\"http://www.spiegel.de/netzwelt/web/buegeleisen-aus-china-verbreiten-angeblich-per-w-lan-viren-a-931573.html\">Chinesiche
+  Bügeleisen mit WLAN Chips</a></li>\r\n<li><a href=\"http://media.ccc.de/browse/congress/2012/29c3-5244-de-en-security_nightmares2012_h264.html\">Security
+  Nightmares 30c3</a></li>\r\n<li><a href=\"http://matias.ca/securepro/pc/\">Secure
+  Pro Bluetooth Tastatur</a></li>\r\n</ul></li>\r\n<li>&#8222;Email made in Germany&#8220;
+  - Aber richtig\r\n\r\n<ul>\r\n<li><a href=\"http://media.ccc.de/browse/congress/2013/30C3_-_5210_-_de_-_saal_g_-_201312282030_-_bullshit_made_in_germany_-_linus_neumann.html\">Bullshit
+  Made in Germany 30c3</a></li>\r\n<li><a href=\"http://mail.google.com\">Google Mail</a></li>\r\n<li><a
+  href=\"http://www.uberspace.de\">Uberspace</a></li>\r\n<li><a href=\"http://tools.ietf.org/html/rfc5233\">RFC5233</a></li>\r\n<li><a
+  href=\"http://www.fastmail.fm\">Fastmail.fm</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2
+  id=\"patentproleten01:16:45\">Patent Proleten <code>01:16:45</code></h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://www.candlerblog.com/2013/12/23/no-thanks-ia\">iA Writer will ein Patent
+  auf Syntax Control</a>\r\n\r\n<ul>\r\n<li><a href=\"https://twitter.com/iA/status/416393539182796800\">Sie
+  rudern doch zurück</a></li>\r\n<li><a href=\"https://developer.apple.com/library/mac/documentation/cocoa/reference/NSLinguisticTagger_Class/Reference/Reference.html\">NSLinguisticTagger</a></li>\r\n<li><a
+  href=\"http://www.theverge.com/2013/12/21/5234580/patent-pending-ias-militant-stance-on-syntax-control\">Mehr
+  Details auf The Verge</a></li>\r\n<li><a href=\"http://markedapp.com/\">Marked</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2
+  id=\"whathaveyoubeenreadingwatchinglistening01:26:50\">What have you been reading
+  / watching / listening <code>01:26:50</code></h2>\r\n\r\n<ul>\r\n<li><a href=\"http://www.imdb.com/title/tt2234222/\">Orphan
+  Black</a></li>\r\n<li><a href=\"http://patshaughnessy.net/ruby-under-a-microscope\">Ruby
+  under a microscope</a></li>\r\n<li><a href=\"http://www.au4.ca\">Au4</a></li>\r\n<li><a
+  href=\"https://en.wikipedia.org/wiki/Sherlock_%28TV_series%29\">Sherlock</a></li>\r\n<li><a
+  href=\"http://www.rustforrubyists.com\">Rust for Rubyists</a></li>\r\n<li><a href=\"http://www.amazon.de/Infiziert-Frederike-Keup/dp/3453433637\">Infiziert</a></li>\r\n<li><a
+  href=\"http://scottsigler.com\">Scott Sigler</a></li>\r\n<li><a href=\"http://podiobooks.com/title/earthcore/\">Earthcore</a></li>\r\n<li><a
+  href=\"http://www.youtube.com/user/TheEmero/search?query=Let%27s+Play+Your+Level+3.0\">Let’s
+  Play Your Level von Emero</a>\r\n\r\n<ul>\r\n<li><a href=\"http://fusoya.eludevisibility.org/lm/\">Lunar
+  Magic</a></li>\r\n</ul></li>\r\n<li><a href=\"http://www.amazon.de/Bunte-Rapublik-Deutschpunk-exklusiv-Amazon/dp/B00FQHSHF2\">SDP
+  - Bunte Rapublik Deutschpunk</a></li>\r\n</ul>"
+chapters:
+- !ruby/struct:Chapter
+  start: '00:00:00'
+  title: Begrüßung
+- !ruby/struct:Chapter
+  start: '00:00:58'
+  title: Wie geht's uns heute?
+- !ruby/struct:Chapter
+  start: '00:03:37'
+  title: Follow Up
+- !ruby/struct:Chapter
+  start: '00:08:46'
+  title: Favorite News
+- !ruby/struct:Chapter
+  start: '00:14:21'
+  title: Ruby Relics
+- !ruby/struct:Chapter
+  start: '00:27:15'
+  title: Tiny Tinfoils
+- !ruby/struct:Chapter
+  start: '01:16:45'
+  title: Patent Proleten
+- !ruby/struct:Chapter
+  start: '01:26:50'
+  title: What have you been reading / watching / listening
