@@ -1,0 +1,122 @@
+--- !ruby/struct:Episode
+number: 22
+name: NK022 - Datawarehouse? Datacubes? Haben wir auch!
+subtitle: 'Wir haben uns im neuen HOC eingefunden und sind in absoluter Enterprise-Laune!
+  Wir stellen diese Folge in einen DataCube. Dort positionieren wir: 30 Jahre Macintosh,
+  die Post Privacy Ära und Privatsphäreeinstellungen, das BSI, Cobol vim und Emacs.'
+length: 6789
+media:
+  mp3:
+    size: 81773868
+    file_ext: mp3
+  aac:
+    size: 56738304
+    file_ext: m4a
+  psc:
+    size: 718
+    file_ext: psc
+  descr:
+    size: 18112
+    file_ext: json
+auphonic_uuid: z2fukUER6LR3LE7VBSm3W7
+published_at: 2014-01-27 15:23:40.174517000 +01:00
+summary: "<h2 id=\"introbegrung00:00:00\">Intro &amp; Begrüßung <code>00:00:00</code></h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://morsekode.com/SAP/\">The ERP of the Century</a> freundlicherweise
+  zur Verfügung gestellt von <a href=\"http://morsekode.com\">©Morsekode</a></li>\r\n</ul>\r\n\r\n<h2
+  id=\"wiegehtesunsheute00:01:07\">Wie geht es uns heute? <code>00:01:07</code></h2>\r\n\r\n<h2
+  id=\"followup00:02:12\">Follow Up <code>00:02:12</code></h2>\r\n\r\n<ul>\r\n<li>Rubinius
+  Entwickler mit neuen Positionen\r\n\r\n<ul>\r\n<li><a href=\"https://twitter.com/mattetti/status/424252646930014208\">Evan
+  Phoenix arbeitet bei Splice</a></li>\r\n<li><a href=\"https://github.com/blog/1726-dirkjan-bussink-is-a-githubber\">Dirkjan
+  Bussink bei GitHub</a></li>\r\n</ul></li>\r\n<li><a href=\"https://twitter.com/timbuchwaldt\">Tim
+  Buchwaldt</a>: <a href=\"http://blog.zensoftware.co.uk/2012/07/02/why-we-tend-to-recommend-not-having-a-secondary-mx-these-day\">Secondary
+  MX considered harmful</a></li>\r\n</ul>\r\n\r\n<h2 id=\"favoritenews00:05:42\">Favorite
+  News <code>00:05:42</code></h2>\r\n\r\n<ul>\r\n<li><a href=\"http://www.golem.de/news/raumfahrt-rosetta-ist-aufgewacht-1401-104046.html\">Rosetta
+  ist aufgewacht</a></li>\r\n<li><a href=\"http://urbanshit.de/?p=13797\">London Underground
+  Fake Signs</a>\r\n\r\n<ul>\r\n<li><a href=\"http://www.ksta.de/koeln/streetart-aktion-kvb-beseitigt-imaginaere-haltestellen,15187530,23774430.html\">Kölner
+  Streetart Aktion</a></li>\r\n<li><a href=\"http://tubesign.herokuapp.com\">Web App
+  zum Erstellen von Schildern</a></li>\r\n</ul></li>\r\n<li><a href=\"http://www.dailymail.co.uk/sciencetech/article-2008607/SonicStar-The-supersonic-plane-fly-London-New-York-TWO-HOURS.html\">Sonic
+  Star</a></li>\r\n<li><a href=\"http://lindaliukas.fi\">Linda Liukas</a> schreibt
+  ein <a href=\"http://www.kickstarter.com/projects/lindaliukas/hello-ruby\">Ruby
+  Buch für Kinder</a></li>\r\n</ul>\r\n\r\n<h2 id=\"macmaniacs00:16:48\">Mac Maniacs
+  <code>00:16:48</code></h2>\r\n\r\n<ul>\r\n<li><a href=\"https://www.apple.com/30-years\">30
+  Jahre Macintosh</a>\r\n\r\n<ul>\r\n<li><a href=\"http://www.youtube.com/watch?v=YShLWK9n2Sk#t=36m40s\">Präsentation
+  von Steve Jobs</a></li>\r\n<li><a href=\"http://en.wikipedia.org/wiki/Apple_Lisa\">Apple
+  Lisa</a></li>\r\n<li><a href=\"http://www.raspberrypi.org\">Raspberry Pi</a></li>\r\n</ul></li>\r\n<li><a
+  href=\"http://www.keacher.com/1216/how-i-introduced-a-27-year-old-computer-to-the-web/\">Ein
+  27 Jahre alter Mac Plus ans Netz gebracht</a></li>\r\n<li><a href=\"http://robots.thoughtbot.com/starting-and-stopping-background-services-with-homebrew\">Thoughtbot
+  zu <code>brew services</code></a>\r\n\r\n<ul>\r\n<li><a href=\"http://www.marco.org/2014/01/22/sunrise-asks-for-apple-id-password\">Es
+  gibt offensichtlich keine Regel, die es Apps verbietet, dich nach deinen Apple Credentials
+  zu fragen</a></li>\r\n</ul></li>\r\n<li><a href=\"https://github.com/marcoarment/BugshotKit\">BugShotKit</a></li>\r\n</ul>\r\n\r\n<h2
+  id=\"tinytinfoils00:39:25\">Tiny Tinfoils <code>00:39:25</code></h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://www.golem.de/news/kryptographie-openssh-ruestet-auf-1401-103988.html\">OpenSSH
+  rüstet auf</a></li>\r\n<li><a href=\"http://www.theguardian.com/world/2014/jan/16/nsa-collects-millions-text-messages-daily-untargeted-global-sweep\">NSA
+  sammelt jeden Tag millionenweise SMS ein</a>\r\n\r\n<ul>\r\n<li><em>An agency presentation
+  from 2011 – subtitled &#8222;SMS Text Messages: A Goldmine to Exploit&#8220;</em></li>\r\n<li><em>The
+  NSA program, codenamed Dishfire, collects &#8222;pretty much everything it can&#8220;</em></li>\r\n</ul></li>\r\n<li><a
+  href=\"https://www.blackphone.ch\">Silent Circle &amp; Geeksphone bauen das Blackphone</a></li>\r\n<li><a
+  href=\"https://brendaneich.com/2014/01/trust-but-verify\">Brendan Eich: “Firefox
+  ist der einzige Browser, dem man vertrauen kann – aber er muss trotzdem verifiziert
+  werden”</a></li>\r\n<li><a href=\"http://www.marco.org/2014/01/14/nest-privacy\">Eine
+  weitere super Übersetzung “Bullshit-to-English” für den Nest Kram</a></li>\r\n<li><a
+  href=\"http://www.telefoniert-nach-hause.de/index.php/Hauptseite\">Welche unserer
+  Devices telefonieren denn so ungefragt nach Hause?</a></li>\r\n<li><a href=\"https://addons.mozilla.org/de/firefox/addon/screenshot-pimp-screengrab-scr/privacy/\">FF
+  Addon Screenshot Pimp - Datenschutzerklärung, traurig, aber wahr?</a>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://tosdr.org\">ToS;DR</a></li>\r\n<li><a href=\"http://runkeeper.com/user/klaustopher/profile\">Klausens
+  Runkeeper Profil</a></li>\r\n<li><a href=\"http://vimeo.com/68470326\">How Designers
+  destroyed the world</a></li>\r\n<li><a href=\"http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1583509\">Choice
+  Architecture Paper</a></li>\r\n</ul></li>\r\n<li><a href=\"http://www.heise.de/security/meldung/BSI-Mehrere-Millionen-E-Mail-Konten-durch-Botnetze-geknackt-2090167.html\">BSI
+  Sicherheitstest</a>\r\n\r\n<ul>\r\n<li><a href=\"https://netzpolitik.org/2014/sicherheitstest-bsi-de-wenn-die-dos-attacke-aus-der-eigenen-bevoelkerung-kommt/\">Netzpolitik.org
+  Artikel</a></li>\r\n<li><a href=\"http://tim-and-klaus.de/tak003-von-gottern-und-elixiren-beim-bsi/\">Shameless
+  Plug: Tim &amp; Klaus Folge 3</a></li>\r\n<li><a href=\"http://www.golem.de/news/bsi-warnung-fragen-und-antworten-zum-identitaetsdiebstahl-1401-104118.html\">Fragen
+  &amp; Antworten</a></li>\r\n</ul></li>\r\n<li><a href=\"http://de.fakenamegenerator.com\">Fake
+  Name Generator</a>\r\n\r\n<ul>\r\n<li><a href=\"https://twitter.com/windyoona/status/427176843158888449/photo/1\">Oona
+  Räisänen Tweet</a></li>\r\n<li><a href=\"http://stackoverflow.com/questions/4456438/how-can-i-pass-the-string-null-through-wsdl-soap-from-actionscript-3-to-a-co\">Last
+  Name: &#8222;Null&#8220;</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2 id=\"neckbeardnarrative01:33:49\">Neckbeard
+  Narrative <code>01:33:49</code></h2>\r\n\r\n<ul>\r\n<li><a href=\"http://azac.pl/cobol-on-wheelchair\">Cobol
+  On Wheelchair</a></li>\r\n<li><a href=\"https://github.com/itchyny/calendar.vim\">Vim
+  als Nachttischuhr</a>\r\n\r\n<ul>\r\n<li><a href=\"https://itunes.apple.com/de/app/vim/id492668168?mt=8\">Vim
+  für das iPad</a></li>\r\n</ul></li>\r\n<li><a href=\"http://crypt.codemancers.com/posts/2013-09-26-setting-up-emacs-as-development-environment-on-osx\">emacs
+  als IDE für Ruby aufsetzen</a>\r\n\r\n<ul>\r\n<li>Ryan Davis&#8217; emacs setup:
+  <a href=\"http://blog.zenspider.com/blog/2013/06/my-emacs-setup.html\">Part 1</a>,
+  <a href=\"http://blog.zenspider.com/blog/2013/06/my-emacs-setup-packages.html\">Part
+  2</a>, <a href=\"http://blog.zenspider.com/blog/2013/06/my-emacs-setup-osx.html\">Part
+  3</a>, <a href=\"http://blog.zenspider.com/blog/2013/06/my-emacs-setup-hooks.html\">Part
+  4</a>, <a href=\"http://blog.zenspider.com/blog/2013/06/my-emacs-setup-sanity.html\">Part
+  5</a>, <a href=\"http://blog.zenspider.com/blog/2013/07/my-emacs-setup-what-next.html\">Part
+  6</a>, <a href=\"http://blog.zenspider.com/blog/2013/07/my-emacs-setup-q-and-a-1.html\">Part
+  7</a>, <a href=\"http://blog.zenspider.com/blog/2013/07/my-emacs-setup-ruby-and-outline.html\">Part
+  8</a></li>\r\n</ul></li>\r\n<li><a href=\"https://github.com/Homebrew/linuxbrew\">Homebrew
+  für Linux</a></li>\r\n</ul>\r\n\r\n<h2 id=\"whathaveyoubeenreadinglistingwatching01:45:31\">What
+  have you been reading/listing/watching? <code>01:45:31</code></h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://www.ndr.de/unterhaltung/comedy/tatortreiniger/\">Tatortreiniger</a></li>\r\n<li><a
+  href=\"http://www.youtube.com/watch?v=uqHd_Y3LOc0\">Wir können alles, außer hochdeutsch</a></li>\r\n<li><a
+  href=\"http://logbuch-netzpolitik.de/lnp090-vorratsdatenspeicherungssprachregelung\">Logbuch
+  Netzpolitik mit Sascha Lobo</a></li>\r\n<li><a href=\"http://www.amazon.de/The-Unwritten-Bd-wirkliche-gef%C3%A4lschte/dp/3862012093\">The
+  Unwritten</a></li>\r\n<li><a href=\"https://en.wikipedia.org/wiki/True_Detective_%28TV_series%29\">True
+  Detective (neue HBO Serie)</a></li>\r\n<li><a href=\"http://5by5.tv/prompt/32\">The
+  Prompt 32 – Vorstellung des Macintoshs</a></li>\r\n</ul>"
+chapters:
+- !ruby/struct:Chapter
+  start: '00:00:00'
+  title: Intro & Begrüßung
+- !ruby/struct:Chapter
+  start: '00:01:07'
+  title: Wie geht es uns heute?
+- !ruby/struct:Chapter
+  start: '00:02:12'
+  title: Follow Up
+- !ruby/struct:Chapter
+  start: '00:05:42'
+  title: Favorite News
+- !ruby/struct:Chapter
+  start: '00:16:48'
+  title: Mac Maniacs
+- !ruby/struct:Chapter
+  start: '00:39:25'
+  title: Tiny Tinfoils
+- !ruby/struct:Chapter
+  start: '01:33:49'
+  title: Neckbeard Narrative
+- !ruby/struct:Chapter
+  start: '01:45:31'
+  title: What have you been reading/listing/watching?
