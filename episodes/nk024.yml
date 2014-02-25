@@ -1,0 +1,127 @@
+--- !ruby/struct:Episode
+number: 24
+name: NK024 - Wir müssen unsere GIF-Ordner mergen
+subtitle: Wieder in normaler Besetzung lassen wir uns zum Apple SSL Fail, den Ruby
+  Releases, einem vim (fast) rewrite und dem Facebook WhatsApp Kauf aus. Außerdem
+  würdigen wir Jim Weirich, einen der Rubyisten erster Stunde, der leider sehr früh
+  von uns gegangen ist
+length: 6390
+media:
+  descr:
+    size: 18566
+    file_ext: json
+  psc:
+    size: 791
+    file_ext: psc
+  opus:
+    size: 25920399
+    file_ext: opus
+  aac:
+    size: 53731889
+    file_ext: m4a
+  mp3:
+    size: 76977504
+    file_ext: mp3
+auphonic_uuid: WaXQ7tvyMgGQxndyhqfUcf
+published_at: 2014-02-25 23:35:45.493209000 +01:00
+summary: "<h2 id=\"begrung00:00:00\">Begrüßung <code>00:00:00</code></h2>\r\n\r\n<h2
+  id=\"wiegehtsunsheute00:00:51\">Wie geht&#8217;s uns heute? <code>00:00:51</code></h2>\r\n\r\n<h2
+  id=\"followup00:04:52\">Follow Up <code>00:04:52</code></h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"https://store.blackphone.ch\">Blackphone wurde Released</a></li>\r\n</ul>\r\n\r\n<h2
+  id=\"favoritenews00:07:54\">Favorite News <code>00:07:54</code></h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://bascht.com/blog/2014/02/14/sachen-selber-machen/\">Blogpost von Bascht
+  “Sachen selber machen&#8220;</a>\r\n\r\n<ul>\r\n<li><a href=\"https://github.com/al3x/sovereign\">Sovereign</a></li>\r\n</ul></li>\r\n<li><a
+  href=\"http://arstechnica.com/gaming/2014/02/the-bizarre-mind-numbing-mesmerizing-beauty-of-twitch-plays-pokemon/\">The
+  World plays Pokemon</a>\r\n\r\n<ul>\r\n<li><a href=\"http://www.pokewiki.de/Mew-Glitch\">Mew
+  Glitch</a></li>\r\n</ul></li>\r\n<li><a href=\"http://www.heise.de/newsticker/meldung/Gema-gewinnt-gegen-YouTube-Sperrtafeln-untersagt-2123719.html?wt_mc=rss.ho.beitrag.atom\">Youtube
+  darf (wohl) nicht mehr sagen, dass sie Videos wegen der Gema sperrt</a></li>\r\n</ul>\r\n\r\n<h2
+  id=\"macmaniacs00:19:24\">Mac Maniacs <code>00:19:24</code></h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://thenextweb.com/apple/2014/02/21/apple-confirms-acquired-testflight-creator-burstly\">Apple
+  kauft Firma hinter TestFlight</a>\r\n\r\n<ul>\r\n<li><a href=\"http://www.burstly.com\">Homepage</a></li>\r\n<li><a
+  href=\"http://hockeyapp.net\">HockeyApp</a></li>\r\n<li><a href=\"http://de.wikipedia.org/wiki/CodeWarrior\">CodeWarrior</a></li>\r\n<li><a
+  href=\"http://www.urbandictionary.com/define.php?term=sherlocked&amp;defid=5195210\">(to
+  be) sherlocked</a></li>\r\n</ul></li>\r\n<li><a href=\"https://gotofail.com/\">SSL
+  Fail</a>\r\n\r\n<ul>\r\n<li><a href=\"https://www.imperialviolet.org/2014/02/22/applebug.html\">Adam
+  Langley dazu</a></li>\r\n<li><a href=\"https://twitter.com/appcode/status/437896886649757696\">Tweet
+  von AppCode</a></li>\r\n<li>Überprüfen: <a href=\"http://hasgotofailbeenfixedyet.com\">Has
+  Goto fail been fixed yet?</a></li>\r\n<li><a href=\"https://gist.github.com/hongrich/9176925\">Diff
+  der Änderung</a></li>\r\n<li>Tipp von Lucas™: Niemals die curly braces weglassen
+  bei einzeiligen if’s. Das ist eine bescheuerte Idee</li>\r\n<li><a href=\"http://xkcd.com/292/\">XKCD
+  dazu</a></li>\r\n<li><a href=\"http://ashkansoltani.org/2014/02/24/apples-gotofail-weekend/\">Was
+  ist alles betroffen?</a></li>\r\n<li><a href=\"https://developer.apple.com/library/mac/documentation/Security/Conceptual/SecureCodingGuide/Articles/SecurityGuidelines.html#//apple_ref/doc/uid/TP40009511-SW7\">Apple
+  Developer Guidelines</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2 id=\"rubyrelics00:34:31\">Ruby
+  Relics <code>00:34:31</code></h2>\r\n\r\n<ul>\r\n<li><a href=\"https://github.com/bitboxer/gem-web\">gem
+  web</a></li>\r\n<li>Nachruf auf <a href=\"http://onestepback.org\">Jim Weirich</a>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://confreaks.com/videos/2876-rubyconf2013-the-big-picture\">The Big Picture</a></li>\r\n<li><a
+  href=\"http://confreaks.com/videos/1287-rubyconf2012-y-not-adventures-in-functional-programming\">Y
+  Not</a></li>\r\n<li><a href=\"http://vimeo.com/67476625\">Given – Designing a Language</a></li>\r\n<li><a
+  href=\"https://github.com/jimweirich/wyriki/commit/d28fac7f18aeacb00d8ad3460a0a5a901617c2d4\">Letzter
+  Commit auf GitHub</a></li>\r\n</ul></li>\r\n<li>Neue Rubies\r\n\r\n<ul>\r\n<li><a
+  href=\"https://www.ruby-lang.org/en/news/2014/02/24/ruby-2-1-1-is-released/\">Ruby
+  2.1.1 Released</a></li>\r\n<li><a href=\"https://www.ruby-lang.org/en/news/2014/02/24/ruby-1-9-3-p545-is-released/\">Ruby
+  1.9.3p545 + EOL in einem Jahr</a></li>\r\n<li><a href=\"https://www.ruby-lang.org/en/news/2014/02/24/ruby-2-0-0-p451-is-released/\">Ruby
+  2.0.0p451</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2 id=\"neckbeardnarrative00:43:39\">Neckbeard
+  Narrative <code>00:43:39</code></h2>\r\n\r\n<ul>\r\n<li><a href=\"http://robots.thoughtbot.com/announcing-gitsh\">gitsh</a>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://podcasts.thoughtbot.com/giantrobots/87\">Thoughtbot Sensorenboard</a></li>\r\n</ul></li>\r\n<li><a
+  href=\"http://robots.thoughtbot.com/brew-leaves\">brew leaves</a></li>\r\n<li><a
+  href=\"https://github.com/neovim/neovim\">neovim</a>\r\n\r\n<ul>\r\n<li><a href=\"https://github.com/tpope/vim-dispatch\">vim
+  dispatch</a></li>\r\n<li><a href=\"https://www.bountysource.com/fundraisers/539-neovim-first-iteration\">Fundraiser
+  Kampagne</a></li>\r\n</ul></li>\r\n<li>Bisherige Versuche\r\n\r\n<ul>\r\n<li><a
+  href=\"https://github.com/chrizel/Yzis\">Yzis</a>: Rewrite von Vim in C++ und QtCore,
+  Ziel: Independent GUI</li>\r\n<li><a href=\"https://github.com/yi-editor/yi\">Yi</a>:
+  Rewrite in <strong>Haskell</strong></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2 id=\"tinytinfoils01:04:34\">Tiny
+  Tinfoils <code>01:04:34</code></h2>\r\n\r\n<ul>\r\n<li><a href=\"http://blog.whatsapp.com/index.php/2014/02/facebook\">Facebook
+  kauft WhatsApp</a>\r\n\r\n<ul>\r\n<li><a href=\"http://thenextweb.com/insider/2014/02/20/whatsapp-is-hugely-popular-but-it-doesnt-dominate-the-world-quite-like-you-might-think/#!wA5Fj\">Quelle</a></li>\r\n<li><a
+  href=\"http://blog.textit.in/your-path-to-a-$16b-exit-build-a-j2me-app\">J2ME App</a></li>\r\n<li><a
+  href=\"https://threema.ch/validation/\">Threema Validation</a></li>\r\n<li><a href=\"http://unhandledexpression.com/2013/12/17/telegram-stand-back-we-know-maths\">Whatsapp-Alternative
+  Telegram lieber nicht benutzen</a></li>\r\n<li><a href=\"https://missingm.co/2014/02/fighting-dishfire-the-state-of-mobile-cross-platform-encrypted-messaging\">Fighting
+  DISHfire</a></li>\r\n<li>Zahlen zu Messengern\r\n\r\n<ul>\r\n<li>WhatsApp: 450 million
+  active users each month and 1 million new sign-ups per day</li>\r\n<li>WeChat (272
+  million monthly active users) dominates in China</li>\r\n<li>Kakao Talk (over 100
+  million registered users) owns Korea with 95 percent-plus percent installment rate
+  among smartphones</li>\r\n<li>Line (350 million registered users) owns Japan, and
+  is also the dominant chat app in Thailand and Taiwan</li>\r\n</ul></li>\r\n<li><a
+  href=\"https://whispersystems.org/blog/a-whisper\">TextSecure kommt auch auf iOS</a></li>\r\n<li><a
+  href=\"https://github.com/github/dmca/blob/master/2014-02-12-WhatsApp.md\">WhatsApp
+  DMCA Takedowns</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2 id=\"colognechitchat01:30:35\">Cologne
+  ChitChat <code>01:30:35</code></h2>\r\n\r\n<ul>\r\n<li><a href=\"http://de.wikipedia.org/wiki/Karneval\">Karneval</a>
+  legt die Stadt lahm</li>\r\n</ul>\r\n\r\n<h2 id=\"washastdugelesengehrtgesehen01:33:22\">Was
+  hast du gelesen/gehört/gesehen? <code>01:33:22</code></h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://www.imdb.com/title/tt1856010\">1. und 2. Staffel House of Cards</a>\r\n\r\n<ul>\r\n<li><a
+  href=\"https://de.wikipedia.org/wiki/Binge_Watching\">Binge Watching</a></li>\r\n<li><a
+  href=\"https://www.privateinternetaccess.com\">Private Internet Access</a></li>\r\n</ul></li>\r\n<li><a
+  href=\"http://en.wikipedia.org/wiki/Bravely_Default\">Bravely Default (3DS JRPG)</a>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://www.ign.com/articles/2014/01/03/bravely-default-censored-for-western-release\">Zensur
+  im Westen</a></li>\r\n</ul></li>\r\n<li><a href=\"http://www.amazon.de/Daemon-Die-Welt-ist-Spiel/dp/3499252457\">Daemon:
+  Die Welt ist nur ein Spiel (Daniel Suarez)</a></li>\r\n<li><a href=\"http://www.imdb.com/title/tt1439629/\">Community</a></li>\r\n</ul>"
+chapters:
+- !ruby/struct:Chapter
+  start: '00:00:00'
+  title: Begrüßung
+- !ruby/struct:Chapter
+  start: '00:00:51'
+  title: Wie geht's uns heute?
+- !ruby/struct:Chapter
+  start: '00:04:52'
+  title: Follow Up
+- !ruby/struct:Chapter
+  start: '00:07:54'
+  title: Favorite News
+- !ruby/struct:Chapter
+  start: '00:19:24'
+  title: Mac Maniacs
+- !ruby/struct:Chapter
+  start: '00:34:31'
+  title: Ruby Relics
+- !ruby/struct:Chapter
+  start: '00:43:39'
+  title: Neckbeard Narrative
+- !ruby/struct:Chapter
+  start: '01:04:34'
+  title: Tiny Tinfoils
+- !ruby/struct:Chapter
+  start: '01:30:35'
+  title: Cologne ChitChat
+- !ruby/struct:Chapter
+  start: '01:33:22'
+  title: Was hast du gelesen/gehört/gesehen?

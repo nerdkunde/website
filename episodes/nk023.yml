@@ -1,0 +1,144 @@
+--- !ruby/struct:Episode
+number: 23
+name: NK023 - Free 2 Play
+subtitle: Lucas muss lernen und da hat sich der Bodo spontan per InApp Purchase in
+  die Sendung gekauft :P. Wir sprechen noch einmal über Facebooks Privatsphäre Einstellungen,
+  Freebie Games, kill -9, Konferenzen und die schwierigkeit, das iUniversum zu verlassen.
+length: 6231
+media:
+  descr:
+    size: 20694
+    file_ext: json
+  psc:
+    size: 797
+    file_ext: psc
+  opus:
+    size: 25181722
+    file_ext: opus
+  aac:
+    size: 52437873
+    file_ext: m4a
+  mp3:
+    size: 75077598
+    file_ext: mp3
+auphonic_uuid: xqKLkC3tL4ykVff52MLqR6
+published_at: 2014-02-09 21:42:34.423931000 +01:00
+summary: "<h2 id=\"intro00:00:00\">Intro <code>00:00:00</code></h2>\r\n\r\n<p>Heute
+  mit <a href=\"http://www.jamendo.com/de/track/81740/sad-robot\">Pornophonique -
+  Sad Robot</a> </p>\r\n\r\n<h2 id=\"followup00:00:54\">Follow Up <code>00:00:54</code></h2>\r\n\r\n<ul>\r\n<li>Facebook
+  Privacy noch einmal aufgerollt\r\n\r\n<ul>\r\n<li>Klarstellung: Gruppenmitgliedschaften
+  automatisch öffentlich anzeigen ist definitiv ein Fail von Facebook</li>\r\n<li><a
+  href=\"http://userscripts.org/scripts/show/122073\">Facebook Löschskript</a></li>\r\n</ul></li>\r\n<li><a
+  href=\"http://uniboxapp.com\">Unibox Mail App</a>\r\n\r\n<ul>\r\n<li>Der <a href=\"https://twitter.com/xcuze/status/428417748289744896\">Florian
+  hat über Twitter</a> noch mal um ein Follow Up dazu gebeten</li>\r\n</ul></li>\r\n<li>Uberspace
+  + Netcologne</li>\r\n<li>Es heißt ChaCha20 und nicht ChaChaCha20 und wird mit Poly
+  1305 kombiniert. <a href=\"http://blog.djm.net.au/2013/11/chacha20-and-poly1305-in-openssh.html\">Mehr
+  dazu</a></li>\r\n<li>Terms Of Services: <a href=\"https://github.com/tumblr/policy\">Tumblrs
+  Idee dazu</a>\r\n\r\n<ul>\r\n<li><a href=\"https://github.com/unitedstates\">Die
+  United States auf GitHub</a></li>\r\n</ul></li>\r\n<li>2 Wochen mit <a href=\"https://www.mozilla.org/de/firefox/new/\">Firefox</a>
+  und <a href=\"http://www.gnu.org/software/emacs/\">Emacs</a></li>\r\n</ul>\r\n\r\n<h2
+  id=\"favoritenews00:16:44\">Favorite News <code>00:16:44</code></h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://kotaku.com/five-reasons-to-be-excited-for-final-fantasy-x-x-2-hd-r-1510421105\">Final
+  Fantasy X HD Remake</a>\r\n\r\n<ul>\r\n<li><a href=\"https://itunes.apple.com/de/app/id719401490?mt=8&amp;affId=1736887\">Final
+  Fantasy VI für iOS</a></li>\r\n</ul></li>\r\n<li><a href=\"http://www.spiegel.de/politik/ausland/gegen-masseneinwanderung-schweizer-stimmen-mit-ja-a-952390.html\">Schweizer
+  schotten sich gegen Europa ab</a></li>\r\n<li><a href=\"http://beta.slashdot.org/\">Slashdot
+  redesign</a></li>\r\n<li><a href=\"http://xkcd.org/1323/\">xkcd Protocol</a></li>\r\n</ul>\r\n\r\n<h2
+  id=\"macmaniacs00:24:21\">Mac Maniacs <code>00:24:21</code></h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://blog.benjaminste.in/post/75389520824/ios-holding-my-phone-number-hostage-the-worst-bug\">Was
+  passiert eigentlich wenn man mit seiner Mobilnummer von iOS auf Android wechselt?</a></li>\r\n<li><a
+  href=\"https://github.com/jimbojsb/launchrocket\">PrefPane für Homebrew Services</a></li>\r\n</ul>\r\n\r\n<h2
+  id=\"rubyrelics00:29:18\">Ruby Relics <code>00:29:18</code></h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"https://37signals.com/\">37signals wird Basecamp</a>\r\n\r\n<ul>\r\n<li><a
+  href=\"https://twitter.com/basecamp\">@basecamp Twitter Account</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2
+  id=\"gaminggalore00:35:36\">Gaming Galore <code>00:35:36</code></h2>\r\n\r\n<ul>\r\n<li>In-Game
+  Purchases in Free-To-Play Games werden echt pervers\r\n\r\n<ul>\r\n<li><a href=\"http://www.baekdal.com/opinion/how-inapp-purchases-has-destroyed-the-industry\">Das
+  neue Dungeon Keeper</a></li>\r\n<li><a href=\"http://eu.battle.net/d3/de/blog/10974978/update-zum-auktionshaus-von-diablo-iii-17-09-2013\">Diablo
+  3 Auktionshaus eingestellt</a></li>\r\n<li><a href=\"http://www.pocketgamer.co.uk/r/iPad/Dungeon+Keeper/news.asp?c=57158\">Unter
+  der Android Version wird das schlecht bewerten erschwert</a></li>\r\n<li><a href=\"http://sealedabstract.com/iphone/how-in-app-purchase-is-not-really-destroying-the-games-industry/\">Vergleich
+  mit alten Arcades und dem gesamten App Markt</a></li>\r\n<li><a href=\"http://geekstammtisch.de/#GST024\">GST024
+  - Super Spell Boy</a></li>\r\n</ul></li>\r\n<li><a href=\"https://twitter.com/dongatory/status/432227971173068800\">Flappy
+  Bird stirbt schon wieder?</a>\r\n\r\n<ul>\r\n<li><a href=\"http://techcrunch.com/2014/02/08/flappy-bird-going-down/\">Tech
+  Crunch Artikel</a></li>\r\n<li><a href=\"https://twitter.com/search?q=%40dongatory+fuck+you&amp;src=typd&amp;f=realtime\">&#8222;Nette&#8220;
+  Reaktionen auf Twitter</a></li>\r\n<li><a href=\"http://uralozden.com/flappy/\">HTML5
+  Implementierung</a></li>\r\n</ul></li>\r\n<li><a href=\"http://www.polygon.com/2014/2/7/5391312/minecraft-film-canceled-on-kickstarter\">Notch
+  lässt Kickstarter Kampagne für Minecraft Film stoppen</a>\r\n\r\n<ul>\r\n<li><a
+  href=\"https://www.kickstarter.com/projects/878782324/birth-of-man-a-minecraft-feature-film\">Kampagne
+  auf Kickstarter</a></li>\r\n<li><a href=\"http://rechtsanwalt-schwenke.de/fanblogs-fan-fiction-lets-play-rechtsbelehrung-folge-8-jura-podcast/\">Rechtsbelehrung
+  Folge 8: Von Fanblogs, Fan-Fiction &amp; Let’s Plays</a></li>\r\n<li><a href=\"http://www.heise.de/foto/meldung/Direkt-Link-zu-Bildern-LG-Koeln-fordert-Urheberrechtshinweis-in-Bilddatei-2104993.html\">LG
+  Köln fordert auf, auch bei Direktlinks einen Copyright Vermerk in Bilder einzubauen</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2
+  id=\"neckbeardnarrative00:58:59\">Neckbeard Narrative <code>00:58:59</code></h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://unix.stackexchange.com/questions/8916/when-should-i-not-kill-9-a-process\">Warum
+  man nicht kill &#8211;9 verwenden sollte</a></li>\r\n</ul>\r\n\r\n<h2 id=\"tinytinfoils01:06:28\">Tiny
+  Tinfoils <code>01:06:28</code></h2>\r\n\r\n<ul>\r\n<li><a href=\"https://twitter.com/ThreemaApp/status/430962660809510913\">Threema
+  1.3 für Android nun auch mit Gruppenchat</a></li>\r\n<li><a href=\"http://www.heise.de/newsticker/meldung/Tuerkei-verschaerft-Kontrolle-des-Internets-2106488.html\">Türkei
+  blockiert Internet, speichert Nutzerdaten für 2 Jahre</a>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://media.ccc.de/browse/congress/2013/30C3_-_5281_-_de_-_saal_1_-_201312271400_-_keine_anhaltspunkte_fur_flachendeckende_uberwachung_-_martin_haase_maha_-_khamacher.html\">Martin
+  Haase: Keine Anhaltspunkte für flächendeckende Überwachung</a></li>\r\n</ul></li>\r\n<li><a
+  href=\"http://www.ted.com/talks/alessandro_acquisti_why_privacy_matters.html\">Why
+  privacy still matters: Alessandro Acquisti</a>\r\n\r\n<ul>\r\n<li><a href=\"http://pandaliebe.blogspot.co.uk/2014/01/36-would-you-hire-these-people.html\">Would
+  you hire these people?</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2 id=\"colognechitchatampberlinbabble01:19:08\">Cologne
+  ChitChat &amp; Berlin Babble <code>01:19:08</code></h2>\r\n\r\n<ul>\r\n<li><a href=\"http://sigint.ccc.de\">Keine
+  SIGINT mehr</a>\r\n\r\n<ul>\r\n<li>zakx rant dazu: Die <a href=\"http://twitter.com/SIGINT\">@SIGINT</a>
+  war dem CCC zu teuer; es kamen zu wenig Leute; wir wollten sie nicht verkleinern,
+  wollten die Location nicht wechseln. Das Konzept ging nicht auf. Obwohl wir sie
+  als &#8222;kleinen C3 im Sommer&#8220; gesehen und kommuniziert haben, blieb die
+  überregionale Unterstützung mit wenigen Ausnahmen aus. Die <a href=\"http://twitter.com/SIGINT\">@SIGINT</a>
+  wurde CCC-intern überwiegend als Event des Kölner CCCs gesehen, und organisationstechnisch
+  war sie das dann auch, was sich darin bemerkbar machte, dass es immer zu wenig Helfer
+  gab und einige wenige die Konferenz im Alleingang organisiert haben. Deswegen haben
+  wir uns Ende 2013 dazu entschlossen, dass es das letzte Mal war. Quelle: <a href=\"https://twitter.com/zakx/status/427856378544525312\">1</a>,
+  <a href=\"https://twitter.com/zakx/status/427856405895593985\">2</a>, <a href=\"https://twitter.com/zakx/status/427856435985547264\">3</a>,
+  <a href=\"https://twitter.com/zakx/status/427856474803826688\">4</a>, <a href=\"https://twitter.com/zakx/status/427856512577699840\">5</a></li>\r\n</ul></li>\r\n<li>Railscamp
+  2014 wird es wieder geben\r\n\r\n<ul>\r\n<li><a href=\"http://titanpad.com/HV8PJrXdy9\">Pad
+  dazu</a></li>\r\n</ul></li>\r\n<li><a href=\"http://eurucamp.org\">Eurucamp 2014
+  wird auch wieder stattfinden</a>\r\n\r\n<ul>\r\n<li>Treffen am Donnerstag Abend,
+  13.02.2013. Melden bei <a href=\"http://twitter.com/bitboxer\">Bodo</a></li>\r\n</ul></li>\r\n<li><a
+  href=\"http://cafeschnurrke.de\">Köln hat ein Katzencafé: Café Schnurrke</a>\r\n\r\n<ul>\r\n<li>Auch
+  in Berlin: <a href=\"https://www.facebook.com/pages/Pee-Pees-Katzencaf%C3%A9/252160024909000\">Pee
+  Pees Katzencafé</a></li>\r\n<li>In Tokyo waren Tobi und Essy im <a href=\"http://hapineko.com\">Happy
+  Neko Café</a>\r\n\r\n<ul>\r\n<li><a href=\"http://hapineko.com/manga/\">Happy Neko
+  Manga</a></li>\r\n</ul></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2 id=\"washastdugelesengehrtgesehen01:30:37\">Was
+  hast du gelesen/gehört/gesehen? <code>01:30:37</code></h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://retrozirkel.de/\">Retrozirkel Podcast</a>\r\n\r\n<ul>\r\n<li><a href=\"http://www.geekandsundry.com/\">Geek
+  &amp; Sundry</a></li>\r\n<li><a href=\"http://geekandsundry.com/shows/co-optitude/\">Co
+  Optitude</a></li>\r\n</ul></li>\r\n<li>Berlinale: Is the Man Who Is Tall Happy?\r\n\r\n<ul>\r\n<li><a
+  href=\"http://www.moviepilot.de/movies/is-the-man-who-is-tall-happy\">Chomsky im
+  Interview mit Michel Gondry</a></li>\r\n<li>Musikvideo von Michel Gondry: <a href=\"http://www.putpat.tv/videos/cibo_matto/sugar_water-vmm45i\">Cibo
+  Matto</a></li>\r\n<li><a href=\"http://www.imdb.com/title/tt0338013/\">Eternal Sunshine
+  of the Spotless Mind</a></li>\r\n</ul></li>\r\n<li><a href=\"http://www.imdb.com/title/tt1954347/\">Continuum</a></li>\r\n<li><a
+  href=\"http://en.wikipedia.org/wiki/House_of_Cards_(U.S._TV_series)\">House Of Cards</a>
+  geht in die zweite Staffel\r\n\r\n<ul>\r\n<li><a href=\"http://en.wikipedia.org/wiki/Alpha_House\">Alpha
+  House</a></li>\r\n</ul></li>\r\n<li><a href=\"http://www.queenonline.com\">Queen</a>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8\">The Platinum Collection
+  auf Spotify</a></li>\r\n</ul></li>\r\n</ul>"
+chapters:
+- !ruby/struct:Chapter
+  start: '00:00:00'
+  title: Intro
+- !ruby/struct:Chapter
+  start: '00:00:54'
+  title: Follow Up
+- !ruby/struct:Chapter
+  start: '00:16:44'
+  title: Favorite News
+- !ruby/struct:Chapter
+  start: '00:24:21'
+  title: Mac Maniacs
+- !ruby/struct:Chapter
+  start: '00:29:18'
+  title: Ruby Relics
+- !ruby/struct:Chapter
+  start: '00:35:36'
+  title: Gaming Galore
+- !ruby/struct:Chapter
+  start: '00:58:59'
+  title: Neckbeard Narrative
+- !ruby/struct:Chapter
+  start: '01:06:28'
+  title: Tiny Tinfoils
+- !ruby/struct:Chapter
+  start: '01:19:08'
+  title: Cologne ChitChat & Berlin Babble
+- !ruby/struct:Chapter
+  start: '01:30:37'
+  title: Was hast du gelesen/gehört/gesehen?
