@@ -1,0 +1,144 @@
+--- !ruby/struct:Episode
+number: 25
+name: NK025 - Hipsterkunde mit Barttransplantation
+subtitle: 'Diesmal mit zwei neue Kategorien: Catalyzing Comments und Web World. Außerdem
+  schauen wir uns iOS 7.1 und CarPlay an. Klaus berichtet von seinen Erfahrungen mit
+  CAcert, Tobi stellt eine Steile These auf und wir erinnern uns an WebDesign aus
+  den 90ern.'
+length: 8724
+media:
+  descr:
+    size: 21376
+    file_ext: json
+  psc:
+    size: 932
+    file_ext: psc
+  opus:
+    size: 35462876
+    file_ext: opus
+  aac:
+    size: 72852752
+    file_ext: m4a
+  mp3:
+    size: 104991506
+    file_ext: mp3
+auphonic_uuid: gHJ47EWbV69pKqQupvrt3o
+published_at: 2014-03-14 00:38:03.937391000 +01:00
+summary: "<h2 id=\"einleitung00:00:00\">Einleitung <code>00:00:00</code></h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://metro.co.uk/2014/02/22/nothing-to-see-here-its-just-eye-of-the-tiger-being-played-on-a-dot-matrix-printer-4314279/\">&#8217;Eye
+  of the Tiger’ auf einem Dot Matrix Printer</a>\r\n\r\n<ul>\r\n<li><a href=\"http://vimeo.com/58200103\">Video
+  dazu</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2 id=\"wiegehtsunsdennheute00:01:36\">Wie
+  geht&#8217;s uns denn heute? <code>00:01:36</code></h2>\r\n\r\n<h2 id=\"followup00:04:02\">Follow
+  Up <code>00:04:02</code></h2>\r\n\r\n<ul>\r\n<li><a href=\"https://www.bountysource.com/fundraisers/539-neovim-first-iteration?Stretch-goals\">Stretchgoals
+  für neovim</a></li>\r\n<li><a href=\"http://www.golem.de/news/verschluesselung-validation-von-threema-ist-wenig-aussagekraeftig-1403-104992.html\">Validation
+  von Threema ist wenig aussagekräftig</a></li>\r\n<li><a href=\"http://www.rollingstone.com/culture/news/the-flight-of-the-birdman-flappy-bird-creator-dong-nguyen-speaks-out-20140311\">Der
+  Macher von Flappy Bird äußert sich</a>\r\n\r\n<ul>\r\n<li><a href=\"http://blog.trendmicro.com/trendlabs-security-intelligence/trojanized-flappy-bird-comes-on-the-heels-of-takedown-by-app-creator/\">&#8222;Flappy&#8220;
+  als Titel im AppStore verboten, Malware auf Android</a></li>\r\n<li><a href=\"https://twitter.com/MindJuiceMedia/statuses/434481650265632768\">Tweet
+  zu &#8222;Flappy Dragon&#8220;</a></li>\r\n<li><a href=\"http://arstechnica.com/gaming/2014/02/flap-no-more-google-apple-rejecting-flappy-branded-games/\">Apple
+  Rejecting &#8222;Flappy&#8220; Apps</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2 id=\"favoritenews00:13:06\">Favorite
+  News <code>00:13:06</code></h2>\r\n\r\n<ul>\r\n<li><a href=\"http://xkcd.com/1335/\">XKCD
+  Zeitzonen Karte</a>\r\n\r\n<ul>\r\n<li><a href=\"http://xkcd.com/1337/\">Der 1337
+  XKCD</a></li>\r\n</ul></li>\r\n<li><a href=\"http://www.spiegel.de/panorama/malaysia-airlines-boeing-satellitenbilder-fuehren-zu-nichts-a-958351.html\">Malaysia-Airline
+  lost</a>\r\n\r\n<ul>\r\n<li><a href=\"http://www.spiegel.de/panorama/malaysia-airlines-flug-mh370-suche-nach-dem-boeing-wrack-a-957883.html\">Suche
+  nach dem Wrack</a></li>\r\n<li><a href=\"http://de.wikipedia.org/wiki/Air-France-Flug_447\">Air
+  France Flug 447</a></li>\r\n<li><a href=\"http://www.n24.de/n24/Nachrichten/Panorama/d/4420780/wie-jeder-die-boeing-777-mitsuchen-kann.html\">Per
+  Sattelit suchen</a></li>\r\n</ul></li>\r\n<li><a href=\"http://nypost.com/2014/02/25/hipster-wannabes-forking-over-thousands-for-facial-hair-transplants\">Hipster
+  können jetzt Bärte transplantieren</a>\r\n\r\n<ul>\r\n<li><a href=\"http://www.youtube.com/watch?v=LJP1DphOWPs\">Chuck
+  Testa</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2 id=\"catalyzingcomments00:21:35\">Catalyzing
+  Comments <code>00:21:35</code></h2>\r\n\r\n<ul>\r\n<li><a href=\"https://twitter.com/holman/status/441674169365721088\">Zach
+  Holman zu House of Cards</a></li>\r\n<li><a href=\"http://stackoverflow.com/questions/19463827/ssl-connect-returned-1-errno-0-state-sslv3-read-server-certificate-b-certificat\">SSL
+  Verify None</a>\r\n\r\n<ul>\r\n<li><a href=\"http://devopsreactions.tumblr.com/post/66862990491/openssl-ssl-verify-none\">Kaninchen</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2
+  id=\"macmaniacs00:24:38\">Mac Maniacs <code>00:24:38</code></h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"https://www.apple.com/ios/carplay/\">Apple CarPlay</a>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://freakshow.fm/fs128-zweitausendachtundvierzig\">Freak Show #128</a></li>\r\n<li><a
+  href=\"http://en.wikipedia.org/wiki/Motorola_Rokr\">Motorla Rokr</a></li>\r\n<li><a
+  href=\"http://www.macrumors.com/2014/03/12/pioneer-airplay-compatibility/\">Pioneer
+  CarPlay Nachbau</a> - Leider nicht :(</li>\r\n<li><a href=\"http://en.wikipedia.org/wiki/Ford_Sync\">Ford
+  Sync</a></li>\r\n<li><a href=\"http://www.teslamotors.com\">Tesla</a></li>\r\n</ul></li>\r\n<li><a
+  href=\"http://www.apple.com/ios/ios7-update\">iOS 7.1</a></li>\r\n<li><a href=\"http://atom.io\">Atom
+  Editor</a>\r\n\r\n<ul>\r\n<li><a href=\"https://github.com/blog/1790-announcing-the-github-developer-program\">GitHub
+  Developer Program</a></li>\r\n<li><a href=\"https://github.com/atom/vim-mode\">vim-mode
+  Plugin</a></li>\r\n<li><a href=\"http://www.lighttable.com\">Lighttable</a></li>\r\n<li><a
+  href=\"https://medium.com/p/433852f4b4d1\">Why Atom Can’t Replace Vim</a></li>\r\n<li><a
+  href=\"https://github.com/search?q=%3Awq&amp;ref=cmdform&amp;type=Code\">GitHub
+  Code Suche nach &#8222;:wq&#8220;</a></li>\r\n<li><a href=\"https://itunes.apple.com/de/app/identify/id418080764?mt=12\">iDentify
+  App</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2 id=\"rubyrelics01:01:23\">Ruby Relics
+  <code>01:01:23</code></h2>\r\n\r\n<ul>\r\n<li><a href=\"https://mojolingo.com/blog/2014/putting-the-can-in-cancan/\">CanCan
+  wird als CanCanCan wiederbelebt</a>\r\n\r\n<ul>\r\n<li><a href=\"http://de.wikipedia.org/wiki/Cancan\">CanCan
+  Tanz</a></li>\r\n<li><a href=\"https://github.com/CanCanCommunity/cancancan\">CanCanCan
+  Repository</a></li>\r\n<li><a href=\"https://twitter.com/rbates\">Ryan Bates auf
+  Twitter</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2 id=\"neckbeardnarrative01:06:28\">Neckbeard
+  Narrative <code>01:06:28</code></h2>\r\n\r\n<ul>\r\n<li><a href=\"http://programming.oreilly.com/2014/03/the-new-php.html\">This
+  is not your parents PHP</a>\r\n\r\n<ul>\r\n<li><a href=\"https://getcomposer.org\">Composer</a></li>\r\n<li><a
+  href=\"https://maurus.net/resources/programming-languages/php\">PHP Rant</a></li>\r\n<li><a
+  href=\"http://me.veekun.com/blog/2012/04/09/php-a-fractal-of-bad-design\">PHP –
+  A fractal of bad design</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2 id=\"tinytinfoils01:18:10\">Tiny
+  Tinfoils <code>01:18:10</code></h2>\r\n\r\n<ul>\r\n<li><a href=\"https://www.cacert.org\">Klausens
+  Erfahrungen mit CAcert</a></li>\r\n<li><a href=\"http://arstechnica.com/security/2014/03/critical-crypto-bug-leaves-linux-hundreds-of-apps-open-to-eavesdropping/\">GnuTLS
+  Lücke, seit 2005</a>\r\n\r\n<ul>\r\n<li><a href=\"http://blog.existentialize.com/the-story-of-the-gnutls-bug.html\">The
+  Story of the GnuTLS bug</a></li>\r\n</ul></li>\r\n<li><a href=\"http://www.theguardian.com/world/2014/feb/27/gchq-nsa-webcam-images-internet-yahoo\">Optic
+  Nerve</a></li>\r\n<li><a href=\"http://arstechnica.com/security/2014/03/critical-crypto-flaw-in-facebooks-whatsapp-for-android-exposes-chats/\">Tell
+  me something new: Crypto Flaw in WhatsApp</a>\r\n\r\n<ul>\r\n<li><a href=\"http://www.heise.de/newsticker/meldung/WhatsApp-erweitert-Einstellungen-zur-Privatsphaere-und-bleibt-trotzdem-unsicher-2140499.html\">Heise
+  Artikel</a></li>\r\n<li><a href=\"http://bas.bosschert.nl/steal-whatsapp-database/\">Bas
+  Bosschert Blog Artikel</a></li>\r\n<li><a href=\"https://pressfreedomfoundation.org\">Freedom
+  of the Press</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2 id=\"webworld01:40:23\">Web
+  World <code>01:40:23</code></h2>\r\n\r\n<ul>\r\n<li><a href=\"http://home.web.cern.ch/about/updates/2014/03/world-wide-web-born-cern-25-years-ago\">Das
+  Web ist jetzt 25</a></li>\r\n<li><a href=\"https://hacks.mozilla.org/2014/02/css-source-map-support-network-performance-analysis-more-firefox-developer-tools-episode-29\">Firefox
+  Developer Tools werden super awesome</a>\r\n\r\n<ul>\r\n<li><a href=\"https://addons.mozilla.org/de/firefox/addon/firebug/\">FireBug</a></li>\r\n</ul></li>\r\n<li>Steile
+  These von Tobi: &#8222;Railsgirls ist Schwachsinn!&#8220;\r\n\r\n<ul>\r\n<li><a
+  href=\"http://railsgirls.com\">RailsGirls</a></li>\r\n<li><a href=\"http://www.linuxjournal.com/content/girls-and-software\">Susan
+  Sons - Girls and Software</a></li>\r\n<li><a href=\"https://speakerdeck.com/joanwolk/git-initand-get-in-it-how-i-taught-myself-rails-and-got-a-programming-job-in-under-a-year\"><code>git
+  init</code> and get in it!</a></li>\r\n<li><a href=\"http://hypercritical.co/2014/01/14/the-road-to-geekdom\">The
+  Road to Geekdom</a></li>\r\n</ul></li>\r\n<li><a href=\"http://danluu.com/gender-gap/\">Glaubt
+  nicht jeden Scheiß!</a>\r\n\r\n<ul>\r\n<li><a href=\"http://www.thelocal.de/20140312/german-women-hit-by-gender-pay-gap-one-of-europes-worst\">Pay
+  Gap</a></li>\r\n<li><a href=\"http://leadinganswers.typepad.com/leading_answers/files/original_waterfall_paper_winston_royce.pdf\">Winston
+  Royce - Waterfall Paper</a></li>\r\n<li><a href=\"http://in-trockenen-buechern.de\">In
+  trockene Büchern</a></li>\r\n</ul></li>\r\n<li><a href=\"http://zachholman.com/posts/only-90s-developers/\">Only
+  90s Web Developers will remember</a></li>\r\n</ul>\r\n\r\n<h2 id=\"colognechitchat02:17:02\">Cologne
+  ChitChat <code>02:17:02</code></h2>\r\n\r\n<ul>\r\n<li><a href=\"http://hacken.in/events/13-openchaos-koln/dates/1984\">OpenChaos
+  am 27.03. - IPv6</a></li>\r\n</ul>\r\n\r\n<h2 id=\"washastdugelesengehrtgesehengespielt02:19:01\">Was
+  hast du gelesen/gehört/gesehen/gespielt? <code>02:19:01</code></h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://robertdelong.com/music\">Robert DeLong</a>\r\n\r\n<ul>\r\n<li><a href=\"http://youtu.be/kD7xGN8YsKc?t=53s\">Performance
+  Video</a></li>\r\n<li><a href=\"http://open.spotify.com/album/0m7OCnlNaD2l3TAflvaVF6\">Auf
+  Spotify</a></li>\r\n</ul></li>\r\n<li><a href=\"http://gabrielecirulli.github.io/2048/\">2048
+  Game</a>\r\n\r\n<ul>\r\n<li><a href=\"https://play.google.com/store/apps/details?id=vo.threes.exclaim\">Threes
+  Playstore</a></li>\r\n<li><a href=\"https://itunes.apple.com/de/app/threes!/id779157948?mt=8\">Threes
+  AppStore</a></li>\r\n</ul></li>\r\n<li><a href=\"http://www.imdb.com/title/tt1856010\">House
+  of Cards, Season 2</a></li>\r\n</ul>"
+chapters:
+- !ruby/struct:Chapter
+  start: '00:00:00'
+  title: Einleitung
+- !ruby/struct:Chapter
+  start: '00:01:36'
+  title: Wie geht's uns denn heute?
+- !ruby/struct:Chapter
+  start: '00:04:02'
+  title: Follow Up
+- !ruby/struct:Chapter
+  start: '00:13:06'
+  title: Favorite News
+- !ruby/struct:Chapter
+  start: '00:21:35'
+  title: Catalyzing Comments
+- !ruby/struct:Chapter
+  start: '00:24:38'
+  title: Mac Maniacs
+- !ruby/struct:Chapter
+  start: '01:01:23'
+  title: Ruby Relics
+- !ruby/struct:Chapter
+  start: '01:06:28'
+  title: Neckbeard Narrative
+- !ruby/struct:Chapter
+  start: '01:18:10'
+  title: Tiny Tinfoils
+- !ruby/struct:Chapter
+  start: '01:40:23'
+  title: Web World
+- !ruby/struct:Chapter
+  start: '02:17:02'
+  title: Cologne ChitChat
+- !ruby/struct:Chapter
+  start: '02:19:01'
+  title: Was hast du gelesen/gehört/gesehen/gespielt?
