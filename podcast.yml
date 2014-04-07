@@ -13,12 +13,12 @@ formats:
 - :m4a_aac
 - :mp3_mp3
 rss_output_path: public/
-flattr:
-  user_id: klaustopher
-  language: de_DE
-  tags:
-    - podcast
-    - nerdkunde
-    - technology
-    # See https://api.flattr.com/rest/v2/categories.txt
-  category: audio
+# flattr:
+#   user_id: klaustopher
+#   language: de_DE
+#   tags:
+#     - podcast
+#     - nerdkunde
+#     - technology
+#     # See https://api.flattr.com/rest/v2/categories.txt
+#   category: audio
