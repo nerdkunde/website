@@ -1,0 +1,142 @@
+--- !ruby/struct:Episode
+number: 27
+name: NK027 - 4 Nerds you should listen to
+subtitle: Wie angekündigt ist Lucas im Urlaub. Als Vertretung haben wir uns den Bascht
+  dazu geholt. Wir sprechen über den IE6, Tokaido & Rubyisten, Android Neuerungen,
+  schauen noch mal auf Heartbleed zurück und besprechen Kölner Events in Vergangenheit
+  und Zukunft.
+length: 7595
+media:
+  descr:
+    size: 20254
+    file_ext: json
+  psc:
+    size: 867
+    file_ext: psc
+  opus:
+    size: 30925421
+    file_ext: opus
+  aac:
+    size: 63603812
+    file_ext: m4a
+  mp3:
+    size: 91441433
+    file_ext: mp3
+auphonic_uuid: YXzCyuPApDZp6vps9V6Ud8
+published_at: 2014-05-01 16:26:01.363553000 +02:00
+summary: "<h2 id=\"intro00:00:00\">Intro <code>00:00:00</code></h2>\r\n\r\n<ul>\r\n<li>Intro
+  von <a href=\"http://www.free-intro-music.com\">Lino Rise</a>: „Channel Intro Magellan“</li>\r\n<li>Lizenz:
+  <a href=\"http://www.free-intro-music.com/copyright-conditions/\">Creative Commons:
+  By Attribution 3.0</a></li>\r\n</ul>\r\n\r\n<h2 id=\"wiegehtsunsdennheute00:00:55\">Wie
+  geht&#8217;s uns denn heute? <code>00:00:55</code></h2>\r\n\r\n<ul>\r\n<li><a href=\"http://www.spiegel.de/karriere/berufsleben/frankreich-feierabend-abkommen-gegen-mails-nach-dienstschluss-a-965527.html\">Frankreichs
+  Feierabendregel</a></li>\r\n</ul>\r\n\r\n<h2 id=\"favoritenews00:03:41\">Favorite
+  News <code>00:03:41</code></h2>\r\n\r\n<ul>\r\n<li><a href=\"http://stilldrinking.org/programming-sucks\">Programming
+  sucks</a></li>\r\n<li><a href=\"http://www.ie6death.com/\">IE6 ist tot</a>\r\n\r\n<ul>\r\n<li><a
+  href=\"https://twitter.com/Microsoft/statuses/43753653189885952\">Tweet von Microsoft
+  dazu vom 4. März 2011</a></li>\r\n<li><a href=\"http://www.modern.ie/en-us/ie6countdown#map\">IE
+  6 Verbreitungskarte</a></li>\r\n<li><a href=\"https://technet.microsoft.com/en-US/library/security/2963983\">&#8230;und
+  mittlerweile steht er in Flammen</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2 id=\"catalyzingcomments00:13:29\">Catalyzing
+  Comments <code>00:13:29</code></h2>\r\n\r\n<ul>\r\n<li>Firewall them all!</li>\r\n<li>&#8222;I
+  resolved the problem by myself. Start Firewall Service. Disable Firewall Rules on
+  the whole Server.&#8220;\r\n\r\n<ul>\r\n<li><a href=\"http://www.stackoverflow.com\">Stack
+  Overflow</a></li>\r\n<li><a href=\"http://puppetlabs.com\">Puppet</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2
+  id=\"macmaniacs00:17:13\">Mac Maniacs <code>00:17:13</code></h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"https://appleseed.apple.com/sp/betaprogram\">AppleSeed mit OSX10.9.3 offen
+  für alle</a></li>\r\n<li><a href=\"http://www.cakebrew.com/\">Cakebrew - GUI Client
+  für Homebrew</a>\r\n\r\n<ul>\r\n<li><a href=\"https://trac.macports.org/wiki/MacPortsGUI\">MacPorts
+  GUI</a></li>\r\n</ul></li>\r\n<li><a href=\"https://github.com/tokaido/tokaidoapp/releases/tag/v1.0\">Tokaido
+  1.0 wurde released</a>\r\n\r\n<ul>\r\n<li><a href=\"http://railsgirls.com/cologne\">Rails
+  Girls in Köln</a></li>\r\n<li><a href=\"https://www.nitrous.io\">Nitrous.io</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2
+  id=\"rubyrelics00:30:46\">Ruby Relics <code>00:30:46</code></h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://blog.newrelic.com/2014/04/25/ruby-developers-to-follow/\">20 Ruby
+  Developers to Follow Online</a>\r\n\r\n<ul>\r\n<li><a href=\"https://twitter.com/bascht/memberships\">Twitter
+  Listen auf denen Bascht ist</a></li>\r\n</ul></li>\r\n<li><a href=\"http://2014.eurucamp.org\">Eurucamp
+  2014</a>\r\n\r\n<ul>\r\n<li><a href=\"http://cfp.eurucamp.org/mentorship\">Mentorship
+  Program</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2 id=\"neckbeardnarrative00:41:16\">Neckbeard
+  Narrative <code>00:41:16</code></h2>\r\n\r\n<ul>\r\n<li><a href=\"http://robertmuth.blogspot.de/2012/08/better-bash-scripting-in-15-minutes.html\">Better
+  Bash in 15 Minutes</a>\r\n\r\n<ul>\r\n<li><a href=\"https://google-styleguide.googlecode.com/svn/trunk/shell.xml\">Google
+  Style Guide</a></li>\r\n<li><a href=\"http://www.tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_03.html\">Debugging
+  Bash scripts</a></li>\r\n<li><a href=\"http://geekstammtisch.de/#GST007\">GST007:
+  Provisionieren mit Bash</a></li>\r\n<li><a href=\"https://drupal.org/project/drush\">Drupal
+  Shell</a></li>\r\n</ul></li>\r\n<li><a href=\"http://www.linuxinsider.com/story/80168.html\">Android
+  Stomps Into Wearables Field with Android Wear</a>\r\n\r\n<ul>\r\n<li><a href=\"http://sites.garmin.com/vivo/?lang=de&amp;country=DE\">Garmin
+  Vivofit</a></li>\r\n<li><a href=\"http://vitrine.withings.com\">Withings will auch
+  Uhren</a></li>\r\n<li><a href=\"http://www.razerzone.com/nabu\">Razer Nabu</a></li>\r\n</ul></li>\r\n<li>Mail-Abarbeitungs-Workflow\r\n\r\n<ul>\r\n<li><a
+  href=\"http://www.colognerb.de/events/april-meetup-2014-670946e6-f163-499e-9c81-38bf6778f15c\">Cologne.rb</a></li>\r\n<li><a
+  href=\"http://www.mutt.org\">mutt</a></li>\r\n<li><a href=\"http://offlineimap.org\">Offline
+  IMAP</a></li>\r\n<li><a href=\"https://slack.com\">Slack</a></li>\r\n</ul></li>\r\n<li><a
+  href=\"http://www.golem.de/news/premium-smartphones-google-nimmt-mit-android-silver-das-iphone-aufs-korn-1404-106158.html\">Google
+  beendet die Nexus Reihe</a>\r\n\r\n<ul>\r\n<li><a href=\"http://www.samsung.com/de/microsite/galaxys5/\">Galaxy
+  S5</a></li>\r\n<li><a href=\"http://oneplus.net\">OnePlus One</a></li>\r\n<li><a
+  href=\"http://oneplus.net/smash\">Phone Smash</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2
+  id=\"tinytinfoils01:18:04\">Tiny Tinfoils <code>01:18:04</code></h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://heartbleed.com/\">Heartbleed</a>\r\n\r\n<ul>\r\n<li><a href=\"https://www.cloudflarechallenge.com/heartbleed\">CloudFlare
+  Challenge</a></li>\r\n<li><a href=\"https://news.ycombinator.com/item?id=7576389\">Schon
+  geknackt nach 3h</a></li>\r\n<li><a href=\"https://blog.indutny.com/9.heartbleed\">So
+  wurde die Challenge geknackt</a></li>\r\n<li><a href=\"http://www.spiegel.de/netzwelt/web/heartbleed-sascha-lobo-ueber-die-daten-sicherheitsluecke-und-die-nsa-a-964374.html\">Sascha
+  Lobos Artikel auf SPON dazu</a></li>\r\n</ul></li>\r\n<li><a href=\"https://netzpolitik.org/2014/big-brother-awards-2014-negativ-preise-fuer-bundeskanzleramt-meinfernbus-csc-und-rwe/\">Big
+  Brother Awards</a></li>\r\n</ul>\r\n\r\n<h2 id=\"webworld01:32:46\">Web World <code>01:32:46</code></h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://www.smashingmagazine.com/2014/04/23/cache-invalidation-strategies-with-varnish-cache/\">Erste
+  Hilfe bei gefährlichem Varnish-Halbwissen</a>\r\n\r\n<ul>\r\n<li><a href=\"https://www.varnish-cache.org\">Varnish
+  Cache</a></li>\r\n</ul></li>\r\n<li><a href=\"https://developers.google.com/web/fundamentals/\">Web
+  Fundamentals von Google</a></li>\r\n</ul>\r\n\r\n<h2 id=\"colognechitchat01:37:15\">Cologne
+  ChitChat <code>01:37:15</code></h2>\r\n\r\n<ul>\r\n<li>Bascht war auf dem Angular.js
+  Meetup\r\n\r\n<ul>\r\n<li><a href=\"http://colognejs.de\">Cologne.js</a></li>\r\n<li><a
+  href=\"http://angularjs.de/blog/angularjs-meetup-cologne-april-2014\">Erstes Meetup
+  in Köln</a></li>\r\n</ul></li>\r\n<li><a href=\"http://2014.nosql-matters.org/cgn/\">NoSQL
+  Matters Köln</a>\r\n\r\n<ul>\r\n<li><a href=\"http://tfcl.de\">Dirk Breuer als spontaner
+  Gast</a></li>\r\n<li><a href=\"http://geekstammtisch.de\">Geekstammtisch</a></li>\r\n<li><a
+  href=\"http://cassandra.apache.org/\">Apache Cassandra</a></li>\r\n<li><a href=\"http://www.neo4j.org/\">Neo4j</a></li>\r\n<li><a
+  href=\"http://geekstammtisch.de/#GST013\">Geekstammtsich von der NoSQL Matters 2013</a></li>\r\n</ul></li>\r\n<li><a
+  href=\"http://zen.coderdojo.com/dojo/385\">CoderDojo am 24.05. im DQE</a></li>\r\n<li><a
+  href=\"https://www.froscon.de/en/cfp/\">FrOSCon Call for Papers und Call for Projects</a>\r\n\r\n<ul>\r\n<li>Traditionell
+  offen bis zum 23.05</li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2 id=\"washastdugelesengehrtgesehengezockt01:46:35\">Was
+  hast du gelesen/gehört/gesehen/gezockt? <code>01:46:35</code></h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://cats-stuckinthings.tumblr.com/\">Cats Stuck in Things Tumblr</a></li>\r\n<li><a
+  href=\"http://www.joyent.com/blog/linux-performance-analysis-and-tools-brendan-gregg-s-talk-at-scale-11x\">Linux
+  Performance Analysis and Tools: Brendan Gregg&#8217;s Talk at SCaLE 11x</a></li>\r\n<li><a
+  href=\"http://www.imdb.com/title/tt0944947/episodes?season=4\">Game of Thrones Season
+  4</a></li>\r\n<li>Xbox 360 Controller + OpenEmu + Mac OS X\r\n\r\n<ul>\r\n<li><a
+  href=\"http://www.amazon.de/dp/B004JU0JSK\">Xbox Controller &#8222;for Windows&#8220;</a></li>\r\n<li><a
+  href=\"http://www.amazon.de/dp/B000MGVAAQ\">Xbox Wireless Adapter &#8222;for Windows&#8220;</a></li>\r\n<li><a
+  href=\"http://openemu.org\">OpenEmu</a></li>\r\n<li><a href=\"http://www.tattiebogle.net/index.php/ProjectRoot/Xbox360Controller/OsxDriver\">Xbox
+  360 OS X Treiber</a></li>\r\n</ul></li>\r\n<li><a href=\"http://maddieonthings.com\">Maddie
+  on things</a></li>\r\n<li><a href=\"http://www.galiani.de/buecher/sven-regener-meine-jahre-mit-hamburg-heiner.html\">Meine
+  Jahre mit Hamburg Heiner</a></li>\r\n<li><a href=\"http://listener.bandcamp.com/album/time-is-a-machine\">Listener
+  Time is a machine</a></li>\r\n<li><a href=\"https://play.google.com/store/apps/details?id=com.rstudioz.habits\">Habits.app</a></li>\r\n<li><a
+  href=\"http://alternativlos.org/31/\">Alternativlos 31</a></li>\r\n<li><a href=\"http://www.imdb.com/title/tt2575988\">Silicon
+  Valley</a></li>\r\n</ul>"
+chapters:
+- !ruby/struct:Chapter
+  start: '00:00:00'
+  title: Intro
+- !ruby/struct:Chapter
+  start: '00:00:55'
+  title: Wie geht's uns denn heute?
+- !ruby/struct:Chapter
+  start: '00:03:41'
+  title: Favorite News
+- !ruby/struct:Chapter
+  start: '00:13:29'
+  title: Catalyzing Comments
+- !ruby/struct:Chapter
+  start: '00:27:13'
+  title: Mac Maniacs
+- !ruby/struct:Chapter
+  start: '00:30:46'
+  title: Ruby Relics
+- !ruby/struct:Chapter
+  start: '00:41:16'
+  title: Neckbeard Narrative
+- !ruby/struct:Chapter
+  start: '01:18:04'
+  title: Tiny Tinfoils
+- !ruby/struct:Chapter
+  start: '01:32:46'
+  title: Web World
+- !ruby/struct:Chapter
+  start: '01:37:15'
+  title: Cologne ChitChat
+- !ruby/struct:Chapter
+  start: '01:46:35'
+  title: Was hast du gelesen/gehört/gesehen/gezockt?
