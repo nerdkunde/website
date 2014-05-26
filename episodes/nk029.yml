@@ -1,0 +1,132 @@
+--- !ruby/struct:Episode
+number: 29
+name: NK029 - Kill it with Lua!
+subtitle: Heute unterhalten wir uns heute über Superkunststoffe, Serverkonfigurationen
+  & -tests, hacken Canon Kameras und warten auf "Game of Codes". Nebenbei kompiliert
+  Bascht Ruby 2.1.2
+length: 7011
+media:
+  opus:
+    size: 28506311
+    file_ext: opus
+  mp3:
+    size: 84427290
+    file_ext: mp3
+  psc:
+    size: 798
+    file_ext: psc
+  stats:
+    size: 1751
+    file_ext: txt
+  descr:
+    size: 84226
+    file_ext: json
+  aac:
+    size: 58814337
+    file_ext: m4a
+auphonic_uuid: S5krqYbQiUHELq9mJ86UBg
+published_at: 2014-05-24 12:03:04.538941000 +02:00
+summary: "<h2 id=\"einleitung00:00:00\">Einleitung <code>00:00:00</code></h2>\r\n\r\n<ul>\r\n<li>Intro
+  von <a href=\"http://www.free-intro-music.com\">Lino Rise</a>: „Channel Intro Magellan“\r\n\r\n<ul>\r\n<li>Lizenz:
+  <a href=\"http://www.free-intro-music.com/copyright-conditions/\">Creative Commons:
+  By Attribution 3.0</a></li>\r\n</ul></li>\r\n<li><a href=\"http://home-office-cologne.de\">Home
+  Office Cologne</a></li>\r\n<li>Wieder mit dem <a href=\"http://bascht.com\">Bascht</a></li>\r\n</ul>\r\n\r\n<h2
+  id=\"wiegehtsunsdennheute00:00:49\">Wie geht&#8217;s uns denn heute? <code>00:00:49</code></h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://www.spiegel.de/panorama/wetter-gewitter-naehert-sich-deutschland-mit-starkregen-a-971112.html\">Tief
+  Zeynep</a></li>\r\n<li><a href=\"http://leipzigjs.github.io/artikel/2014/05/02/mai-treffen-mit-vortraegen-aus-koeln/\">Leipzig.js</a></li>\r\n</ul>\r\n\r\n<h2
+  id=\"followup00:04:09\">Follow Up <code>00:04:09</code></h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"https://technet.microsoft.com/en-us/library/security/ms14-021.aspx\">Microsoft
+  patcht den IE6 doch noch</a>\r\n\r\n<ul>\r\n<li><a href=\"http://www.zerodayinitiative.com/advisories/ZDI-14-140/\">0-day
+  für den IE6</a></li>\r\n</ul></li>\r\n<li><a href=\"http://www.sysdig.org\">Sysdig</a>\r\n\r\n<ul>\r\n<li>Artikel:
+  <a href=\"http://draios.com/fishing-for-hackers\">Fishing for Hackers</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2
+  id=\"favoritenews00:08:31\">Favorite News <code>00:08:31</code></h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://calculatedimages.blogspot.de/2013/05/3d-lightning.html\">Gleicher
+  Blitz von 2 Seiten fotografiert</a></li>\r\n<li><a href=\"http://www.extremetech.com/extreme/182583-ibm-discovers-new-class-of-ultra-tough-self-healing-recyclable-plastics-that-could-redefine-almost-every-industry\">IBM
+  Supercomputer &#8222;entdeckt&#8220; neues Plastik</a>\r\n\r\n<ul>\r\n<li>Wissenschaftliche
+  Einordnung im <a href=\"http://www.sciencemag.org/content/344/6185/732\">Science
+  Mag</a></li>\r\n</ul></li>\r\n<li><a href=\"http://2014.javazone.no/\">JavaZone
+  Trailer Abstimmung</a>\r\n\r\n<ul>\r\n<li><a href=\"https://www.youtube.com/watch?v=d9JIiCkDyMQ\">Java
+  Forever</a></li>\r\n</ul></li>\r\n<li><a href=\"http://www.golem.de/news/kuenstliche-intelligenz-unternehmen-waehlt-computer-in-den-vorstand-1405-106507.html\">KI
+  in Firmenvorstand</a>\r\n\r\n<ul>\r\n<li><a href=\"https://www.youtube.com/watch?v=njos57IJf-0&amp;feature=kp\">Epic
+  Rap Battles of History: Steve Jobs vs Bill Gates</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2
+  id=\"rubyrelics00:18:16\">Ruby Relics <code>00:18:16</code></h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"https://www.ruby-lang.org/en/news/2014/05/09/ruby-2-1-2-is-released/\">Ruby
+  2.1.2</a></li>\r\n<li><a href=\"http://serverspec.org\">Serverspec</a></li>\r\n<li><a
+  href=\"https://bugsnag.com/blog/use-gpg-to-hide-rails-secrets\">gotgpg</a>\r\n\r\n<ul>\r\n<li><a
+  href=\"https://community.jboss.org/wiki/JBossAS7SecuringPasswords?_sscc=t\">JBoss
+  Vault</a></li>\r\n<li><a href=\"http://www.jasypt.org/\">jasypt</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2
+  id=\"neckbeardnarrative00:35:49\">Neckbeard Narrative <code>00:35:49</code></h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"https://guardianproject.info/apps/keysync\">KeySync</a>\r\n\r\n<ul>\r\n<li><a
+  href=\"https://chatsecure.org/\">ChatSecure</a></li>\r\n</ul></li>\r\n<li>Bascht
+  lernt UNIX: iwatch\r\n\r\n<ul>\r\n<li><a href=\"http://rustyrazorblade.com/2011/02/using-iwatch-to-automatically-run-unit-tests-linux\">Was
+  ist iwatch?</a></li>\r\n<li><a href=\"http://guardgem.org\">guard</a></li>\r\n</ul></li>\r\n<li><a
+  href=\"http://www.reddit.com/r/vim/comments/267vrv/i_am_tim_pope_crafter_of_plugins_ama/\">Reddit
+  AMA mit Tim Pope</a>\r\n\r\n<ul>\r\n<li><a href=\"http://www.reddit.com/r/AnimalsBeingJerks\">Reddit
+  StartPunkt</a></li>\r\n<li><a href=\"http://www.reddit.com/r/todayilearned/\">Subreddit
+  Today I learned</a></li>\r\n</ul></li>\r\n<li><a href=\"http://chdk.wikia.com/wiki/CHDK\">Canon
+  Kameras hacken</a>\r\n\r\n<ul>\r\n<li><a href=\"http://www.dslrbodies.com/cameras/camera-faq/has-the-nikon-firmware-been.html\">Und
+  Nikon?</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2 id=\"tinytinfoils01:04:49\">Tiny
+  Tinfoils <code>01:04:49</code></h2>\r\n\r\n<ul>\r\n<li><a href=\"http://www.reuters.com/article/2014/05/22/us-ebay-password-idUSBREA4K0B420140522\">eBay
+  wurde gehackt</a>\r\n\r\n<ul>\r\n<li><a href=\"http://de.wikipedia.org/wiki/Penspinning\">Penspinning</a></li>\r\n<li>Passswortänderung
+  war aufgrund technischer Probleme (onpaste=false, &#8222;keine Leerzeichen erlaubt&quot;)
+  nicht möglich</li>\r\n<li>Konsequenz: Konto gelöscht</li>\r\n<li>XSS-Lücke seit
+  2 Monaten offen: http://www.golem.de/news/cross-site-scripting-sicherheitsluecke-bei-ebay-zwei-monate-offen&#8211;1405&#8211;106694.html</li>\r\n<li><a
+  href=\"http://www.der-postillon.com/2014/05/top-zustand-gerne-wieder-hacker.html\">&#8222;Top
+  Zustand!! Gerne wieder!&#8220;</a></li>\r\n<li><a href=\"http://www.kalaydo.de\">Kalaydo</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2
+  id=\"gaminggalore01:18:25\">Gaming Galore <code>01:18:25</code></h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://de.wikipedia.org/wiki/Mario_Kart_7\">Mario Kart 7</a></li>\r\n<li><a
+  href=\"http://www.monumentvalleygame.com\">Monument Valley</a>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://www.mcescher.com\">M.C. Escher</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2
+  id=\"webworld01:23:02\">Web World <code>01:23:02</code></h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://blog.app.net/2014/05/06/app-net-state-of-the-union/\">App.net State
+  of the Union</a>\r\n\r\n<ul>\r\n<li><a href=\"https://tent.io\">Tent.io</a></li>\r\n<li><a
+  href=\"https://opensource.app.net\">App.net OpenSource</a></li>\r\n<li><a href=\"http://incubator.apache.org/wave/\">Apache
+  Wave</a></li>\r\n</ul></li>\r\n<li><a href=\"http://12factor.net/\">The Twelve Factor
+  App</a>\r\n\r\n<ul>\r\n<li><a href=\"https://github.com/heroku/rails_12factor\">rails_12factor
+  Gem</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2 id=\"washastdugelesengehrtgesehengezockt01:38:03\">Was
+  hast du gelesen/gehört/gesehen/gezockt? <code>01:38:03</code></h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://de.wikipedia.org/wiki/Attack_on_Titan\">進撃の巨人 / Attack on Titan</a></li>\r\n<li><a
+  href=\"https://www.youtube.com/playlist?list=PLAR_6-tD7IZV--8ydJQRCZNEWOp9vf6PY\">Republica
+  Talks 2014</a>\r\n\r\n<ul>\r\n<li><a href=\"https://www.youtube.com/watch?v=TNgSxEE6wTk#t=10m48s\">Nicolas
+  Wöhrl: Diamonds are a quantum computers best friend</a></li>\r\n<li><a href=\"https://www.youtube.com/watch?v=NXOJSs_0Qa8\">Vorratsdatenspeicherung
+  für Anfänger und Fortgeschrittene</a></li>\r\n</ul></li>\r\n<li><a href=\"http://www.ard.de/home/radio/Der_Staat_und_seine_Trojaner/804884/index.html\">ARD-Radiofeature:
+  Der Staat und seine Trojaner</a></li>\r\n<li>No place to hide: Edward Snowden, the
+  NSA, and the U.S. Surveillance State - Glenn Greenwald Henry Holt</li>\r\n<li><a
+  href=\"http://wE199ww.reddit.com/r/MechanicalKeyboards\">/r/MechanicalKeyboards/</a></li>\r\n<li><a
+  href=\"http://www.amazon.de/dp/3937683321\">LE MONDE Diplomatique Geschichtsatlas</a></li>\r\n<li><a
+  href=\"http://www.boell.de/de/2014/01/07/fleischatlas-2014\">Fleischatlas</a></li>\r\n<li>Chaosradio\r\n\r\n<ul>\r\n<li><a
+  href=\"http://chaosradio.ccc.de/cr200.html\">Episode 200</a></li>\r\n<li><a href=\"http://chaosradio.ccc.de/cr199.html\">Episode
+  199</a></li>\r\n</ul></li>\r\n<li><a href=\"http://git-scm.com/book\">Pro Git</a></li>\r\n<li><a
+  href=\"http://www.wrint.de/2013/03/26/wr162-ortsgesprach-matthias-von-hellfeld-wg-europa/\">Wrint
+  162: Europa mit Matthias von Hellfeld</a></li>\r\n</ul>"
+chapters:
+- !ruby/struct:Chapter
+  start: '00:00:00'
+  title: Einleitung
+- !ruby/struct:Chapter
+  start: '00:00:49'
+  title: Wie geht's uns denn heute?
+- !ruby/struct:Chapter
+  start: '00:04:09'
+  title: Follow Up
+- !ruby/struct:Chapter
+  start: '00:08:31'
+  title: Favorite News
+- !ruby/struct:Chapter
+  start: '00:18:16'
+  title: Ruby Relics
+- !ruby/struct:Chapter
+  start: '00:35:49'
+  title: Neckbeard Narrative
+- !ruby/struct:Chapter
+  start: '01:04:49'
+  title: Tiny Tinfoils
+- !ruby/struct:Chapter
+  start: '01:18:25'
+  title: Gaming Galore
+- !ruby/struct:Chapter
+  start: '01:23:02'
+  title: Web World
+- !ruby/struct:Chapter
+  start: '01:38:03'
+  title: Was hast du gelesen/gehört/gesehen/gezockt?
