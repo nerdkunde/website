@@ -1,4 +1,5 @@
 public/*
+.bundle
 !public/config.ru
 
 # ignore rbenv
