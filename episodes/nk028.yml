@@ -1,0 +1,22 @@
+--- !ruby/struct:Episode
+number: 28
+name: NK028 - Omnomnom
+subtitle: Technical Difficulties ... Ist das Ding eigentlich an?
+length: 44
+media:
+  mp3:
+    size: 796043
+    file_ext: mp3
+  aac:
+    size: 786755
+    file_ext: m4a
+  descr:
+    size: 7388
+    file_ext: json
+  opus:
+    size: 210336
+    file_ext: opus
+auphonic_uuid: R7N2eqUuMhKFPhbjETuKTe
+published_at: 2014-05-23 18:41:31.073132000 +02:00
+summary: ''
+chapters: []
