@@ -1,0 +1,54 @@
+--- !ruby/struct:Episode
+number: 30
+name: 'NK030 - Sommerfolge: Devops against humanity'
+subtitle: Lucas ist zurück. Nach einem kleinen Reisebericht legen wir los mit einer
+  Runde "DevOps against humanity". Es ist einfach zu warm, um über die Tech News zu
+  reden, und ehrlich, außer der WWDC ist eh nix passiert ;) und darüber reden schon
+  alle anderen.
+length: 3471
+media:
+  opus:
+    size: 14109592
+    file_ext: opus
+  mp3:
+    size: 41934425
+    file_ext: mp3
+  psc:
+    size: 335
+    file_ext: psc
+  stats:
+    size: 1761
+    file_ext: txt
+  descr:
+    size: 104407
+    file_ext: json
+  aac:
+    size: 29808061
+    file_ext: m4a
+auphonic_uuid: hNWXBLC4bwJp6qBnTWdtdS
+published_at: 2014-06-10 23:01:28.033739000 +02:00
+summary: "<h2 id=\"intro00:00:00\">Intro <code>00:00:00</code></h2>\r\n\r\n<ul>\r\n<li>Musik:
+  <a href=\"http://www.jamendo.com/de/track/1043151/humanity\">Humanity von Doug Rice</a></li>\r\n</ul>\r\n\r\n<h2
+  id=\"wiegehtsunsdennheute00:00:41\">Wie geht&#8217;s uns denn heute? <code>00:00:41</code></h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://lanyrd.com/2014/abrilproruby/scxbmg/\">Lucasens Talk auf der Abril
+  Ruby</a></li>\r\n<li><a href=\"http://www.traderjoes.com/\">Trader Joes</a></li>\r\n<li><a
+  href=\"http://www.ksta.de/koeln/-fahrrad-autobahn--radschnellweg-von-koeln-nach-frechen,15187530,23828878.html\">Radschnellweg
+  in Köln</a></li>\r\n</ul>\r\n\r\n<h2 id=\"devopsagainsthumanity00:16:42\">DevOps
+  Against Humanity <code>00:16:42</code></h2>\r\n\r\n<ul>\r\n<li><a href=\"https://github.com/bridgetkromhout/devops-against-humanity\">DevOps
+  against Humanity</a></li>\r\n<li><a href=\"http://cardsagainsthumanity.com/\">Cards
+  against Humanity</a></li>\r\n<li><a href=\"http://esel-und-teddy.podspot.de/post/podwichteln-2013/\">Esel
+  und Teddy Show - Spiel gegen die Menschheit</a></li>\r\n<li>Unsere Regeln\r\n\r\n<ul>\r\n<li>Jeder
+  hat 5 weiße karten auf der Hand</li>\r\n<li>Es wird eine schwarze Karte aufgedeckt</li>\r\n<li>Jeder
+  legt eine/mehrere weiße Karte in die Mitte</li>\r\n<li>Alle entscheiden, was am
+  besten passt</li>\r\n<li>Bei Unentschieden entscheidet derjenige der aufgedeckt
+  hat</li>\r\n<li>Wer am Ende die meisten Punkte hat obsiegt</li>\r\n</ul></li>\r\n</ul>"
+chapters:
+- !ruby/struct:Chapter
+  start: '00:00:00'
+  title: Intro
+- !ruby/struct:Chapter
+  start: '00:00:41'
+  title: Wie geht's uns denn heute?
+- !ruby/struct:Chapter
+  start: '00:16:42'
+  title: DevOps Against Humanity
