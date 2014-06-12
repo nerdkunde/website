@@ -3,12 +3,14 @@
 Impressum gem. § 5 TMG und § 55 Rundfunkstaatsvertrag
 
 Nerdkunde.de ist ein publizistisches Angebot von Klaus Zanders, Lucas Dohmen,
-Tobias Eilert und Bodo Tasche
+Tobias Eilert und Esther Hentrich
 
-Postanschrift:   
-Tobias Eilert   
-Berliner Str. 13   
+Postanschrift:
+Tobias Eilert
+Berliner Str. 13
 50859 Köln
+
+Kontakt: alle (at) nerdkunde (punkt) de
 
 Verantwortlicher nach § 55, Abs. 2, Rundfunkstaatsvertrag: s.o.
 
