@@ -1,0 +1,118 @@
+--- !ruby/struct:Episode
+number: 31
+name: NK031 - Schlafen ist was für Schläfer
+subtitle: 'Die Essy ist leider im Lernstress. Wir haben uns den Dirk aus dem Geekstammtisch
+  dazu geholt. Wir verkünden: Der Kampf der Programmiersprachen ist entschieden, JavaScript
+  hat gewonnen. Irh habt es hier zuerst gehört!'
+length: 8063
+media:
+  opus:
+    size: 32889609
+    file_ext: opus
+  mp3:
+    size: 97051498
+    file_ext: mp3
+  stats:
+    size: 1494
+    file_ext: txt
+  descr:
+    size: 124967
+    file_ext: json
+  aac:
+    size: 68812631
+    file_ext: m4a
+auphonic_uuid: USuW3CnAh8Yvg9DAKWHWaG
+published_at: 2014-06-24 01:49:35.259721000 +02:00
+summary: "<h2 id=\"intro00:00:00\">Intro <code>00:00:00</code></h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://tfcl.de\">Dirk Breuer als Gast</a></li>\r\n</ul>\r\n\r\n<h2 id=\"wiegehtsunsdennheute00:00:53\">Wie
+  geht&#8217;s uns denn heute? <code>00:00:53</code></h2>\r\n\r\n<h2 id=\"followup00:02:48\">Follow
+  Up <code>00:02:48</code></h2>\r\n\r\n<ul>\r\n<li>Falsche Erklärungen\r\n\r\n<ul>\r\n<li>Puppet
+  &amp; Chef sind <a href=\"https://en.wikipedia.org/wiki/Configuration_management\">&#8222;Configuration
+  Management Systeme&#8220;</a></li>\r\n<li>Convergence beschreibt den Schritt das
+  Zielsystem in den definierten Zustand zu bringen</li>\r\n<li><a href=\"http://geekstammtisch.de/#GST033\">Geekstammtsich
+  #33</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2 id=\"favoritenews00:06:28\">Favorite
+  News <code>00:06:28</code></h2>\r\n\r\n<ul>\r\n<li><a href=\"http://www.neowin.net/news/ssd-breakthrough-means-300-speed-boost-60-less-power-usage-even-on-old-drives\">SSDs
+  300% Speedboost</a>\r\n\r\n<ul>\r\n<li><a href=\"http://techon.nikkeibp.co.jp/english/NEWS_EN/20140522/353388/\">weiterer
+  techn. Artikel</a></li>\r\n</ul></li>\r\n<li><a href=\"http://www.teslamotors.com/blog/all-our-patent-are-belong-you\">Tesla
+  öffnet Patentpool</a>\r\n\r\n<ul>\r\n<li><a href=\"http://www.renault.de/renault-modellpalette/ze-elektrofahrzeuge/twizy/twizy/einfuehrung/\">Renault
+  Twizy</a></li>\r\n<li><a href=\"https://www.car2go.com/de/stuttgart/\">car2go in
+  Stuttgart</a></li>\r\n<li><a href=\"http://www.aachen.de/DE/stadt_buerger/energie_klimaschutz/mobilitaet/elektromobilitaet/index.html\">Elektroroller
+  in Aachen</a></li>\r\n</ul></li>\r\n<li><a href=\"https://news.ycombinator.com/item?id=7920930\">StormForger
+  bei HackerNews</a>\r\n\r\n<ul>\r\n<li><a href=\"https://blog.stormforger.com/2014/05/27/load-testing-an-interactive-tv-show-with-over-1-million-users/\">StormForger
+  &amp; Quizduell im Ersten</a></li>\r\n</ul></li>\r\n<li><a href=\"https://auphonic.com/blog/2014/06/18/auphonic-goes-freemium/\">Auphonic
+  goes Freemium!</a></li>\r\n</ul>\r\n\r\n<h2 id=\"generalgibberish00:20:41\">General
+  Gibberish <code>00:20:41</code></h2>\r\n\r\n<ul>\r\n<li><a href=\"http://www.amazon.com/dp/B00EOE0WKQ\">Amazon
+  Fire Phone</a>\r\n\r\n<ul>\r\n<li><a href=\"http://www.youtube.com/watch?v=pgcvyS4uJ2E\">Video
+  von The Verge</a></li>\r\n<li><a href=\"http://www.shazam.com\">Shazam</a></li>\r\n<li><a
+  href=\"https://support.google.com/websearch/answer/166331?hl=de\">Google Goggles</a></li>\r\n</ul></li>\r\n<li><a
+  href=\"http://www.wired.com/2014/05/the-robot-car-of-tomorrow-might-just-be-programmed-to-hit-you\">Maschinengesteuerte
+  Fahrzeuge: Unfall-Algorithmus</a>\r\n\r\n<ul>\r\n<li><a href=\"http://www.imdb.com/title/tt0343818\">I,
+  Robot</a></li>\r\n<li><a href=\"http://www.huffingtonpost.de/2014/06/17/hoverboard-wasser-fliegen_n_5502158.html\">Hoverboard</a></li>\r\n<li><a
+  href=\"https://www.uber.com\">Uber</a></li>\r\n</ul></li>\r\n<li><a href=\"http://www.adobe.com/de/products/ink-and-slide.html\">Adobe
+  Ink &amp; Slide</a>\r\n\r\n<ul>\r\n<li><a href=\"http://www.wacom.com/de-de/de/creative/intuos-pro-m\">Wacom
+  Intouos Pro</a></li>\r\n</ul></li>\r\n<li><a href=\"http://www.site-reliability-engineering.info/2014/04/what-is-site-reliability-engineering.html\">Site
+  Reliability Engineering</a>\r\n\r\n<ul>\r\n<li><a href=\"http://geekstammtisch.de/#GST030\">Geekstammtisch
+  30 mit Essy</a></li>\r\n<li><a href=\"http://www.paperplanes.de\">Blog von Mathias
+  Meyer</a></li>\r\n</ul></li>\r\n<li><a href=\"http://bitboxer.de/2014/06/22/hackathons-done-wrong\">Bodos
+  Blog Post: Hackathons</a>\r\n\r\n<ul>\r\n<li><a href=\"https://2014.battlehack.org\">BattleHack
+  2014</a></li>\r\n<li><a href=\"http://medien.nrw.de/medien-nrw-laedt-nrws-beste-entwickler-zum-advance-hackathon-gemeinsam-mit-railslove-9elements-und-coworking-cologne\">Advance
+  Hackathon 2012</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2 id=\"rubyrelics01:17:12\">Ruby
+  Relics <code>01:17:12</code></h2>\r\n\r\n<ul>\r\n<li>Aaron Patterson: YAGNI methods
+  ranting\r\n\r\n<ul>\r\n<li><a href=\"http://tenderlovemaking.com/2014/06/02/yagni-methods-are-killing-me.html\">YAGNI
+  methods are killing me</a></li>\r\n<li><a href=\"http://tenderlovemaking.com/2014/06/04/yagni-methods-slow-us-down.html\">YAGNI
+  methods slow us down</a></li>\r\n<li><a href=\"http://www.confreaks.com/videos/3393-railsconf-closing-keynote\">Abschluss
+  Keynote Railsconf 2014</a></li>\r\n<li><a href=\"http://media.ccc.de/browse/conferences/froscon/2013/hs6_-_2013-08-25_15:15_-_oo_ohne_vererbung_-_lucas_dohmen_-_1271.html\">OOP
+  ohne Vererbung von Lucas auf der FrOSCon 2013</a></li>\r\n</ul></li>\r\n<li><a href=\"http://invoker.codemancers.com/\">Invoker</a></li>\r\n</ul>\r\n\r\n<h2
+  id=\"tinytinfoils01:33:46\">Tiny Tinfoils <code>01:33:46</code></h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://www.heise.de/newsticker/meldung/Warnung-auf-offizieller-Seite-Truecrypt-ist-nicht-sicher-2211037.html\">TrueCryprt
+  warnt vor sich selbst und beschreibt wie man auf BitLocker &amp; FileVault umsteigt</a>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://truecrypt.sourceforge.net\">TrueCrypt Seite</a></li>\r\n<li><a href=\"http://www.theguardian.com/technology/2014/jun/17/truecrypt-secret-message-nsa-spying\">Versteckte
+  lateinische Warnung?</a></li>\r\n</ul></li>\r\n<li><a href=\"http://blog.cyberint.com/2014/05/facebook-hidden-friends-vulnerability.html\">Facebooks
+  Freundesliste nicht öffentlich anzeigen-Feature ist quasi per Design wirkungslos</a>\r\n\r\n<ul>\r\n<li><a
+  href=\"https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon\">Six Degrees of
+  Kevin Bacon</a></li>\r\n</ul></li>\r\n<li><a href=\"http://blog.catchpoint.com/2014/06/19/widespread-effects-facebooks-latest-outage/\">Facebook
+  offline = Internet kaputt</a>\r\n\r\n<ul>\r\n<li><a href=\"http://www.der-postillon.com/2014/04/it-experten-kuren-mb2r5ohf-0t-zum.html\">Sicherstes
+  Passwort der Welt</a></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<h2 id=\"javascriptjargon01:58:55\">JavaScript
+  Jargon <code>01:58:55</code></h2>\r\n\r\n<ul>\r\n<li><a href=\"https://developer.apple.com/library/prerelease/mac/releasenotes/InterapplicationCommunication/RN-JavaScriptForAutomation/index.html#//apple_ref/doc/uid/TP40014508\">JavaScript
+  ersetzt AppleScript in Yosemite</a></li>\r\n</ul>\r\n\r\n<h2 id=\"colognechitchat02:01:44\">Cologne
+  ChitChat <code>02:01:44</code></h2>\r\n\r\n<ul>\r\n<li><a href=\"http://ruby.froscon.org\">CfP
+  von der RedFrogConf – die Zeit läuft ab!</a></li>\r\n</ul>\r\n\r\n<h2 id=\"washastdugelesengehrtgesehengezockt02:03:18\">Was
+  hast du gelesen/gehört/gesehen/gezockt? <code>02:03:18</code></h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://www.telltalegames.com/walkingdead/\">&#8222;The Walking Dead&#8220;
+  von Telltale Game</a>\r\n\r\n<ul>\r\n<li><a href=\"http://www.telltalegames.com/thewolfamongus/\">The
+  Wolf Among Us</a></li>\r\n</ul></li>\r\n<li><a href=\"https://www.youtube.com/watch?v=ejc5zic4q2A\">Bo
+  Burnham - what.</a></li>\r\n<li><a href=\"http://eu.battle.net/d3/de/reaper-of-souls/\">Diablo
+  3 - Reaper of Souls</a></li>\r\n<li><a href=\"http://www.imdb.com/title/tt0458290/\">Star
+  Wars - The Clone Wars</a></li>\r\n<li><a href=\"http://www.imdb.com/title/tt1877832\">X-Men</a></li>\r\n<li><a
+  href=\"http://www.imdb.com/title/tt0060028\">Star Trek: Original Series von 1966</a></li>\r\n</ul>"
+chapters:
+- !ruby/struct:Chapter
+  start: '00:00:00'
+  title: Intro
+- !ruby/struct:Chapter
+  start: '00:00:53'
+  title: Wie geht's uns denn heute?
+- !ruby/struct:Chapter
+  start: '00:02:48'
+  title: Follow Up
+- !ruby/struct:Chapter
+  start: '00:06:28'
+  title: Favorite News
+- !ruby/struct:Chapter
+  start: '00:20:41'
+  title: General Gibberish
+- !ruby/struct:Chapter
+  start: '01:17:12'
+  title: Ruby Relics
+- !ruby/struct:Chapter
+  start: '01:33:46'
+  title: Tiny Tinfoils
+- !ruby/struct:Chapter
+  start: '01:58:55'
+  title: JavaScript Jargon
+- !ruby/struct:Chapter
+  start: '02:01:44'
+  title: Cologne ChitChat
+- !ruby/struct:Chapter
+  start: '02:03:18'
+  title: Was hast du gelesen/gehört/gesehen/gezockt?
