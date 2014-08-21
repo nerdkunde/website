@@ -1,0 +1,126 @@
+--- !ruby/struct:Episode
+number: 32
+name: NK032 - Zurück aus dem Sommerloch
+subtitle: 'Nach "etwas" längerer Sommerpause melden wir uns zurück. Wir diskutieren
+  Uber, Marco Arments neuen Podcatcher, Screencasts und berichten von vergagenen und
+  kommenden Events in Köln und Berlin. Zum Abschied: Die vorerst letzte Folge mit
+  Klaus und Tobi :('
+length: 7860
+media:
+  stats:
+    size: 1492
+    file_ext: txt
+  aac:
+    size: 67114626
+    file_ext: m4a
+  descr:
+    size: 119571
+    file_ext: json
+  mp3:
+    size: 94616640
+    file_ext: mp3
+  opus:
+    size: 31988864
+    file_ext: opus
+auphonic_uuid: FeHBPUfJoBH8g7JKvdoxMg
+published_at: 2014-08-21 10:28:11.232716000 +02:00
+summary: "<h2>Intro <code>00:00:00</code></h2>\r\n\r\n<p class=\"erato-range\"><a
+  data-range=\"28,101\" name=\"28,101\"></a></p>\r\n\r\n<h2>Wie geht&#39;s uns denn
+  heute? <code>00:00:52</code></h2>\r\n\r\n<p class=\"erato-range\"><a data-range=\"75,843\"
+  name=\"75,843\"></a></p>\r\n\r\n<h2>Favorite News <code>00:03:02</code></h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://relay.fm\">Relay.fm</a>  <br>\r\n\r\n<ul>\r\n<li><a href=\"http://mykehurley.net/blog/welcome-to-relay-fm\">Introduction
+  Blogpost</a><br></li>\r\n</ul></li>\r\n<li><a href=\"http://inthedarkwelive.tumblr.com/post/86926419108\">Overused
+  movie poster cliches</a><br></li>\r\n<li><a href=\"http://www.spiegel.de/netzwelt/gadgets/5g-eu-kooperiert-mit-suedkorea-a-975468.html\">Südkorea
+  plant 5G</a><br></li>\r\n<li><a href=\"http://imgur.com/J6fAgSn\">FizzBuzz in Vim</a><br></li>\r\n<li><a
+  href=\"http://limetext.org\">Limetext: yet another editor</a><br></li>\r\n<li><a
+  href=\"https://netzpolitik.org/2014/taxi-konkurrent-uber-in-berlin-verboten\">Uber
+  verboten in Berlin</a><br>\r\n\r\n<ul>\r\n<li><a href=\"http://www.golem.de/news/mitfahrdienst-auf-neuen-wegen-uber-will-eigenen-lieferservice-aufbauen-1408-108712.html\">Lieferdienst:
+  Cornerstore</a><br></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<p class=\"erato-range\"><a
+  data-range=\"770,1988\" name=\"770,1988\"></a></p>\r\n\r\n<h2>Mac Maniacs <code>00:32:17</code></h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"https://overcast.fm\">Overcast.fm</a>  <br>\r\n\r\n<ul>\r\n<li><a href=\"http://2014.eurucamp.org/podcast\">Camp
+  Compressor Podcast vom Eurucamp 2014</a><br></li>\r\n</ul></li>\r\n<li><a href=\"http://www.loopinsight.com/2014/06/27/apple-stops-development-of-aperture\">Bye
+  Bye Aperture</a><br>\r\n\r\n<ul>\r\n<li><a href=\"http://landing.adobe.com/dam/downloads/whitepapers/54511.en.switch-from-aperture-to-lightroom.pdf\">Der
+  ultimative Aperture -&gt; Lightroom Guide</a><br></li>\r\n<li><a href=\"http://www.darktable.org/\">DarkTable</a><br></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<p
+  class=\"erato-range\"><a data-range=\"1220,2919\" name=\"1220,2919\"></a></p>\r\n\r\n<h2>Ruby
+  Relics <code>00:48:02</code></h2>\r\n\r\n<ul>\r\n<li><a href=\"https://gorails.com/\">Neue
+  Rails Screencasts</a>  <br>\r\n\r\n<ul>\r\n<li><a href=\"http://www.rubytapas.com\">Ruby
+  Tapas</a><br></li>\r\n<li><a href=\"http://peertopeer.io\">Peer To Peer</a><br></li>\r\n<li><a
+  href=\"https://sysadmincasts.com\">Sysadmin Casts</a><br></li>\r\n</ul></li>\r\n<li><a
+  href=\"https://groups.google.com/forum/#!topic/rack-devel/P8oOycVBaH0\">Rack, Change
+  of Maintainer &amp; Status</a><br></li>\r\n<li><a href=\"http://weblog.rubyonrails.org/2014/8/20/Rails-4-2-beta1/\">Rails
+  4.2 Beta1 mit ActiveJob und Adequate Record</a><br>\r\n\r\n<ul>\r\n<li><a href=\"http://lotusrb.org\">Lotus</a><br></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<p
+  class=\"erato-range\"><a data-range=\"1701,3701\" name=\"1701,3701\"></a></p>\r\n\r\n<h2>Tiny
+  Tinfoils <code>01:03:45</code></h2>\r\n\r\n<ul>\r\n<li><a href=\"https://emailselfdefense.fsf.org/de/\">FSF:
+  E-Mail-Selbstverteidigung</a>  <br></li>\r\n<li><a href=\"https://www.blocked.org.uk\">Welche
+  Seiten sind im United Kingdom eigentlich geblockt?</a><br></li>\r\n<li><a href=\"http://www.bbc.com/news/technology-28440067\">Die
+  meisten Briten schalten den Porn Filter ab</a><br></li>\r\n</ul>\r\n\r\n<p class=\"erato-range\"><a
+  data-range=\"2002,4700\" name=\"2002,4700\"></a></p>\r\n\r\n<h2>JavaScript Jargon
+  <code>01:18:05</code></h2>\r\n\r\n<ul>\r\n<li><a href=\"https://medium.com/code-adventures/farewell-node-js-4ba9e7f3e52b\">TJ
+  Holowaychuk hat die Node.js Community verlassen</a>  <br>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://zef.me/6191/the-march-towards-go\">The March towards Go</a><br></li>\r\n<li><a
+  href=\"http://www.quora.com/TJ-Holowaychuk-1/How-is-TJ-Holowaychuk-so-insanely-productive\">Ist
+  TJ überhaupt eine Person?</a><br></li>\r\n</ul></li>\r\n<li><a href=\"https://medium.com/cool-code-pal\">Ihr
+  kennt alle Jenn Schiffer nicht?!</a><br>\r\n\r\n<ul>\r\n<li><a href=\"https://www.youtube.com/watch?v=pj4U_W0OFoE\">Jenn
+  Schiffer: What&#39;s the Harm In Sorting: Sanitizing Inputs For More Optimized JS</a><br></li>\r\n<li><a
+  href=\"https://twitter.com/jennschiffer\">@jennschiffer</a><br></li>\r\n<li><a href=\"http://www.reddit.com/r/SteamReviews\">Subreddit
+  für Steam Reviews</a><br></li>\r\n</ul></li>\r\n</ul>\r\n\r\n<p class=\"erato-range\"><a
+  data-range=\"2700,5563\" name=\"2700,5563\"></a></p>\r\n\r\n<h2>Gaming Galore <code>01:27:51</code></h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://www.giantbomb.com/articles/what-happens-when-a-developer-catches-you-pirating/1100-4952/\">Anti-Piracy
+  in Skullgirls</a>  <br></li>\r\n</ul>\r\n\r\n<p class=\"erato-range\"><a data-range=\"2865,6155\"
+  name=\"2865,6155\"></a></p>\r\n\r\n<h2>Cologne ChitChat &amp; Berlin Babble <code>01:30:48</code></h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://programm.froscon.de\">Programm der Froscon 9 released</a>  <br>\r\n\r\n<ul>\r\n<li><a
+  href=\"https://ruby.froscon.org/\">RedFrogConf</a><br></li>\r\n</ul></li>\r\n<li><a
+  href=\"https://www.facebook.com/coderdojocgn\">CoderDojo</a><br>\r\n\r\n<ul>\r\n<li><a
+  href=\"https://c9.io/\">Cloud9</a><br></li>\r\n<li><a href=\"https://github.com/EinLama/coder-dojo-game\">Github
+  Repo zum Spiel</a><br></li>\r\n</ul></li>\r\n<li><a href=\"http://2014.eurucamp.org\">eurucamp
+  Review</a><br></li>\r\n<li><a href=\"http://2014.railscamp.de\">RailsCamp 2014</a><br></li>\r\n</ul>\r\n\r\n<p
+  class=\"erato-range\"><a data-range=\"3292,7529\" name=\"3292,7529\"></a></p>\r\n\r\n<h2>Was
+  hast du gelesen/gehört/gesehen/gezockt? <code>01:47:08</code></h2>\r\n\r\n<ul>\r\n<li><a
+  href=\"http://www.confreaks.com/videos/3393-railsconf-closing-keynote\">Railsconf
+  2014 Abschluss Keynote von Aaron Patterson</a>  <br></li>\r\n<li><a href=\"http://gameaboutsquares.com\">Game
+  about Squares</a><br></li>\r\n<li><a href=\"http://www.amazon.de/Watchmen-Alan-Moore/dp/386607607X/ref=sr_1_2?ie=UTF8&amp;qid=1408560761&amp;sr=8-2&amp;keywords=the+watchmen+comic\">Watchmen
+  Graphic Novel</a><br></li>\r\n<li><a href=\"https://laracasts.com\">Laracasts</a><br></li>\r\n<li><a
+  href=\"http://de.wikipedia.org/wiki/Conways_Spiel_des_Lebens\">Conways Spiel des
+  Lebens in CLISP</a><br></li>\r\n<li><a href=\"http://www.kopterforum.de/gallery/album/717-f550-aufbau-kgz/\">Klaus
+  bastelt einen Hexacopter</a><br>\r\n\r\n<ul>\r\n<li><a href=\"http://www.dji.com/product/flame-wheel-arf\">DJI
+  FlameWheel F550</a><br></li>\r\n<li><a href=\"http://www.frsky-rc.com/product/pro.php?pro_id=113\">FrSky
+  Taranis X9</a> mit <a href=\"http://www.open-tx.org\">OpenTX</a><br></li>\r\n</ul></li>\r\n<li><a
+  href=\"http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers\">The
+  Guide to Implementing 2D Platformers</a><br></li>\r\n</ul>\r\n\r\n<p class=\"erato-range\"><a
+  data-range=\"4239,8619\" name=\"4239,8619\"></a></p>\r\n\r\n<h2>Metatalk <code>02:07:09</code></h2>\r\n\r\n<ul>\r\n<li>Neue
+  Panelisten  <br>\r\n\r\n<ul>\r\n<li><a href=\"https://twitter.com/railsbros_dirk\">Dirk</a><br></li>\r\n<li><a
+  href=\"https://twitter.com/bascht\">Bascht</a><br></li>\r\n</ul></li>\r\n</ul>"
+chapters:
+- !ruby/struct:Chapter
+  start: '00:00:00'
+  title: Intro
+- !ruby/struct:Chapter
+  start: '00:00:52'
+  title: Wie geht's uns denn heute?
+- !ruby/struct:Chapter
+  start: '00:03:02'
+  title: Favorite News
+- !ruby/struct:Chapter
+  start: '00:32:17'
+  title: Mac Maniacs
+- !ruby/struct:Chapter
+  start: '00:48:02'
+  title: Ruby Relics
+- !ruby/struct:Chapter
+  start: '01:03:45'
+  title: Tiny Tinfoils
+- !ruby/struct:Chapter
+  start: '01:18:05'
+  title: JavaScript Jargon
+- !ruby/struct:Chapter
+  start: '01:27:51'
+  title: Gaming Galore
+- !ruby/struct:Chapter
+  start: '01:30:48'
+  title: Cologne ChitChat &amp; Berlin Babble
+- !ruby/struct:Chapter
+  start: '01:47:08'
+  title: Was hast du gelesen/gehört/gesehen/gezockt?
+- !ruby/struct:Chapter
+  start: '02:07:09'
+  title: Metatalk
